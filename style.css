@@ -1,3 +1,10 @@
 body {
+  background-color: #f4ffff;
   font-family: sans-serif;
+}
+h1 {
+  font-family: 'Rancho', sans-serif;
+  font-size: 10em;
+  text-align: center;
+  color: #ff508e;
 }
