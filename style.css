@@ -1,10 +1,164 @@
 body {
-  background-color: #f4ffff;
-  font-family: sans-serif;
+  background-color: rgb(0, 148, 102);
+  font-family: 'adonis-web', serif;
+  color: #fff;
+  line-height: 1.5;
 }
 h1 {
-  font-family: 'Rancho', sans-serif;
-  font-size: 10em;
+  font-family: 'rift-soft', sans-serif;
+  font-size: 4em;
+  font-weight: 300;
+  letter-spacing: 0.2rem;
+  margin: 0;
+  user-select: none;
+  cursor: default;
+}
+p {
+  font-size: 0.9em;
+  line-height: 2;
+  margin: 0;
+}
+footer {
+  font-family: 'rift-soft', sans-serif;
+  font-size: 1rem;
+  letter-spacing: 0.15em;
   text-align: center;
-  color: #ff508e;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+}
+  a:hover {
+    color: #ccc;
+  }
+
+#hemmlis-logo {
+  vertical-align: middle;
+  height: 1.25em;
+}
+
+.l-constrained {
+  max-width: 63em;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.l-wide {
+  background-color: #fff;
+}
+  .l-wide-content {
+    font-family: 'futura-pt', sans-serif;
+    font-weight: 400;
+    color: #444;
+    padding: 4rem;
+    max-width: 45rem;
+  }
+
+.l-grid {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: stretch;
+  justify-content: center;
+  margin-bottom: 4rem;
+}
+  .l-grid-item {
+    max-width: 16rem;
+    margin-bottom: 2rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+
+.l-columns {
+  column-count: 2;
+  column-gap: 4rem;
+}
+  .l-columns p {
+    margin-bottom: 2rem;
+  }
+
+.l-header {
+  padding: 4rem;
+  text-align: center;
+}
+
+.card {
+  border-radius: 0.75rem;
+  border: 1px solid;
+  padding: 2rem 1rem;
+  position: relative;
+  user-select: none;
+  cursor: default;
+  color: #000;
+  transition-property: all;
+  transition-duration: 100ms;
+  user-select: none;
+}
+  .card:hover, .card:active, .card:focus {
+    background-color: #fff;
+    border-color: #fff;
+    transform: scale(1.1);
+    z-index: 1;
+    outline: none;
+  }
+  .card-contents {
+    height: 14rem;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  .card-description {
+    text-align: center;
+    font-size: 1rem;
+    margin: 0;
+    padding: 0 2.5rem;
+    line-height: 1.6;
+  }
+  .card-number {
+    font-size: 1rem;
+    font-weight: 600;
+    font-family: 'rift-soft', sans-serif;
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 1rem;
+    border: 2px solid;
+    border-radius: 50%;
+    width: 1.5em;
+    height: 1.5em;
+    text-align: center;
+  }
+
+.img-soffa {
+  background-image: url('img/hemmlis-soffa.png');
+}
+.img-mobler-01 {
+  background-image: url('img/hemmlis-mobler-01.png');
+}
+.img-mobler-02 {
+  background-image: url('img/hemmlis-mobler-02.png');
+}
+.img-post {
+  background-image: url('img/hemmlis-post.png');
+}
+.img-rekond {
+  background-image: url('img/hemmlis-rekond.png');
+}
+.footer-image {
+  max-width: 6rem;
+  margin: 0 auto;
+  display: block;
+  padding-bottom: 4rem;
+  transform: rotate(-45deg);
+}
+
+@media (max-width: 650px) {
+  .card {
+    max-width: 100%;
+    width: 100%;
+  }
+  .l-columns {
+    column-count: 1;
+  }
 }
