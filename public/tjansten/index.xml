@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Erfarna problemlösare inom software engineering. on Hemmlis</title>
+    <link>http://www.hemmlis.se/tjansten/index.xml</link>
+    <description>Recent content in Erfarna problemlösare inom software engineering. on Hemmlis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sv</language>
+    <lastBuildDate>Tue, 21 Feb 2017 12:25:30 +0100</lastBuildDate>
+    <atom:link href="http://www.hemmlis.se/tjansten/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>I skärningen mellan software &amp; test engineering.</title>
+      <link>http://www.hemmlis.se/tjansten/mellansoftwareochtest/</link>
+      <pubDate>Wed, 22 Feb 2017 17:03:55 +0100</pubDate>
+      
+      <guid>http://www.hemmlis.se/tjansten/mellansoftwareochtest/</guid>
+      <description>&lt;p&gt;När Neodev grundades var det med fokus på att vara bäst inom tvärsnittet mellan mjukvaruutveckling och test. Även om vi idag har breddat oss är kompetensen inom testramverksutveckling, testautomatisering, TDD och testledning fortfarande en av våra absoluta styrkor.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Medarbetarägt i Malmö sedan 2013.</title>
+      <link>http://www.hemmlis.se/tjansten/medarbetaragt/</link>
+      <pubDate>Thu, 23 Feb 2017 10:07:29 +0100</pubDate>
+      
+      <guid>http://www.hemmlis.se/tjansten/medarbetaragt/</guid>
+      <description>&lt;p&gt;Vi har ett lokalt kundfokus och erbjuder riktigt kompetenta och drivna konsulter i Öresundsregionen. Vårt mål är att ha nöjda kunder som vet att vårt namn borgar för kvalitet och kompetens.&lt;/p&gt;
+
+&lt;p&gt;Sedan Neodev startades har vi sett till att enbart rekrytera de mest kompetenta och drivna ingenjörerna. Vi kan därför garantera en kvalitet och kompetens som är svår att matcha.&lt;/p&gt;
+
+&lt;p&gt;Neodev är medarbetarägt. Det betyder att alla våra konsulter representerar Neodev inte bara i sitt upprag, utan även som delägare av företaget.&lt;/p&gt;
+
+&lt;p&gt;Vi är ett företag som verkar och tar beslut efter våra grundläggande värderingar: öppenhet, ärlighet och ödmjukhet.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

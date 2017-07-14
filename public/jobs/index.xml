@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jobba hos oss. on Hemmlis</title>
+    <link>http://www.hemmlis.se/jobs/index.xml</link>
+    <description>Recent content in Jobba hos oss. on Hemmlis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sv</language>
+    <lastBuildDate>Tue, 21 Feb 2017 12:25:30 +0100</lastBuildDate>
+    <atom:link href="http://www.hemmlis.se/jobs/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Konsultsäljare</title>
+      <link>http://www.hemmlis.se/jobs/konsultsaljare/</link>
+      <pubDate>Thu, 04 May 2017 17:25:35 +0200</pubDate>
+      
+      <guid>http://www.hemmlis.se/jobs/konsultsaljare/</guid>
+      <description>&lt;p&gt;Du är en engagerad och driven person med erfarenhet från konsultbranschen och intresse av sälj och rekrytering. Som person är du flexibel, positiv, öppen och arbetar enligt våra värderingar. Du kommer ha en viktig roll i vårt arbete med att utveckla och expandera Neodev mot våra framtidsmål.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>iOS-utvecklare</title>
+      <link>http://www.hemmlis.se/jobs/ios-utvecklare/</link>
+      <pubDate>Tue, 07 Mar 2017 09:59:56 +0100</pubDate>
+      
+      <guid>http://www.hemmlis.se/jobs/ios-utvecklare/</guid>
+      <description>&lt;p&gt;Du är en engagerad mjukvaruutvecklare som gillar nya utmaningar. Du håller dig uppdaterad om vad som händer i iOS och dess utvecklingsverktyg. Som person är du flexibel, positiv, öppen, vågar säga vad du tycker och gillar att arbeta i grupp. Du har en djup kunskap om Cocoa designmönster och open source-bibliotek och förstår när du inte behöver återuppfinna hjulet. Diskussioner om MVC, storyboards och Cocoapods ger dig en varm känsla i magen.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Python-utvecklare</title>
+      <link>http://www.hemmlis.se/jobs/pythonutvecklare/</link>
+      <pubDate>Wed, 01 Mar 2017 14:17:57 +0100</pubDate>
+      
+      <guid>http://www.hemmlis.se/jobs/pythonutvecklare/</guid>
+      <description>&lt;p&gt;Du är en engagerad mjukvaruutvecklare som gillar nya utmaningar. Du håller dig uppdaterad om vad som händer i moderna plattformar och utvecklingsramverk. Som person är du flexibel, positiv, öppen, vågar säga vad du tycker och gillar att arbeta i grupp. Du drivs av att lösa problem och gillar att komma med förbättringsförslag.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Webbutvecklare</title>
+      <link>http://www.hemmlis.se/jobs/webutvecklare/</link>
+      <pubDate>Mon, 20 Feb 2017 11:28:30 +0100</pubDate>
+      
+      <guid>http://www.hemmlis.se/jobs/webutvecklare/</guid>
+      <description>&lt;p&gt;Du är en engagerad webbutvecklare som gillar nya utmaningar. Du håller dig uppdaterad om vad som händer i moderna plattformar och utvecklingsramverk. Som person är du flexibel, positiv, öppen, vågar säga vad du tycker och gillar att arbeta i grupp. Du drivs av att lösa problem och gillar att komma med förbättringsförslag.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

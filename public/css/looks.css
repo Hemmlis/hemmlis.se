@@ -1,0 +1,371 @@
+/*
+ * This document contains the non-layout styles
+ * for the site using a BEM-like syntax
+ *
+ * http://getbem.com/naming/
+ */
+
+
+/* Set some defaults */
+body {
+  background-color: #fff;
+  color: #2c2c2c;
+}
+
+/* Set the fonts */
+body, .headline {
+  font-family: 'Cormorant Infant', serif;
+}
+h2, .featured-list li::before {
+  font-family: 'Cormorant Garamond', serif;
+}
+.complementary, .text-variant, .complementary h2, .button {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+/* Typography */
+h2 {
+  font-weight: 700;
+  letter-spacing: -0.04em;
+}
+p {
+  font-weight: 300;
+}
+main a {
+  color: #00C67B;
+  text-decoration: none;
+  position: relative;
+  outline: none;
+}
+  main a::before {
+    content: "";
+    z-index: -1;
+    position: absolute;
+    left: -0.2em;
+    right: -0.2em;
+    top: -0.3em;
+    bottom: -0.3em;
+    border-bottom: 1px none;
+    background-color: #f1fffa;
+  }
+  main a:hover, main a:focus {
+    color: #0067a5;
+    border: none;
+  }
+  main a:hover::before {
+    background-color: #d9f1ff;
+  }
+  main a:focus::before {
+    border-bottom: 1px solid;
+    border-top: 1px solid;
+    opacity: 0.5;
+    background-color: #d9f1ff;
+  }
+.text-variant {
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+}
+  .text-variant--solo {
+    font-weight: 300;
+    letter-spacing: 0.1em;
+    text-align: center;
+    word-spacing: 2em;
+  }
+.keep-together {
+  word-spacing: normal;
+}
+.text-variant-two {
+  font-style: italic;
+}
+.text-tighten--center {
+  max-width: 10em !important;
+}
+.text-tighten--right {
+  padding-left: 1em;
+}
+.headline {
+  font-weight: 500;
+  line-height: 2.3rem;
+  font-size: 1.6em;
+}
+
+/* Menu styling */
+header[role="banner"] h1 {
+  transition-property: all;
+  transition-duration: 75ms;
+}
+header[role="banner"] h1 a:focus {
+  border-bottom: 2px solid #ccc;
+}
+header[role="banner"] h1 a:hover {
+  border: none;
+}
+header[role="banner"] h1 a:hover {
+  transform: scale(1.05);
+}
+header[role="banner"] h1 a:active {
+  border: none;
+}
+header[role="banner"] nav a {
+  border-top: 0.3em solid transparent;
+  outline: none;
+  transition-property: all;
+  transition-duration: 75ms;
+}
+header[role="banner"] nav a:hover, header[role="banner"] nav a:focus {
+  color: #0069b4;
+  border-top: 0.4em solid;
+}
+header[role="banner"] nav a:focus {
+  border-bottom: 1px solid;
+}
+header[role="banner"] nav a:active, header[role="banner"] nav [aria-current=page] a {
+  color: #aaa;
+  border-top: 0.4em solid #eee;
+}
+header[role="banner"] nav a:active {
+  border-bottom: none;
+}
+main [itemprop="address"] li {
+  border-bottom: 1px solid #eee;
+  padding: 1rem 4em;
+  max-width: 20em;
+  margin: 0 auto;
+}
+  main [itemprop="address"] li:last-child {
+    border-bottom: none;
+  }
+footer [itemprop="address"] {
+  font-size: 1em;
+  text-align: center;
+  line-height: 1.5rem;
+  color: #aaa;
+}
+section > footer {
+  padding-top: 6rem;
+  margin-left: -3em;
+  margin-right: -3em;
+  border-top: 1px solid #f1f5f7;
+  padding-bottom: 6rem;
+}
+
+
+/* Buttons */
+.button {
+  background-color: #f6f6f6;
+  color: #333;
+  border-radius: 0.75rem;
+  padding: 1rem 2rem;
+  box-shadow: 0 0.1rem 0 rgba(0,0,0,0.2);
+  transition-property: all;
+  transition-duration: 75ms;
+}
+  .button:hover, .button:focus, .button--em {
+    background: #0067a5;
+    color: #fff;
+    box-shadow: 0 0.1em 0 #014a7d
+  }
+  .button:active {
+    background: #015182;
+    box-shadow: 0 0.1em 0.4em #253c4c inset;
+    transform: scale(0.95);
+  }
+  .button--em {
+    font-size: 1.5em;
+    width: 10em;
+    letter-spacing: 0.05em;
+  }
+    .button--em:hover {
+      background-color: #1b79b1;
+    }
+  .button-container {
+    text-align: center;
+  }
+  .button--standalone {
+    margin-bottom: 2rem;
+  }
+
+/* Styling of complementary blocks */
+.complementary {
+  position: relative;
+}
+  .complementary h2, .text-header {
+    font-weight: 400;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    max-width: 12em;
+  }
+  .complementary--blue, .feature-index-menu.complementary--blue:hover {
+    background-color: #0067A5;
+    color: #fff;
+  }
+  .complementary--green, .feature-index-menu.complementary--green:hover {
+    background-color: #74F0C1;
+    color: #00432A;
+  }
+  .complementary--red, .feature-index-menu.complementary--red:hover {
+    background-color: #FF7FA4;
+    color: #3E0012;
+  }
+  .complementary::before,
+  .complementary::after {
+    display: block;
+    background-color: #fff;
+    position: absolute;
+    content: " ";
+    left: -1em;
+    right: -1em;
+    height: 1.5rem;
+  }
+  .complementary::before {
+    top: -0.75rem;
+    transform: rotate(0.5deg);
+  }
+  .complementary::after {
+    bottom: -0.75rem;
+    transform: rotate(-0.5deg);
+  }
+  .complementary a {
+    color: inherit;
+    font-weight: bold;
+  }
+    .complementary a:hover {
+      color: inherit
+    }
+    .complementary a::before {
+      display: none;
+    }
+  .complementary [itemprop=address] li {
+    border-bottom: none;
+    text-align: left;
+    padding: 0;
+    font-size: 1.3em
+  }
+
+/* Feature list */
+.featured-list ol {
+  letter-spacing: 0.07em;
+  counter-reset: alpha-counter;
+  list-style-type: none;
+  max-width: 25em;
+}
+  .featured-list li::before {
+    content: counter(alpha-counter, lower-alpha);
+    counter-increment: alpha-counter;
+    text-transform: lowercase;
+    position: absolute;
+    left: -3.1em;
+    font-size: 1.1em;
+    border: 1px solid;
+    border-radius: 50%;
+    height: 2em;
+    width: 2em;
+    text-align: center;
+  }
+  .featured-list li {
+    position: relative;
+  }
+
+.feature-index-menu {
+  margin-bottom: 2rem;
+  transition-property: all;
+  transition-duration: 75ms;
+}
+  main a.feature-index-menu::before,
+  main a.feature-index-menu:focus::before,
+  main a.feature-index-menu:hover::before,
+  main a.feature-index-menu:active::before {
+    z-index: 1;
+    background-color: #fff;
+    opacity: 1;
+    border: none;
+  }
+
+  .feature-index-menu p {
+    margin-bottom: 0;
+  }
+  .feature-index-menu h2 {
+    padding-top: 0;
+    max-width: 100%;
+  }
+  .feature-index-menu-label {
+    font-size: 1em;
+    opacity: 0.25;
+    padding-top: 1rem;
+    transition-property: all;
+    transition-duration: 150ms;
+  }
+    .feature-index-menu:focus {
+      transform: scale(1.01);
+      background: #2c2c2c;
+      color: #fff;
+    }
+    .feature-index-menu:hover {
+      transform: scale(1.01);
+    }
+    .feature-index-menu:active {
+      transform: scale(1.00);
+    }
+    .feature-index-menu:hover .feature-index-menu-label {
+      opacity: 1;
+    }
+
+
+
+.list {
+  list-style-type: none;
+  padding: 0;
+}
+  .list li {
+    padding: 0.5rem 0;
+    letter-spacing: 0.05em;
+    font-weight: 300;
+    position: relative;
+  }
+  .list li::before {
+    content: "\2713";
+    color: rgba(255,255,255,0.3);
+    position: absolute;
+    top: 0.5rem;
+    left: -2em;
+  }
+
+.menubar-distributed {
+  justify-content: space-between;
+}
+footer .menubar-distributed {
+  margin-top: 4rem;
+  color: #ccc;
+}
+  footer .menubar-distributed li {
+    margin-bottom: 1rem;
+  }
+  footer .menubar-distributed a {
+    color: #eee;
+    text-decoration: none;
+    /*border: 1px solid;*/
+    padding: 0.5rem 3em;
+  }
+  footer .menubar-distributed a:hover {
+    color: #2c2c2c;
+  }
+
+
+/* Utilities */
+.nostyle {
+  font-weight: 300;
+}
+.nostyle::before {
+  display: none;
+}
+.hide {
+  display: none;
+}
+.space {
+  margin-left: 0.1em;
+  margin-right: 0.1em;
+}
+  .bind::before {
+    content: '–';
+    margin-right: 0.1em;
+  }

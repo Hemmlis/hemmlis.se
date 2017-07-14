@@ -1,0 +1,28 @@
+languageCode = "sv"
+title = "Hemmlis"
+baseurl = "http://www.hemmlis.se/"
+theme = "hemmlis"
+
+# [[menu.main]]
+# name = "Hur funkar det?"
+# identifier = "hur"
+# url = "/hur/"
+# weight = 2
+
+[[menu.main]]
+name = "Pilotprojektet"
+identifier = "piloten"
+url = "/piloten/"
+weight = 1
+
+[[menu.main]]
+name = "Om Hemmlis"
+identifier = "om"
+url = "/om/"
+weight = 3
+
+[[menu.main]]
+name = "Kontakt"
+identifier = "kontakt"
+url = "/kontakt/"
+weight = 4

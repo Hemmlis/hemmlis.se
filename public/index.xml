@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hemmlis</title>
+    <link>http://www.hemmlis.se/index.xml</link>
+    <description>Recent content on Hemmlis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sv</language>
+    <lastBuildDate>Thu, 02 Mar 2017 11:15:02 +0100</lastBuildDate>
+    <atom:link href="http://www.hemmlis.se/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>mobilapp</title>
+      <link>http://www.hemmlis.se/projects/mobilapp/</link>
+      <pubDate>Thu, 02 Mar 2017 11:15:02 +0100</pubDate>
+      
+      <guid>http://www.hemmlis.se/projects/mobilapp/</guid>
+      <description>&lt;p&gt;Produktutveckling i ett startup-bolag med fokus på personsäkerhet.&lt;/p&gt;
+
+&lt;p&gt;Design och utveckling av iOS-app skriven i Swift med stort fokus på användarvänlighet samt uppkoppling mot MongoDB-databas för realtidsuppdatering av användardata.&lt;/p&gt;
+
+&lt;p&gt;Agilt utvecklingsteam bestående av både front-end- och back-end-utvecklare i nära samarbete.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>abc</title>
+      <link>http://www.hemmlis.se/modellen/abc/</link>
+      <pubDate>Thu, 23 Feb 2017 16:00:42 +0100</pubDate>
+      
+      <guid>http://www.hemmlis.se/modellen/abc/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;Neodev är medarbetarägt.&lt;/li&gt;
+&lt;li&gt;Du får en fast andel av dina intäkter.&lt;/li&gt;
+&lt;li&gt;Du väljer själv fördelningen mellan lön, pension, utbildning och andra resurser.&lt;/li&gt;
+&lt;li&gt;Du väljer själv hur mycket du vill jobba och vilka uppdrag du tar.&lt;/li&gt;
+&lt;li&gt;Neodev ger dig trygghet när du inte är ute på uppdrag.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>I skärningen mellan software &amp; test engineering.</title>
+      <link>http://www.hemmlis.se/tjansten/mellansoftwareochtest/</link>
+      <pubDate>Wed, 22 Feb 2017 17:03:55 +0100</pubDate>
+      
+      <guid>http://www.hemmlis.se/tjansten/mellansoftwareochtest/</guid>
+      <description>&lt;p&gt;När Neodev grundades var det med fokus på att vara bäst inom tvärsnittet mellan mjukvaruutveckling och test. Även om vi idag har breddat oss är kompetensen inom testramverksutveckling, testautomatisering, TDD och testledning fortfarande en av våra absoluta styrkor.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>telecom</title>
+      <link>http://www.hemmlis.se/projects/telecom/</link>
+      <pubDate>Thu, 02 Mar 2017 11:16:13 +0100</pubDate>
+      
+      <guid>http://www.hemmlis.se/projects/telecom/</guid>
+      <description>&lt;p&gt;Utveckling och support av telekommjukvara skriven i C. Prototyphantering, testning och felsökning av den senaste mobila telefonteknologin. Drivande av den agila arbetsprocessen. Ansvar för processhanteringen av inkommande fel för olika prototyper samt underhåll och kontinuerlig uppdatering av mjukvaruversioner för kundtestning.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>En modell som fungerat i 17 år.</title>
+      <link>http://www.hemmlis.se/modellen/fungerat/</link>
+      <pubDate>Thu, 23 Feb 2017 16:42:34 +0100</pubDate>
+      
+      <guid>http://www.hemmlis.se/modellen/fungerat/</guid>
+      <description>&lt;p&gt;Vi på Neodev skapar det bolag som vi själva vill arbeta i. Genom stor valfrihet vill vi få alla att trivas och utvecklas. Efter att ha provat vår modell är det få som vill byta till en vanlig anställning igen.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Medarbetarägt i Malmö sedan 2013.</title>
+      <link>http://www.hemmlis.se/tjansten/medarbetaragt/</link>
+      <pubDate>Thu, 23 Feb 2017 10:07:29 +0100</pubDate>
+      
+      <guid>http://www.hemmlis.se/tjansten/medarbetaragt/</guid>
+      <description>&lt;p&gt;Vi har ett lokalt kundfokus och erbjuder riktigt kompetenta och drivna konsulter i Öresundsregionen. Vårt mål är att ha nöjda kunder som vet att vårt namn borgar för kvalitet och kompetens.&lt;/p&gt;
+
+&lt;p&gt;Sedan Neodev startades har vi sett till att enbart rekrytera de mest kompetenta och drivna ingenjörerna. Vi kan därför garantera en kvalitet och kompetens som är svår att matcha.&lt;/p&gt;
+
+&lt;p&gt;Neodev är medarbetarägt. Det betyder att alla våra konsulter representerar Neodev inte bara i sitt upprag, utan även som delägare av företaget.&lt;/p&gt;
+
+&lt;p&gt;Vi är ett företag som verkar och tar beslut efter våra grundläggande värderingar: öppenhet, ärlighet och ödmjukhet.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Automotive 02</title>
+      <link>http://www.hemmlis.se/projects/automotive-02/</link>
+      <pubDate>Tue, 07 Mar 2017 15:04:02 +0100</pubDate>
+      
+      <guid>http://www.hemmlis.se/projects/automotive-02/</guid>
+      <description>&lt;p&gt;Design och implementation i C# av testriggkontroll. Testriggen används för mekanisk prototypvalidering och end of line-test inom fordonsindustrin.  Projektetet var ett helhetsåtagande från use case-analys till driftsättning. I uppdraget ingick även uppgradering till, och validering av, ny styrelektronik.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Engagera dig i företaget. Eller inte.</title>
+      <link>http://www.hemmlis.se/modellen/engagera/</link>
+      <pubDate>Thu, 23 Feb 2017 16:45:15 +0100</pubDate>
+      
+      <guid>http://www.hemmlis.se/modellen/engagera/</guid>
+      <description>&lt;p&gt;Vi lever efter våra egna värderingar, varav öppenhet är en. Därför finns i princip all intern information öppen för alla. I grunden litar vi på varandra och vi ser det som en förutsättning att alla har tillgång till all information som behövs för att kunna på bästa sätt hjälpa till att påverka företaget i den riktning som är bäst för företaget - stor delaktighet!&lt;/p&gt;
+
+&lt;p&gt;Vi vill att alla som jobbar på Neodev ska känna att det är deras företag. Därför erbjuds alla delägarskap. Att bolaget är helt medarbetarägt innebär att vi slipper externa ägarintressen och på så vis får både större trygghet och större valfrihet att själva bestämma över vår tillvaro.&lt;/p&gt;
+
+&lt;p&gt;Hos oss är det viktigt att alla får chansen att påverka, därför träffas vi ofta både formellt och informellt för att ägna oss åt allt från affärsutveckling till studiebesök i Silicon Valley eller spelkvällar på kontoret. Man bestämmer själv till vilken grad man vill engagera sig i det interna arbetet, men alla har full insyn i bolaget.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>medtech</title>
+      <link>http://www.hemmlis.se/projects/medtech/</link>
+      <pubDate>Thu, 02 Mar 2017 11:16:04 +0100</pubDate>
+      
+      <guid>http://www.hemmlis.se/projects/medtech/</guid>
+      <description>&lt;p&gt;Utveckla drivrutiner för styrning av motorer och sensorer i ett medteksystem. Programmering sker i C och miljön är Linux. Projektet drivs agilt och man har möjlighet att påverka allt från hårdvara till användargränssnitt.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>automotive</title>
+      <link>http://www.hemmlis.se/projects/automotive/</link>
+      <pubDate>Thu, 02 Mar 2017 11:16:21 +0100</pubDate>
+      
+      <guid>http://www.hemmlis.se/projects/automotive/</guid>
+      <description>&lt;p&gt;Design och implementering av automatiserade testfall i Vector CANoe, för test av elektroniska styrenheter i HIL-riggar. Arbetet bedrivs i agila projekt med tätt samarbete mellan olika utvecklings- och testavdelningar.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Project lead</title>
+      <link>http://www.hemmlis.se/projects/project-lead/</link>
+      <pubDate>Tue, 07 Mar 2017 15:02:30 +0100</pubDate>
+      
+      <guid>http://www.hemmlis.se/projects/project-lead/</guid>
+      <description>&lt;p&gt;Scrum master i ett mjukvaruutvecklingsteam med både utvecklare och testare inom inbyggda system. Involverad i omvandlingen av R&amp;amp;D organisationen, från traditionell vattenfallsprocess till agila metoder och processer.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>medtech test</title>
+      <link>http://www.hemmlis.se/projects/medtech-test/</link>
+      <pubDate>Thu, 02 Mar 2017 11:16:30 +0100</pubDate>
+      
+      <guid>http://www.hemmlis.se/projects/medtech-test/</guid>
+      <description>&lt;p&gt;Design och implementation av testramverk i Python. Simulering av noder i form av intelligenta mock-ups samt avkodning och loggning av CAN-signaler under systemtest. Utveckling av TCP-interface för skriptning av automatiska knapptryckningar i .NET-användargränssnitt.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Konsultsäljare</title>
+      <link>http://www.hemmlis.se/jobs/konsultsaljare/</link>
+      <pubDate>Thu, 04 May 2017 17:25:35 +0200</pubDate>
+      
+      <guid>http://www.hemmlis.se/jobs/konsultsaljare/</guid>
+      <description>&lt;p&gt;Du är en engagerad och driven person med erfarenhet från konsultbranschen och intresse av sälj och rekrytering. Som person är du flexibel, positiv, öppen och arbetar enligt våra värderingar. Du kommer ha en viktig roll i vårt arbete med att utveckla och expandera Neodev mot våra framtidsmål.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>iOS-utvecklare</title>
+      <link>http://www.hemmlis.se/jobs/ios-utvecklare/</link>
+      <pubDate>Tue, 07 Mar 2017 09:59:56 +0100</pubDate>
+      
+      <guid>http://www.hemmlis.se/jobs/ios-utvecklare/</guid>
+      <description>&lt;p&gt;Du är en engagerad mjukvaruutvecklare som gillar nya utmaningar. Du håller dig uppdaterad om vad som händer i iOS och dess utvecklingsverktyg. Som person är du flexibel, positiv, öppen, vågar säga vad du tycker och gillar att arbeta i grupp. Du har en djup kunskap om Cocoa designmönster och open source-bibliotek och förstår när du inte behöver återuppfinna hjulet. Diskussioner om MVC, storyboards och Cocoapods ger dig en varm känsla i magen.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Python-utvecklare</title>
+      <link>http://www.hemmlis.se/jobs/pythonutvecklare/</link>
+      <pubDate>Wed, 01 Mar 2017 14:17:57 +0100</pubDate>
+      
+      <guid>http://www.hemmlis.se/jobs/pythonutvecklare/</guid>
+      <description>&lt;p&gt;Du är en engagerad mjukvaruutvecklare som gillar nya utmaningar. Du håller dig uppdaterad om vad som händer i moderna plattformar och utvecklingsramverk. Som person är du flexibel, positiv, öppen, vågar säga vad du tycker och gillar att arbeta i grupp. Du drivs av att lösa problem och gillar att komma med förbättringsförslag.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
