@@ -2,6 +2,7 @@ languageCode = "sv"
 title = "Hemmlis"
 baseurl = "http://www.hemmlis.se/"
 theme = "hemmlis"
+publishDir = "docs"
 
 # [[menu.main]]
 # name = "Hur funkar det?"

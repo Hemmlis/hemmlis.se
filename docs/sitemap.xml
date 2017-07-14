@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://www.hemmlis.se/kontakt/</loc>
+    <lastmod>2017-02-21T12:26:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.hemmlis.se/hur/</loc>
+    <lastmod>2017-02-21T12:25:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.hemmlis.se/om/</loc>
+    <lastmod>2017-02-21T12:25:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.hemmlis.se/piloten/</loc>
+    <lastmod>2017-02-21T12:25:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.hemmlis.se/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
