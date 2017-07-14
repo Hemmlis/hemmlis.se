@@ -276,7 +276,7 @@ a {
   height: 22rem;
   position: absolute;
   right: -9rem;
-  background-image: url(/img/hemmlis-ballong.png);
+  background-image: url('/img/hemmlis-ballong.png');
   bottom: -8rem;
   background-size: contain;
   background-repeat: no-repeat;
