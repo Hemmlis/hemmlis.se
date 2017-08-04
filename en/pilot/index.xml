@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The pilot project on Hemmlis</title>
+    <link>http://www.hemmlis.se/en/pilot/</link>
+    <description>Recent content in The pilot project on Hemmlis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 21 Feb 2017 12:25:30 +0100</lastBuildDate>
+    
+	<atom:link href="http://www.hemmlis.se/en/pilot/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Can I exchange a piece of furniture?</title>
+      <link>http://www.hemmlis.se/en/pilot/faq-substitution/</link>
+      <pubDate>Tue, 21 Feb 2017 12:25:30 +0100</pubDate>
+      
+      <guid>http://www.hemmlis.se/en/pilot/faq-substitution/</guid>
+      <description>We offer the collections as they are. If you would like to replace a piece of furniture you can contact us and we can check if we have something available. We can not guarantee the possibility of replacing furniture.</description>
+    </item>
+    
+    <item>
+      <title>How are the furniture delivered?</title>
+      <link>http://www.hemmlis.se/en/pilot/faq-delivery/</link>
+      <pubDate>Tue, 21 Feb 2017 12:25:30 +0100</pubDate>
+      
+      <guid>http://www.hemmlis.se/en/pilot/faq-delivery/</guid>
+      <description>We deliver and carry the furniture into your apartment at a time that we both agree to. Our goal is to deliver the furniture the same day that you get access to your room.</description>
+    </item>
+    
+    <item>
+      <title>How do I pay?</title>
+      <link>http://www.hemmlis.se/en/pilot/faq-payment/</link>
+      <pubDate>Tue, 21 Feb 2017 12:25:30 +0100</pubDate>
+      
+      <guid>http://www.hemmlis.se/en/pilot/faq-payment/</guid>
+      <description>Invoices are sent out monthly to your e-mail address and on the invoices all information you need to pay are written. If you should wish we can make one large invoice at the start of the semester so that you only need to do one payment.</description>
+    </item>
+    
+    <item>
+      <title>How long is the lease period?</title>
+      <link>http://www.hemmlis.se/en/pilot/faq-length/</link>
+      <pubDate>Tue, 21 Feb 2017 12:25:30 +0100</pubDate>
+      
+      <guid>http://www.hemmlis.se/en/pilot/faq-length/</guid>
+      <description>The lease period is for the entire semester, during the autumn semester that is until the middle/end of January (depending on program etc.) If you should wish to rent for a longer period you just need to tell us and we can make that happen. If you sign a contract for a longer period you can have a lower monthly fee.</description>
+    </item>
+    
+    <item>
+      <title>What happens if something breaks?</title>
+      <link>http://www.hemmlis.se/en/pilot/faq-breakage/</link>
+      <pubDate>Tue, 21 Feb 2017 12:25:30 +0100</pubDate>
+      
+      <guid>http://www.hemmlis.se/en/pilot/faq-breakage/</guid>
+      <description>If a piece of furniture breaks we come out and repair/replace it. If the damage is due to normal usage this will not cost you anything. See the rent contract for further details about this issue.</description>
+    </item>
+    
+    <item>
+      <title>What happens when my lease is up?</title>
+      <link>http://www.hemmlis.se/en/pilot/faq-ending/</link>
+      <pubDate>Tue, 21 Feb 2017 12:25:30 +0100</pubDate>
+      
+      <guid>http://www.hemmlis.se/en/pilot/faq-ending/</guid>
+      <description>We collect the furniture at the end of the lease period at a date agreed between us and you. We carry the furniture from your apartment without further costs, provided we get access.</description>
+    </item>
+    
+    <item>
+      <title>What is included?</title>
+      <link>http://www.hemmlis.se/en/pilot/faq-included/</link>
+      <pubDate>Tue, 21 Feb 2017 12:25:30 +0100</pubDate>
+      
+      <guid>http://www.hemmlis.se/en/pilot/faq-included/</guid>
+      <description>Our collections consists of 5-6 different pieces of furniture, meshed together to create a uniform design concept suitable for a complete student room around 15-20 square meters. All furniture will be rented out together.</description>
+    </item>
+    
+    <item>
+      <title>Who can rent the furniture?</title>
+      <link>http://www.hemmlis.se/en/pilot/faq-who/</link>
+      <pubDate>Tue, 21 Feb 2017 12:25:30 +0100</pubDate>
+      
+      <guid>http://www.hemmlis.se/en/pilot/faq-who/</guid>
+      <description>We are mainly targeting students with our collections which means adjusting our collections to the limited living area of 15-20 square meters. However, we want everybody to have the opportunity to try out our collections and would be happy to receive other requests.</description>
+    </item>
+    
+  </channel>
+</rss>
