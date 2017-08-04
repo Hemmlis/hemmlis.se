@@ -6,9 +6,9 @@
 
 
 body {
-  background-color: rgb(0, 148, 102);
+  background-color: #fff;
   font-family: 'adonis-web', 'Adonis', serif;
-  color: #fff;
+  color: #333;
   line-height: 1.5;
 }
 h1 {
@@ -20,31 +20,60 @@ h1 {
   user-select: none;
   cursor: default;
 }
-h2 {
-  color: rgb(0, 148, 102);
-  font-weight: 100;
-  font-size: 2rem;
+h2, .collection-description p {
+  font-weight: 600;
+  letter-spacing: -0.05em;
+  font-size: 2.6rem;
   text-align: center;
   margin: 0;
   margin-bottom: 2rem;
 }
 h3 {
+  font-family: 'futura-pt', 'Futura PT', sans-serif;
   margin: 0;
+  font-size: 1rem;
+  letter-spacing: 0.05em;
+  font-weight: 500;
   text-transform: uppercase;
-  background: #fff;
-  color: #009466;
-  padding: 0.7rem 1.4rem;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+}
+.feature-title {
+  font-size: 3rem;
+  margin-bottom: 0;
+}
+.feature-subtitle {
+  margin: 0;
+  font-family: 'adonis-web', 'Adonis', serif;
+  font-size: 2.5rem;
+  letter-spacing: -0.03em;
+  font-weight: 200;
+  text-transform: none;
   margin-bottom: 1rem;
 }
+
+.arrow-link {
+  font-family: 'futura-pt', 'Futura PT', sans-serif;
+  font-weight: 300;
+  letter-spacing: 0.02em;
+}
+.header-sub, .collection-includes ul, .address {
+  font-family: 'futura-pt', 'Futura PT', sans-serif;
+  font-weight: 400;
+  text-align: center;
+  margin-top: -2rem;
+  margin-bottom: 2rem;
+}
 p {
-  font-size: 0.9em;
-  line-height: 2;
+  font-size: 0.9rem;
+  line-height: 2.2;
   margin: 0;
+  margin-bottom: 1rem;
 }
 footer {
-  font-family: 'rift-soft', 'Rift', sans-serif;
-  font-size: 1rem;
-  letter-spacing: 0.15em;
+  font-family: 'futura-pt', 'Futura PT', sans-serif;
+  letter-spacing: 0.1em;
+  font-weight: 500;
   text-align: center;
   padding-top: 7rem;
   padding-bottom: 4rem;
@@ -64,9 +93,8 @@ a {
   }
   [role=menubar] > [role=menuitem] > a {
     font-family: 'futura-pt', 'Futura PT', sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 0.1em;
-    font-weight: 400;
+    letter-spacing: 0.07em;
+    font-weight: 500;
     padding: 1rem;
   }
   [role=menubar] > [role=menuitem] > a:hover {
@@ -88,6 +116,41 @@ a {
   padding: 1rem;
 }
 
+.l-divider {
+  margin-top: 3rem;
+  padding-top: 3rem;
+}
+
+.l-constrained-content {
+  max-width: 40rem;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.l-constrained-text p {
+  margin: 2em auto;
+  max-width: 30rem;
+}
+.l-constrained-header {
+  max-width: 20rem;
+  line-height: 1.2;
+}
+.l-article {
+  margin-bottom: 6rem;
+}
+
+.l-article-img {
+  float: left;
+  height: 20rem;
+  margin-right: 4rem;
+}
+.l-article-content {
+  text-align: left;
+}
+.l-article-content h2 {
+  text-align: left;
+}
+
 .l-center {
   text-align: center;
 }
@@ -103,7 +166,6 @@ a {
   }
 
 .l-container {
-  font-family: 'futura-pt', 'Futura PT', sans-serif;
   max-width: 44rem;
   margin: 0 auto;
   margin-bottom: 8rem;
@@ -121,16 +183,39 @@ a {
     margin-bottom: 2rem;
   }
   .l-grid-item {
-    max-width: 16rem;
-    margin-bottom: 2rem;
-    margin-left: 1rem;
-    margin-right: 1rem;
+    width: 15rem;
+    margin-bottom: 1rem;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
   }
   .l-grid-img {
     width: 5rem;
     height: auto;
     margin: 1rem;
   }
+  .l-grid-feature {
+    text-align: left;
+    width: 30rem;
+  }
+    .l-grid-feature h2 {
+      text-align: left;
+    }
+
+  .l-grid-images img {
+    width: 100%;
+  }
+  .l-grid-feature-image {
+    height: auto;
+    margin-right: 3rem;
+  }
+    .l-grid-feature-image img {
+      max-width: 100%;
+    }
+
+  .l-grid-feature-image-index {
+    width: 25rem;
+  }
+
 
 .l-columns {
   column-count: 2;
@@ -151,7 +236,7 @@ a {
   text-align: center;
 }
   .l-header a:hover {
-    color: #fff;
+    
   }
 
 .l-button {
@@ -162,16 +247,18 @@ a {
   letter-spacing: 0.1em;
   font-size: 0.8rem;
   color: #fff;
-  padding: 1em;
+  padding: 1em 2em;
+  border-radius: 0.8em;
+  box-shadow: 0 2px 0 rgb(0, 98, 70);
+  text-align: center;
+  margin-top: 2rem;
 }
 .l-button-solo {
   display: block;
   max-width: 15em;
-  text-align: center;
-  border-radius: 0.8em;
   margin: 0 auto;
   margin-top: 4rem;
-  box-shadow: 0 2px 0 rgb(0, 98, 70);
+  
 }
   .l-button:hover {
     background-color: rgb(1, 165, 114);
@@ -199,10 +286,40 @@ a {
     max-width: 36em;
   }
 
+.image-header {
+  width: 100%;
+  margin: 0 auto;
+  max-width: 100rem;
+}
+
+.collection-grid {
+  padding: 3rem;
+  border-bottom: 1px solid #bbb;
+  margin: 0;
+}
+.collection-description {
+  width: 50%;
+}
+  .collection-description p {
+    line-height: 1.2;
+    font-size: 1.7rem;
+    margin: 0;
+    margin-top: 2rem;
+}
+.collection-includes {
+  border-left: 1px solid #bbb;
+}
+  .collection-includes ul {
+    margin: 1rem 0;
+    padding: 0;
+    text-align: left;
+    list-style-type: none;
+  }
+
 .card {
   border-radius: 0.75rem;
-  border: 1px solid;
-  padding: 2rem 1rem;
+  border: 1px solid #bbb;
+  padding: 0.8rem;
   position: relative;
   user-select: none;
   cursor: default;
@@ -210,28 +327,27 @@ a {
   transition-property: all;
   transition-duration: 100ms;
   user-select: none;
-  padding-bottom: 1.3rem;
 }
   .card:hover, .card:active, .card:focus {
     background-color: #fff;
-    border-color: #fff;
-    transform: scale(1.1);
+    border-color: #000;
+    transform: scale(0.95);
     z-index: 1;
     outline: none;
   }
   .card-contents {
-    height: 14rem;
+    height: 10rem;
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
   }
   .card-description {
     text-align: center;
-    font-size: 1rem;
+    font-size: 0.9rem;
     margin: 0;
-    padding: 0 2.5rem;
-    line-height: 1.6;
-    margin-top: 0.7em;
+    padding: 0 1em;
+    line-height: 1.5;
+    margin-top: 2em;
   }
   .card-number {
     font-size: 1rem;
@@ -282,12 +398,27 @@ a {
   background-repeat: no-repeat;
   z-index: -1;
 }
+.img-solo {
+  max-width: 16rem;
+  margin: 6rem auto;
+  display: block;
+}
 .footer-image {
   max-width: 6rem;
   margin: 0 auto;
   display: block;
   padding-bottom: 4rem;
   transform: rotate(-45deg);
+}
+
+.step-number {
+  border: 1px solid;
+  border-radius: 50%;
+  width: 2rem;
+  height: 2rem;
+  text-align: center;
+  color: #ccc;
+  font-size: 1rem;
 }
 
 .map {
@@ -297,9 +428,46 @@ a {
   margin: 1rem auto;
 }
 
+.address {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+  .address li {
+    margin: 0.5rem 0;
+  }
+
+.control-panel a {
+  font-size: 0.8rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  font-family: 'futura-pt', 'Futura PT', sans-serif;
+  margin: 0 1rem;
+}
+.language-selector {
+  position: absolute;
+  top: 1rem;
+  right: 2rem;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  font-family: 'futura-pt', 'Futura PT', sans-serif;
+  text-transform: uppercase;
+}
+  .language-selector li {
+    display: inline-block;
+  }
+
 @media (max-width: 650px) {
   .card {
     max-width: 100%;
+    width: 100%;
+  }
+  .l-constrained, .l-constrained-text {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+  .l-grid-feature, .l-grid-feature-image-index {
     width: 100%;
   }
   .l-card--solo {

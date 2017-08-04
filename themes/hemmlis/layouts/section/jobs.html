@@ -1,0 +1,8 @@
+{{ define "main" }}
+<article class="l-constrained-text l-center">
+  <h2>{{ .Title }}</h2>
+  {{ .Content }}
+  <a class="l-button l-button-solo" role="button" href="mailto:info@hemmlis.se">{{ .Params.action }}</a>
+  <img class="l-center img-solo" src="/img/hemmlis-rekond.png">
+</article> 
+{{ end }}

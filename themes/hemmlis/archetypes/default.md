@@ -1,3 +1,5 @@
 +++
-weight = "3"
+title = "{{ replace .TranslationBaseName "-" " " | title }}"
+date = "{{ .Date }}"
+draft = false
 +++

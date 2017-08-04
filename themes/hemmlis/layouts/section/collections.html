@@ -1,0 +1,19 @@
+{{ define "main" }}
+
+  <article class="l-constrained">
+    <div class="l-center l-constrained-text">
+      {{ .Content }}
+    </div>
+
+    <div class="l-divider">
+      <h2>{{ .Title }}</h2>
+
+      <section class="l-grid l-grid-images">
+        {{ range where .Site.Pages "Section" "collections" }}
+          {{ .Render "li" }}
+        {{ end }}
+      </section>
+    </div>
+  </article>
+
+{{ end }}

@@ -1,29 +1,87 @@
-languageCode = "sv"
-title = "Hemmlis"
+DefaultContentLanguage = "sv"
 baseurl = "http://www.hemmlis.se/"
 theme = "hemmlis"
 publishDir = "docs"
 
-# [[menu.main]]
-# name = "Hur funkar det?"
-# identifier = "hur"
-# url = "/hur/"
-# weight = 2
+[Languages]
 
-[[menu.main]]
-name = "Pilotprojektet"
-identifier = "piloten"
-url = "/piloten/"
-weight = 1
+  [Languages.sv]
+  languageName = "Svenska"
+  title = "Hemmlis"
 
-[[menu.main]]
-name = "Om Hemmlis"
-identifier = "om"
-url = "/om/"
-weight = 3
+    [[Languages.sv.menu.main]]
+    name = "Hur fungerar det?"
+    identifier = "how"
+    url = "/how/"
+    weight = 3
 
-[[menu.main]]
-name = "Kontakt"
-identifier = "kontakt"
-url = "/kontakt/"
-weight = 4
+    [[Languages.sv.menu.main]]
+    name = "Pilotprojektet"
+    identifier = "pilot"
+    url = "/pilot/"
+    weight = 2
+
+    [[Languages.sv.menu.main]]
+    name = "Jobb"
+    identifier = "jobs"
+    url = "/jobs/"
+    weight = 4
+
+    [[Languages.sv.menu.main]]
+    name = "Våra kollektioner"
+    identifier = "collections"
+    url = "/collections/"
+    weight = 1
+
+    [[Languages.sv.menu.main]]
+    name = "Om oss"
+    identifier = "about"
+    url = "/about/"
+    weight = 5
+
+    [[Languages.sv.menu.main]]
+    name = "Kontakt"
+    identifier = "contact"
+    url = "/contact/"
+    weight = 6
+
+  [Languages.en]
+  title = "Hemmlis"
+  languageName = "English"
+
+    [[Languages.en.menu.main]]
+    name = "How does it work?"
+    identifier = "how"
+    url = "/how/"
+    weight = 3
+
+    [[Languages.en.menu.main]]
+    name = "Pilot"
+    identifier = "pilot"
+    url = "/pilot/"
+    weight = 2
+
+    [[Languages.en.menu.main]]
+    name = "Jobs"
+    identifier = "jobs"
+    url = "/jobs/"
+    weight = 4
+    
+    [[Languages.en.menu.main]]
+    name = "Collections"
+    identifier = "collections"
+    url = "/collections/"
+    weight = 1
+
+    [[Languages.en.menu.main]]
+    name = "About us"
+    identifier = "about"
+    url = "/about/"
+    weight = 5
+
+    [[Languages.en.menu.main]]
+    name = "Contact"
+    identifier = "contact"
+    url = "/contact/"
+    weight = 6
+
