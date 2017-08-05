@@ -3,8 +3,6 @@ date = "2017-02-21T12:25:30+01:00"
 title = "Om Hemmlis"
 
 +++
-
-
 Hemmlis är ett företag vars målsättning är att i grunden förändra det sätt på vilket möbler konsumeras i samhället.
 Genom att erbjuda en tjänst för att hyra möbler möjliggörs ett annat förhållningssätt; varför köpa möbler med förhoppning att de håller i tio år när du under den tiden kommer att flytta mellan ett flertal olika bostäder, studera, arbeta och kanske skaffa barn?
 Genom Hemmlis kan du få ett möblemang som är rätt för dig, just nu. En flytt ett år senare? Ut med det gamla, in med det nya! Varför inte testa ett lila rum denna gång?

@@ -1,87 +1,70 @@
 DefaultContentLanguage = "sv"
 baseurl = "http://www.hemmlis.se/"
-theme = "hemmlis"
 publishDir = "docs"
-
-[Languages]
-
-  [Languages.sv]
-  languageName = "Svenska"
-  title = "Hemmlis"
-
-    [[Languages.sv.menu.main]]
-    name = "Hur fungerar det?"
-    identifier = "how"
-    url = "/how/"
-    weight = 3
-
-    [[Languages.sv.menu.main]]
-    name = "Pilotprojektet"
-    identifier = "pilot"
-    url = "/pilot/"
-    weight = 2
-
-    [[Languages.sv.menu.main]]
-    name = "Jobb"
-    identifier = "jobs"
-    url = "/jobs/"
-    weight = 4
-
-    [[Languages.sv.menu.main]]
-    name = "Våra kollektioner"
-    identifier = "collections"
-    url = "/collections/"
-    weight = 1
-
-    [[Languages.sv.menu.main]]
-    name = "Om oss"
-    identifier = "about"
-    url = "/about/"
-    weight = 5
-
-    [[Languages.sv.menu.main]]
-    name = "Kontakt"
-    identifier = "contact"
-    url = "/contact/"
-    weight = 6
-
-  [Languages.en]
-  title = "Hemmlis"
-  languageName = "English"
-
-    [[Languages.en.menu.main]]
-    name = "How does it work?"
-    identifier = "how"
-    url = "/how/"
-    weight = 3
-
-    [[Languages.en.menu.main]]
-    name = "Pilot"
-    identifier = "pilot"
-    url = "/pilot/"
-    weight = 2
-
-    [[Languages.en.menu.main]]
-    name = "Jobs"
-    identifier = "jobs"
-    url = "/jobs/"
-    weight = 4
-    
-    [[Languages.en.menu.main]]
-    name = "Collections"
-    identifier = "collections"
-    url = "/collections/"
-    weight = 1
-
-    [[Languages.en.menu.main]]
-    name = "About us"
-    identifier = "about"
-    url = "/about/"
-    weight = 5
-
-    [[Languages.en.menu.main]]
-    name = "Contact"
-    identifier = "contact"
-    url = "/contact/"
-    weight = 6
-
+theme = "hemmlis"
+[Languages.en]
+languageName = "English"
+title = "Hemmlis"
+[[Languages.en.menu.main]]
+identifier = "how"
+name = "How does it work?"
+url = "/how/"
+weight = 3
+[[Languages.en.menu.main]]
+identifier = "pilot"
+name = "Pilot"
+url = "/pilot/"
+weight = 2
+[[Languages.en.menu.main]]
+identifier = "jobs"
+name = "Jobs"
+url = "/jobs/"
+weight = 4
+[[Languages.en.menu.main]]
+identifier = "collections"
+name = "Collections"
+url = "/collections/"
+weight = 1
+[[Languages.en.menu.main]]
+identifier = "about"
+name = "About us"
+url = "/about/"
+weight = 5
+[[Languages.en.menu.main]]
+identifier = "contact"
+name = "Contact"
+url = "/contact/"
+weight = 6
+[Languages.sv]
+languageName = "Svenska"
+title = "Hemmlis"
+[[Languages.sv.menu.main]]
+identifier = "how"
+name = "Hur fungerar det?"
+url = "/how/"
+weight = 3
+[[Languages.sv.menu.main]]
+identifier = "pilot"
+name = "Pilotprojektet"
+url = "/pilot/"
+weight = 2
+[[Languages.sv.menu.main]]
+identifier = "jobs"
+name = "Jobb"
+url = "/jobs/"
+weight = 4
+[[Languages.sv.menu.main]]
+identifier = "collections"
+name = "Våra kollektioner"
+url = "/collections/"
+weight = 1
+[[Languages.sv.menu.main]]
+identifier = "about"
+name = "Om oss"
+url = "/about/"
+weight = 5
+[[Languages.sv.menu.main]]
+identifier = "contact"
+name = "Kontakt"
+url = "/contact/"
+weight = 6
