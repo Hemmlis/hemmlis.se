@@ -3,8 +3,6 @@ date = "2017-02-21T12:25:30+01:00"
 title = "About Hemmlis"
 
 +++
-
-
 Hemmlis is a company that aims to radically change the way we consume furniture.
 By offering a service to lease furniture we enable a different way of thinking; why buy furniture with the hope that it lasts for ten years when you know that you’ll be moving several times, studying, working and perhaps having children?
 Through Hemmlis you can have furniture that is right for you, right now. A change of location a year later? Toss out the old, bring in the new! Why not try a purple room this time?
