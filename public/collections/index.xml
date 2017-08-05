@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Våra kollektioner on Hemmlis</title>
+    <link>http://www.hemmlis.se/collections/</link>
+    <description>Recent content in Våra kollektioner on Hemmlis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 21 Feb 2017 12:25:30 +0100</lastBuildDate>
+    
+	<atom:link href="http://www.hemmlis.se/collections/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>03</title>
+      <link>http://www.hemmlis.se/collections/03/</link>
+      <pubDate>Fri, 04 Aug 2017 11:54:30 +0200</pubDate>
+      
+      <guid>http://www.hemmlis.se/collections/03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>02</title>
+      <link>http://www.hemmlis.se/collections/02/</link>
+      <pubDate>Fri, 04 Aug 2017 11:54:28 +0200</pubDate>
+      
+      <guid>http://www.hemmlis.se/collections/02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>01</title>
+      <link>http://www.hemmlis.se/collections/01/</link>
+      <pubDate>Fri, 04 Aug 2017 11:54:19 +0200</pubDate>
+      
+      <guid>http://www.hemmlis.se/collections/01/</guid>
+      <description>Ett rum i modern stil, med spännande ansiktsmaker på väggarna och 3D-printade lampor. Designat av Oskar K.</description>
+    </item>
+    
+  </channel>
+</rss>
