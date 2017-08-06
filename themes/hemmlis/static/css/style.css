@@ -107,6 +107,7 @@ a {
 #hemmlis-logo {
   vertical-align: middle;
   height: 1.25em;
+  max-width: 90%;
 }
 
 .l-constrained {
@@ -470,5 +471,8 @@ a {
   [role=menubar] > [role=menuitem] > a {
     padding: 0.5rem 0;
     display: block;
+  }
+  .l-grid-feature-image {
+    margin-right: 0;
   }
 }
