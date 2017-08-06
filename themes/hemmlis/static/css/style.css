@@ -12,7 +12,6 @@ body {
   line-height: 1.5;
 }
 h1 {
-  font-family: 'rift-soft', 'Rift', sans-serif;
   font-size: 4em;
   font-weight: 300;
   letter-spacing: 0.2rem;
@@ -349,20 +348,7 @@ a {
     line-height: 1.5;
     margin-top: 2em;
   }
-  .card-number {
-    font-size: 1rem;
-    font-weight: 600;
-    font-family: 'rift-soft', 'Rift', sans-serif;
-    display: block;
-    position: absolute;
-    top: 1rem;
-    right: 1rem;
-    border: 2px solid;
-    border-radius: 50%;
-    width: 1.5em;
-    height: 1.5em;
-    text-align: center;
-  }
+
 .l-card--wide {
   width: 44rem;
 
