@@ -939,12 +939,35 @@ a {
 .step-number {
   border: 1px solid;
   border-radius: 50%;
-  width: 2rem;
-  height: 2rem;
+  width: 2em;
+  height: 2em;
   text-align: center;
   color: #ccc;
   font-size: 1rem;
+  position: relative;
+  background-color: #fff;
 }
+  .step-number::before {
+    position: absolute;
+    top: -15px;
+    left: -15px;
+    right: -15px;
+    bottom: -15px;
+    border: 14px solid #fff;
+    content: "";
+    border-radius: 50%;
+  }
+  .numbered-article {
+    position: relative;
+  }
+    .numbered-article::before {
+      content: "";
+      position: absolute;
+      top: 1em;
+      left: 0;
+      right: 0;
+      border-bottom: 1px solid #ccc;
+    }
 
 .map {
   height: 35rem;
