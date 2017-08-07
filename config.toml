@@ -12,7 +12,7 @@ url = "/how/"
 weight = 3
 [[Languages.en.menu.main]]
 identifier = "pilot"
-name = "Pilot"
+name = "Lease furniture"
 url = "/pilot/"
 weight = 2
 [[Languages.en.menu.main]]
@@ -45,7 +45,7 @@ url = "/how/"
 weight = 3
 [[Languages.sv.menu.main]]
 identifier = "pilot"
-name = "Pilotprojektet"
+name = "Hyr möbler"
 url = "/pilot/"
 weight = 2
 [[Languages.sv.menu.main]]
