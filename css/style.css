@@ -625,6 +625,12 @@ a {
   a:hover {
     color: #ccc;
   }
+  p a {
+    color: rgb(0, 148, 102);
+  }
+  footer p a {
+    color: inherit;
+  }
   [role=menubar] {
     margin-top: 2rem;
   }
