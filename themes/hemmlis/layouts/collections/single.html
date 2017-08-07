@@ -17,12 +17,12 @@
       {{ end }}
     </div>
   </article>
-  <div class="l-center control-panel">
+  <div class="l-center l-grid control-panel">
     {{if .PrevInSection}}
-      <a href="{{.PrevInSection.Permalink}}">{{ i18n "previousCollection" }}</a>
+      <a class="l-grid-item previous" href="{{.PrevInSection.Permalink}}">{{ i18n "previousCollection" }}</a>
     {{end}}
     {{if .NextInSection}}
-      <a href="{{.NextInSection.Permalink}}">{{ i18n "nextCollection" }}</a>
+      <a class="l-grid-item next" href="{{.NextInSection.Permalink}}">{{ i18n "nextCollection" }}</a>
     {{end}}
   </div>
 {{ end }}
