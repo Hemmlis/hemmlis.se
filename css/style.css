@@ -355,22 +355,22 @@ a {
 
 }
 .img-soffa {
-  background-image: url('/img/hemmlis-soffa.png');
+  background-image: url('/img/hemmlis-soffa.gif');
 }
 .img-mobler-01 {
-  background-image: url('/img/hemmlis-mobler-01.png');
+  background-image: url('/img/hemmlis-mobler-01.gif');
 }
 .img-mobler-02 {
-  background-image: url('/img/hemmlis-mobler-02.png');
+  background-image: url('/img/hemmlis-mobler-02.gif');
 }
 .img-post {
-  background-image: url('/img/hemmlis-post.png');
+  background-image: url('/img/hemmlis-post.gif');
 }
 .img-rekond {
-  background-image: url('/img/hemmlis-rekond.png');
+  background-image: url('/img/hemmlis-rekond.gif');
 }
 .img-fotolj {
-  background-image: url('/img/hemmlis-fotolj.png');
+  background-image: url('/img/hemmlis-fotolj.gif');
 }
 .img-ballong::after {
   content: "";
@@ -379,7 +379,7 @@ a {
   height: 22rem;
   position: absolute;
   right: -9rem;
-  background-image: url('/img/hemmlis-ballong.png');
+  background-image: url('/img/hemmlis-ballong.gif');
   bottom: -8rem;
   background-size: contain;
   background-repeat: no-repeat;
