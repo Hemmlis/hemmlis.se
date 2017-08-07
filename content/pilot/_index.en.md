@@ -1,6 +1,6 @@
 +++
 date = "2017-02-21T12:25:30+01:00"
-join = "I want to try!"
+join = "I'm interested!"
 link = "https://goo.gl/forms/hhwl1sHQsI2PF0nh1"
 subtitle = "FAQ"
 title = "The pilot project"
