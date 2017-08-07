@@ -1,6 +1,6 @@
 +++
 date = "2017-08-04T10:58:42+02:00"
-image = "/img/hemmlis-rekond.png"
+image = "/img/hemmlis-rekond.gif"
 summary = "The furniture is cleaned and upcycled to fashion collections in different styles."
 title = "Fixing"
 weight = 2

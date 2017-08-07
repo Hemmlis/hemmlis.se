@@ -1,6 +1,6 @@
 +++
 date = "2017-08-04T11:28:53+02:00"
-image = "/img/hemmlis-mobler-01.png"
+image = "/img/hemmlis-mobler-01.gif"
 summary = "You pick a collection to your liking and order it on our webpage to a set monthly rate. "
 title = "The collections"
 weight = 3

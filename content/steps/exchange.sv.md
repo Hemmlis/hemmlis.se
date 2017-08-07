@@ -1,6 +1,6 @@
 +++
 date = "2017-08-04T11:29:41+02:00"
-image = "/img/hemmlis-mobler-02.png"
+image = "/img/hemmlis-mobler-02.gif"
 summary = "När du vill byta ut ditt möblemang kommer vi och fixar det åt dig!"
 title = "Återbruket"
 weight = 5

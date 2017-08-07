@@ -1,6 +1,6 @@
 +++
 date = "2017-08-04T11:28:53+02:00"
-image = "/img/hemmlis-mobler-01.png"
+image = "/img/hemmlis-mobler-01.gif"
 summary = "Du hittar ett möblemang som du gillar och beställer det via vår hemsida till en fast månadshyra."
 title = "Kollektionerna"
 weight = 3

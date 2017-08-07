@@ -1,6 +1,6 @@
 +++
 date = "2017-08-04T10:58:42+02:00"
-image = "/img/hemmlis-soffa.png"
+image = "/img/hemmlis-soffa.gif"
 summary = "We collect furniture from private households or second hand stores."
 title = "Gathering"
 weight = 1

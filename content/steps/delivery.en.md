@@ -1,6 +1,6 @@
 +++
 date = "2017-08-04T11:29:16+02:00"
-image = "/img/hemmlis-post.png"
+image = "/img/hemmlis-post.gif"
 summary = "We deliver all your furniture into your flat."
 title = "Your order"
 weight = 4

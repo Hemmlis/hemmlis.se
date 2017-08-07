@@ -1,6 +1,6 @@
 +++
 date = "2017-08-04T10:58:42+02:00"
-image = "/img/hemmlis-rekond.png"
+image = "/img/hemmlis-rekond.gif"
 summary = "Möblerna saneras och återbrukas för att sättas ihop tilll kollektioner i olika stilar."
 title = "Tillfixandet"
 weight = 2
