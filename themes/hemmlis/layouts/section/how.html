@@ -1,9 +1,4 @@
 {{ define "main" }}
-  <!-- <header>
-    <h2>{{ .Title }}</h2>
-    <p class="header-sub">{{ .Params.subtitle }}</p>
-  </header> -->
-
   <section class="l-grid l-constrained">
     {{ range where .Site.Pages "Section" "steps" }}
       {{ .Render "li" }}
