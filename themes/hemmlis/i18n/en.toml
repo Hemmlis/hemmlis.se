@@ -9,3 +9,6 @@ other = "Prevous collection"
 
 [nextCollection]
 other = "Next collection"
+
+[clickToReadMore]
+other = "Click on any of the collections to read more."

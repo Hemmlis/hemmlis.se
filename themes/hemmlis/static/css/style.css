@@ -748,6 +748,10 @@ a {
   .l-grid-images img {
     width: 100%;
   }
+  .l-grid-thumbnails img {
+    height: 15rem;
+    margin: 2rem;
+  }
   .l-grid-feature-image {
     height: auto;
     margin-right: 3rem;
@@ -843,12 +847,14 @@ a {
 }
 .collection-description {
   width: 50%;
+  justify-content: center;
+  display: flex;
+  align-items: center;
 }
   .collection-description p {
     line-height: 1.2;
     font-size: 1.7rem;
     margin: 0;
-    margin-top: 2rem;
 }
 .collection-includes {
   border-left: 1px solid #bbb;
@@ -1041,5 +1047,12 @@ a {
   }
   .l-grid-feature-image {
     margin-right: 0;
+  }
+  .collection-includes {
+    border-left: none;
+  }
+  .collection-grid {
+    border-bottom: none;
+    padding: 2rem 1rem;
   }
 }

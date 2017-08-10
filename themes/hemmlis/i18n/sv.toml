@@ -9,3 +9,6 @@ other = "Föregående kollektion"
 
 [nextCollection]
 other = "Nästa kollektion"
+
+[clickToReadMore]
+other = "Klicka på en av kollektionerna för att läsa mer."
