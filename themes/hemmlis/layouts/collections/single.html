@@ -1,6 +1,9 @@
 {{ define "main" }}
   <article>
-    <img class="image-header" src="{{ .Params.image }}">
+    <div class="collection-head">
+      <h3 class="collection-title">{{ .Title }}</h3>
+      <img class="image-header" src="{{ .Params.image }}">
+    </div>
     <div class="l-grid l-constrained">
       <div class="l-grid-item collection-grid collection-description">
         {{ .Content }}
@@ -20,16 +23,16 @@
   {{ if .Params.furniture }}
     <div class="l-center l-grid l-grid-thumbnails">
       {{ range .Params.furniture }}
-      <img class="" src="/img/collections/{{ $.Title }}/{{ . }}@0,3x.png">
+        <img class="" src="/img/collections/{{ $.Title }}/{{ . }}@0,3x.png">
       {{ end }}
     </div>
   {{ end }}
   <div class="l-center l-grid control-panel">
-    {{if .PrevInSection}}
-      <a class="l-grid-item previous" href="{{.PrevInSection.Permalink}}">{{ i18n "previousCollection" }}</a>
-    {{end}}
     {{if .NextInSection}}
-      <a class="l-grid-item next" href="{{.NextInSection.Permalink}}">{{ i18n "nextCollection" }}</a>
+      <a class="l-grid-item previous" href="{{.NextInSection.Permalink}}">{{ i18n "previousCollection" }}</a>
+    {{end}}
+    {{if .PrevInSection}}
+      <a class="l-grid-item next" href="{{.PrevInSection.Permalink}}">{{ i18n "nextCollection" }}</a>
     {{end}}
   </div>
 {{ end }}

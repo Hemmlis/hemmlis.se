@@ -835,9 +835,9 @@ a {
   }
 
 .image-header {
-  width: 100%;
+  width: 95%;
   margin: 0 auto;
-  max-width: 100rem;
+  display: block;
 }
 
 .collection-grid {
@@ -948,6 +948,34 @@ a {
   transform: rotate(-45deg);
 }
 
+.collection-image {
+  position: relative;
+  display: inline-block;
+}
+.collection-head {
+  position: relative;
+}
+.collection-title {
+  position: absolute;
+  top: 0.5rem;
+  right: 5.5rem;
+  color: #fff;
+  font-size: 5rem;
+  text-shadow: 0 0 0.5em rgba(0,0,0,0.3);
+  letter-spacing: -0.02em;
+}
+.img-description {
+  font-family: 'futura-pt', 'Futura PT', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  position: absolute;
+  bottom: 0em;
+  right: 0.5em;
+  font-size: 2em;
+  margin: 0;
+  padding: 0;
+}
+
 .step-number {
   border: 1px solid;
   border-radius: 50%;
@@ -1021,6 +1049,12 @@ a {
 @media (max-width: 650px) {
   .card {
     max-width: 100%;
+    width: 100%;
+  }
+  .image-header {
+    width: 100%;
+  }
+  .collection-description {
     width: 100%;
   }
   .l-constrained, .l-constrained-text {

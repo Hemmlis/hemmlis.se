@@ -1,5 +1,6 @@
 <div class="l-grid-item">
-  <a href="{{ .Permalink }}">
+  <a class="collection-image" href="{{ .Permalink }}">
+    <p class="img-description">{{ $.Title }}</p>
     <img src="{{ .Params.thumbnail }}">
   </a>
 </div>
