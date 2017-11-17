@@ -318,21 +318,6 @@
   </url>
   
   <url>
-    <loc>http://www.hemmlis.se/en/collections/</loc>
-    <lastmod>2017-02-21T12:25:30+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="sv"
-                href="http://www.hemmlis.se/collections/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.hemmlis.se/en/collections/"
-                />
-  </url>
-  
-  <url>
     <loc>http://www.hemmlis.se/en/pilot/</loc>
     <lastmod>2017-02-21T12:25:30+01:00</lastmod>
     <xhtml:link
@@ -344,6 +329,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://www.hemmlis.se/en/pilot/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.hemmlis.se/en/collections/</loc>
+    <lastmod>2017-02-21T12:25:30+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="http://www.hemmlis.se/collections/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.hemmlis.se/en/collections/"
                 />
   </url>
   
