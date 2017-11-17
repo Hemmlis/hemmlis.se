@@ -1,4 +1,5 @@
 +++
+aliases = ["/rent"]
 date = "2017-02-21T12:25:30+01:00"
 join = "Jag vill hyra möbler!"
 link = "https://goo.gl/forms/8AHLBdAZGVoX0HxG2"
