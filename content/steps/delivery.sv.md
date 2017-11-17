@@ -6,6 +6,6 @@ title = "Uthyrningen"
 weight = 4
 
 +++
-Minsta uthyrningstid på våra abonnemang är en termin (fem månader, höstterminen 2017) till en kostnad från 299:- i månaden. Väljer du ett abonnemang som sträcker sig under längre tid (minst 2 terminer) får du en reducerad månadskostnad .
+Minsta uthyrningstid på våra abonnemang är en termin (ca fem månader) till en kostnad från 499:- i månaden.
 
 Vi levererar dina möbler till din hemadress, reparerar eventuella skador under uthyrningsperioden och hämtar även upp möblerna igen efter uthyrningsperioden .
