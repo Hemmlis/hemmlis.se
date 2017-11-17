@@ -800,6 +800,7 @@ a {
   box-shadow: 0 2px 0 rgb(0, 98, 70);
   text-align: center;
   margin-top: 2rem;
+  border: none;
 }
 .l-button-solo {
   display: block;
@@ -1044,6 +1045,52 @@ a {
 }
   .language-selector li {
     display: inline-block;
+  }
+
+fieldset > * {
+  display: block;
+}
+fieldset div > div {
+  display: inline-block;
+}
+fieldset div > div > * {
+  display: block;
+  margin-right: 1em;
+}
+legend {
+  font-weight: bold;
+  background: #fff;
+  padding: 0 1em;
+  border-radius: 0.4em;
+  text-align: center;
+}
+label {
+  font-family: 'futura-pt', 'Futura PT', sans-serif;
+  margin-bottom: 0.1em;
+  padding-left: 0.2em;
+  font-size: 0.8em;
+}
+input, textarea {
+  font-family: 'futura-pt', 'Futura PT', sans-serif;
+  margin-bottom: 1.25em;
+  border-radius: 0.35em;
+  border: 1px solid #d8d8d8;
+  padding: 0.6em 0.6em;
+}
+fieldset {
+  border: 0;
+  margin: 0 2em;
+  background: #f9f9f9;
+  padding: 2em;
+  min-width: 20em;
+  margin-bottom: 4em;
+  border-radius: 0.75rem;
+}
+  fieldset p {
+    font-family: 'futura-pt', 'Futura PT', sans-serif;
+    margin: 0;
+    margin-bottom: 1.25em;
+    padding: 0;
   }
 
 @media (max-width: 650px) {

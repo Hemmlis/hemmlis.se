@@ -2,7 +2,7 @@
 aliases = ["/en/pilot"]
 date = "2017-02-21T12:25:30+01:00"
 join = "I want to lease furniture!"
-link = "https://goo.gl/forms/hhwl1sHQsI2PF0nh1"
+link = "/en/form"
 subtitle = "FAQ"
 title = "Lease your furniture"
 
