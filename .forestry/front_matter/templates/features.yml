@@ -1,0 +1,23 @@
+---
+hide_body: false
+fields:
+- name: date
+  label: Date
+  type: text
+  hidden: false
+  default: "{{ .Date }}"
+- name: draft
+  label: Draft
+  type: boolean
+  hidden: false
+  default: false
+- name: link
+  label: Link
+  type: text
+  hidden: false
+  default: http://www.link.com/
+- name: linktitle
+  label: Linktitle
+  type: text
+  hidden: false
+  default: Link
