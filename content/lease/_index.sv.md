@@ -4,7 +4,7 @@ join = "Jag vill hyra möbler!"
 link = "https://goo.gl/forms/8AHLBdAZGVoX0HxG2"
 subtitle = "FAQ"
 title = "Hyr av oss"
-aliases = ["/rent"]
+aliases = ["/pilot"]
 
 +++
 Vill du flytta in till ett komplett inrett hem i vår och bli en av våra hållbara möbelkonsumenter?

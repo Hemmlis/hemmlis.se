@@ -11,9 +11,9 @@ name = "How does it work?"
 url = "/how/"
 weight = 3
 [[Languages.en.menu.main]]
-identifier = "pilot"
+identifier = "lease"
 name = "Lease furniture"
-url = "/pilot/"
+url = "/lease/"
 weight = 2
 [[Languages.en.menu.main]]
 identifier = "jobs"
@@ -44,9 +44,9 @@ name = "Hur fungerar det?"
 url = "/how/"
 weight = 3
 [[Languages.sv.menu.main]]
-identifier = "pilot"
+identifier = "lease"
 name = "Hyr möbler"
-url = "/pilot/"
+url = "/lease/"
 weight = 2
 [[Languages.sv.menu.main]]
 identifier = "jobs"

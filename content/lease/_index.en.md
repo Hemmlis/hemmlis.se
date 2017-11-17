@@ -4,7 +4,7 @@ join = "I want to lease furniture!"
 link = "https://goo.gl/forms/hhwl1sHQsI2PF0nh1"
 subtitle = "FAQ"
 title = "Lease your furniture"
-aliases = ["/en/rent"]
+aliases = ["/en/pilot"]
 
 +++
 Do you want to move into a completely furnished room this spring and be one of our sustainable consumers of furniture in Lund?
