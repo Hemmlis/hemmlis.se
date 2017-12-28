@@ -5,19 +5,34 @@ title = "Jag vill hyra möbler"
 +++
 
 <form id="lease-form">
+<fieldset class="subscription"> 
+    <legend>Abonnemang</legend>
+    <input type="radio" name="subscription" value="short" id="subscriptionShort">
+    <label for="subscriptionShort">
+      <span class="subscription-name">Terminspaketet</span>
+      <span class="subscription-length">För ca 5 månader</span>
+      <span class="subscription-cost" data-fee="2495">2 495 kr</span>
+    </label>
+    <input type="radio" name="subscription" value="long" id="subscriptionLong" checked>
+    <label for="subscriptionLong">
+      <span class="subscription-name">Standard</span>
+      <span class="subscription-length">Minst 10 månader</span>
+      <span class="subscription-cost" data-price="399">399 kr/mån</span>
+    </label>
+  </fieldset>
   <fieldset> 
     <legend>Kontaktinformation</legend>
     <label for="name">Ditt namn</label>
     <input required autofocus type="text" name="name" placeholder="Förnamn Efternamn" id="name" size="30">
     <label for="email">Din e-mailadress</label>
-    <input required type="email" name="email" placeholder="din@mail.se" id="email">
+    <input required type="email" name="email" placeholder="din@mail.se" id="email" size="30">
     <label for="telephone">Ditt telefonnummer</label>
     <input required type="tel" name="telephone" placeholder="0046123456789" id="telephone" size="15">
   </fieldset>
   <fieldset> 
     <legend>Leveransadress</legend>
     <label for="street">Gata</label>
-    <input required type="text" name="street" placeholder="Gatuvägen 12" id="street" size="30">
+    <input required type="text" name="street" placeholder="Gatuvägen 12" id="street" size="40">
     <div>
       <div>
         <label for="postal">Postnummer</label>
@@ -32,6 +47,24 @@ title = "Jag vill hyra möbler"
     <input type="text" name="room" placeholder="LGH0000" id="room" size="9">
   </fieldset>
   <fieldset> 
+    <legend>Tillval</legend>
+    <input type="checkbox" name="sofa" id="sofa">
+    <label for="sofa">En soffa <span data-price="100">100 kr / mån</span></label>
+    <input type="checkbox" name="bedSet" id="bedSet">
+    <label for="bedSet">Ett bäddset <span data-price="75">75 kr / mån</span></label>
+    <div class="l-center">
+      <label for="otherAddon">Något annat</label>
+      <input type="input" placeholder="T.ex. en stålampa" name="otherAddon" id="otherAddon" size="40">
+    </div>
+  </fieldset>
+  <fieldset> 
+    <legend>Extra</legend>
+    <input type="checkbox" name="homeDelivery" id="homeDelivery">
+    <label for="homeDelivery">Leverans in i rummet <span data-fee="200">200 kr</span></label>
+    <input type="checkbox" name="wideBed" id="wideBed">
+    <label for="wideBed">En bredare säng <span data-price="100">100 kr / mån</span></label>
+  </fieldset>
+  <fieldset> 
     <legend>Leverans</legend>
     <p>När vill du få dina möbler?</p>
     <label for="delivery">Datum</label>
@@ -39,7 +72,35 @@ title = "Jag vill hyra möbler"
     <label for="other">Övrig information</label>
     <input type="text" name="other" placeholder="Övriga frågor eller anmärkningar" id="other" size="30">
   </fieldset>
+  <fieldset> 
+    <legend>Betalning</legend>
+    <p>Hur vill du betala?</p>
+    <input type="radio" name="payment" value="1" id="paypermonth" checked>
+    <label class="label-wide" for="paypermonth">
+      <span class="subscription-name">Per månad</span>
+      <span class="subscription-length">Få en faktura varje månad</span>
+    </label>
+    <input type="radio" name="payment" value="3" id="payperquarter">
+    <label class="label-wide" for="payperquarter">
+      <span class="subscription-name">Per kvartal</span>
+      <span class="subscription-length">Få en faktura var 3:e månad</span>
+    </label>
+    <input type="radio" name="payment" value="6" id="payperhalfyear">
+    <label class="label-wide" for="payperhalfyear">
+      <span class="subscription-name">Per halvår</span>
+      <span class="subscription-length">Få en faktura var 6:e månad</span>
+    </label>
+  </fieldset>
   <div class="l-center">
     <input role="button" class="l-button" type="submit" value="Skicka in">
-  </div)>
+  </div>
+  <div class="l-floating costs l-grid">
+    <div>
+      <p>Månadskostnad</p>
+      <h2><span id="monthlyCost">399</span> kr / <span id="payPeriod">mån</span></h2>
+    </div>
+    <div>
+      <p>Engångskostnad</p>
+      <h2><span id="feeCost">0</span> kr</h2>
+  </div>
 </form>

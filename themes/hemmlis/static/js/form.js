@@ -1,17 +1,43 @@
 $(document).ready(function(){
   
-  function getFormData($form){
-    var unindexed_array = $form.serializeArray();
-    var indexed_array = {};
+  var getFormData = function($form){
+    var unindexedArray = $form.serializeArray();
+    var indexedArray = {};
 
-    $.map(unindexed_array, function(n, i){
-        indexed_array[n['name']] = n['value'];
+    $.map(unindexedArray, function(input){
+        indexedArray[input['name']] = input['value'];
     });
 
-    return indexed_array;
-  }
-    
+    return indexedArray;
+  };
+
   var form = $('#lease-form');
+  var monthly = $('#monthlyCost');
+  var fees = $('#feeCost');
+  var payPeriod = $('#payPeriod');
+
+  var paymentPeriod = 1;
+
+  form.find('input').on('change', function() {
+    var periodCost = 0;
+    var totalFee = 0;
+
+    var calculateTotal = function($el, total) {
+      var check = $el.parent('label').prev('input').get(0);
+      if(check && check.checked) {
+        total = total + $el.data('price');
+      }
+    };
+    
+    $('[data-price]').each(() => calculateTotal($(this), periodCost));
+    $('[data-fee]').each(() => calculateTotal($(this), totalFee));
+
+    paymentPeriod = $('[name=payment]').filter(':checked').val();
+    console.log(periodCost, paymentPeriod);
+
+    monthly.text(periodCost * paymentPeriod);
+    fees.text(totalFee);
+  });
 
   form.on('submit', function(event) {
     
