@@ -69,6 +69,24 @@ För att detta ska fungera krävs en stor dos tillit från vår sida. Vi hoppas 
     </item>
     
     <item>
+      <title>Något gick snett!</title>
+      <link>http://www.hemmlis.se/form/error/</link>
+      <pubDate>Fri, 17 Nov 2017 13:36:30 +0100</pubDate>
+      
+      <guid>http://www.hemmlis.se/form/error/</guid>
+      <description>Var god försök igen eller kontakta oss.</description>
+    </item>
+    
+    <item>
+      <title>Snart blir ditt hem ett hem!</title>
+      <link>http://www.hemmlis.se/form/success/</link>
+      <pubDate>Fri, 17 Nov 2017 13:36:30 +0100</pubDate>
+      
+      <guid>http://www.hemmlis.se/form/success/</guid>
+      <description>Vi kontaktar dig inom 24 timmar för att bekräfta din beställning.</description>
+    </item>
+    
+    <item>
       <title>004</title>
       <link>http://www.hemmlis.se/collections/004/</link>
       <pubDate>Tue, 22 Aug 2017 13:31:19 +0200</pubDate>

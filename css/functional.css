@@ -35,6 +35,7 @@ header[role="banner"] {
   margin: 0;
   padding: 0;
   -webkit-user-select: none;
+  user-select: none;
 }
   [role=menubar] > [role=menuitem] > a {
     color: inherit;
@@ -61,3 +62,34 @@ header[role="banner"] {
   [role=button]::before {
     display: none;
   }
+
+input[type="checkbox"],
+input[type="radio"] {
+  display: none;
+}
+
+input[type="checkbox"] + label,
+input[type="radio"] + label {
+  cursor: pointer;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+input[type="checkbox"] + label {
+  display: block;
+}
+
+input[type="radio"] + label {
+  display: inline-block;
+}
+
+::placeholder {
+  color: #ddd;
+}
+
+[disabled] {
+  color: #000;
+  background-color: transparent;
+  user-select: none;
+  cursor: default;
+}

@@ -36,7 +36,7 @@ Occasionally we reconstruct furniture or change specific parts completely to add
       <pubDate>Fri, 04 Aug 2017 11:28:53 +0200</pubDate>
       
       <guid>http://www.hemmlis.se/en/steps/order/</guid>
-      <description>Our collections consist of 5-6 different pieces of furniture, meshed together to create a uniform design concept. We invite our guest designers to the workshop to create exciting eclectic (mixed) design concepts ranging from vintage to modern or even nordic design and rokoko. Our collections are custom made for a student room of about 15-20 square meters and always rented as a whole.</description>
+      <description>Our collections consist of 5-6 different pieces of furniture, meshed together to create a uniform design concept. We invite our guest designers to the workshop to create exciting eclectic (mixed) design concepts ranging from vintage to modern or even nordic design and rokoko. Our collections are custom made for a student room of about 15-20 square meters and always leased as a whole.</description>
     </item>
     
     <item>
@@ -55,7 +55,7 @@ All furniture will be delivered to your home address, and we will provide repair
       <pubDate>Fri, 04 Aug 2017 11:29:41 +0200</pubDate>
       
       <guid>http://www.hemmlis.se/en/steps/exchange/</guid>
-      <description>Furniture that have been rented will be reintroduced into our circular system where it’s sanitized anew, and refeshed in order to be rented again. This way we create an alternative model for furniture consumtion which we believe will reduce the wastage of furniture and the following negative impact it has on the environment.
+      <description>Furniture that have been leased will be reintroduced into our circular system where it’s sanitized anew, and refeshed in order to be leased again. This way we create an alternative model for furniture consumtion which we believe will reduce the wastage of furniture and the following negative impact it has on the environment.
 To succeed in this, it is crucial for us that our furniture be used responsibly. We put all out faith in that you, our custimers help us out in this so that we can continue to offer you neat collections of furniture in the future.</description>
     </item>
     
@@ -66,6 +66,24 @@ To succeed in this, it is crucial for us that our furniture be used responsibly.
       
       <guid>http://www.hemmlis.se/en/steps/retake/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Something went wrong!</title>
+      <link>http://www.hemmlis.se/en/form/error/</link>
+      <pubDate>Fri, 17 Nov 2017 13:36:30 +0100</pubDate>
+      
+      <guid>http://www.hemmlis.se/en/form/error/</guid>
+      <description>Please try again or contact us.</description>
+    </item>
+    
+    <item>
+      <title>Your home will soon be a home!</title>
+      <link>http://www.hemmlis.se/en/form/success/</link>
+      <pubDate>Fri, 17 Nov 2017 13:36:30 +0100</pubDate>
+      
+      <guid>http://www.hemmlis.se/en/form/success/</guid>
+      <description>We will contact you within 24 hours to confirm your order.</description>
     </item>
     
     <item>
@@ -164,7 +182,7 @@ To succeed in this, it is crucial for us that our furniture be used responsibly.
       <pubDate>Tue, 21 Feb 2017 12:25:30 +0100</pubDate>
       
       <guid>http://www.hemmlis.se/en/lease/faq-breakage/</guid>
-      <description>If a piece of furniture breaks we come out and repair/replace it. If the damage is due to normal usage this will not cost you anything. See the rent contract for further details about this issue.</description>
+      <description>If a piece of furniture breaks we come out and repair/replace it. If the damage is due to normal usage this will not cost you anything. See the lease contract for further details about this issue.</description>
     </item>
     
     <item>
@@ -182,11 +200,11 @@ To succeed in this, it is crucial for us that our furniture be used responsibly.
       <pubDate>Tue, 21 Feb 2017 12:25:30 +0100</pubDate>
       
       <guid>http://www.hemmlis.se/en/lease/faq-included/</guid>
-      <description>Our collections consists of 5-6 different pieces of furniture, meshed together to create a uniform design concept suitable for a complete student room around 15-20 square meters. All furniture will be rented out together.</description>
+      <description>Our collections consists of 5-6 different pieces of furniture, meshed together to create a uniform design concept suitable for a complete student room around 15-20 square meters. All furniture will be leased together.</description>
     </item>
     
     <item>
-      <title>Who can rent the furniture?</title>
+      <title>Who can lease the furniture?</title>
       <link>http://www.hemmlis.se/en/lease/faq-who/</link>
       <pubDate>Tue, 21 Feb 2017 12:25:30 +0100</pubDate>
       
