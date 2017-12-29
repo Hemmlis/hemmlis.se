@@ -189,6 +189,7 @@ a {
 }
 
 .l-floating {
+  position: -webkit-sticky;
   position: sticky;
   bottom: 0;
 }
