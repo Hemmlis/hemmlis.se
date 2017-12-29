@@ -563,10 +563,10 @@ input, textarea {
 }
 fieldset {
   border: 0;
-  margin: 0 2em;
+  margin: 0 auto;
   background: #f9f9f9;
   padding: 2em;
-  min-width: 20em;
+  width: 20em;
   margin-bottom: 4em;
   border-radius: 0.75rem;
 }
@@ -691,7 +691,7 @@ span[data-fee] {
 
   .help-info {
     display: none;
-    background: rgba(255,255,255,0.9);
+    background: rgba(255,255,255,0.95);
     padding: 1em;
     position: absolute;
     top: 2em;
@@ -700,6 +700,7 @@ span[data-fee] {
     bottom: 1em;
     border-radius: 0.5em;
     text-align: center;
+    overflow-y: auto;
   }
 
 @media (max-width: 650px) {

@@ -10,7 +10,8 @@ title = "Jag vill hyra möbler"
     <div class="help">
       <span class="help-icon">?</span>
       <div class="help-info">
-        <p>Välj en termin om du behöver möbler i en termin</p>
+        <p>Hyr för en termin och betala hela kostnaden i klump om du vet att du behöver möbler för enbart en termin</p>
+        <p>Vårt vanliga erbjudande är annars löpande med en minsta uthyrningstid på 10 månader</p>
       </div>
     </div>
     <input type="radio" name="subscription" value="short" id="subscriptionShort">
@@ -32,8 +33,8 @@ title = "Jag vill hyra möbler"
     <input required autofocus type="text" name="name" placeholder="Förnamn Efternamn" id="name" size="30">
     <label for="email">Din e-mailadress</label>
     <input required type="email" name="email" placeholder="din@mail.se" id="email" size="30">
-    <label for="telephone">Ditt telefonnummer</label>
-    <input required type="tel" name="telephone" placeholder="0046123456789" id="telephone" size="15">
+    <label for="telephone">Ditt telefonnummer (med landsnummer)</label>
+    <input required type="tel" name="telephone" placeholder="+46 70 423 32 22" id="telephone" size="18">
   </fieldset>
   <fieldset> 
     <legend>Leveransadress</legend>
@@ -69,7 +70,7 @@ title = "Jag vill hyra möbler"
     <label for="bedSet">Ett bäddset <span data-price="75">75 kr / mån</span></label>
     <div class="l-center">
       <label for="otherAddon">Övriga önskemål</label>
-      <input type="input" placeholder="T.ex. en stålampa" name="otherAddon" id="otherAddon" size="30">
+      <input type="input" placeholder="T.ex. en stålampa" name="otherAddon" id="otherAddon" size="25" style="margin-left:1em;">
     </div>
   </fieldset>
   <fieldset> 
@@ -77,20 +78,21 @@ title = "Jag vill hyra möbler"
     <div class="help">
       <span class="help-icon">?</span>
       <div class="help-info">
-        <p>Leverans till, men ej in i, ditt hem inkluderas i priset.</p>
-        <p>Den bredare sängen är 120 cm bred, till skillnad från 90 cm som annars ingår.</p>
+        <p>Leverans till, men ej in i, ditt hem inkluderas alltid i priset.</p>
+        <p>Den bredare sängen är 120 cm bred, till skillnad från den 90 cm breda sängen som annars ingår.</p>
       </div>
     </div>
     <input type="checkbox" name="homeDelivery" id="homeDelivery">
     <label for="homeDelivery">Leverans in i rummet <span data-fee="299">299 kr</span></label>
     <input type="checkbox" name="wideBed" id="wideBed">
-    <label for="wideBed">En bredare säng <span data-price="100">100 kr / mån</span></label>
+    <label for="wideBed">En bredare säng (120 cm)<span data-price="100">100 kr / mån</span></label>
   </fieldset>
   <fieldset>
     <div class="help">
       <span class="help-icon">?</span>
       <div class="help-info">
-        <p>Leveranstid kan inte garanteras.</p>
+        <p>Vi levererar i normala fall inom 5 dagar från valt datum.</p>
+        <p>Lämna en kommentar i fältet för speciella önskemål, eller kontakta oss för mer information</p>
       </div>
     </div>
     <legend>Leverans</legend>
@@ -133,13 +135,17 @@ title = "Jag vill hyra möbler"
     </div>
     <input type="checkbox" name="useInvoiceEmail" id="useInvoiceEmail" value="useInvoiceEmail">
     <label class="label-wide" for="useInvoiceEmail">Skicka fakturan till en annan mailadress</label>
-    <div class="l-center" data-show="useInvoiceEmail">
+    <div class="l-center" data-show="useInvoiceEmail" style="padding-top: 1em">
       <label for="invoiceEmail">E-mailadress för fakturering</label><br />
       <input required type="invoiceEmail" name="invoiceEmail" placeholder="faktura@mail.se" id="invoiceEmail" size="30">
     </div>
   </fieldset>
   <div class="l-center">
-    <input role="button" class="l-button" type="submit" value="Skicka in">
+    <div style="width: 60%; margin: 0 auto;">
+      <p><i>Personuppgifterna i detta formulär kommer endast används för behandling av din beställning.</i></p>
+      <p>Vi kontaktar dig medelst e-mail inom 24 timmar för orderbekräftelse och mer information.</p>
+    </div>
+    <input role="button" class="l-button" type="submit" value="Beställ">
   </div>
   <div class="l-floating costs l-grid">
     <div>
@@ -149,5 +155,6 @@ title = "Jag vill hyra möbler"
     <div>
       <p>Engångskostnad</p>
       <h2><span id="feeCost">0</span> kr</h2>
+    </div>
   </div>
 </form>
