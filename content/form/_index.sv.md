@@ -40,7 +40,7 @@ title = "Jag vill hyra möbler"
       </div>
       <div>
         <label for="city">Stad</label>
-        <input required type="text" name="city" placeholder="Lund" id="city" value="Lund">
+        <input required type="text" name="city" placeholder="Lund" id="city" value="Lund" disabled>
       </div>
     </div>
     <label for="room">Lägenhetsnummer eller annat</label>
@@ -50,6 +50,8 @@ title = "Jag vill hyra möbler"
     <legend>Tillval</legend>
     <input type="checkbox" name="sofa" id="sofa">
     <label for="sofa">En soffa <span data-price="100">100 kr / mån</span></label>
+    <input type="checkbox" name="officeChair" id="officeChair">
+    <label for="officeChair">En kontorsstol <span data-price="75">75 kr / mån</span></label>
     <input type="checkbox" name="bedSet" id="bedSet">
     <label for="bedSet">Ett bäddset <span data-price="75">75 kr / mån</span></label>
     <div class="l-center">
@@ -66,7 +68,7 @@ title = "Jag vill hyra möbler"
   </fieldset>
   <fieldset> 
     <legend>Leverans</legend>
-    <p>När vill du få dina möbler?</p>
+    <p>När önskar du få dina möbler levererade?</p>
     <label for="delivery">Datum</label>
     <input required type="date" name="delivery" placeholder="Datum" id="delivery">
     <label for="other">Övrig information</label>
@@ -79,21 +81,30 @@ title = "Jag vill hyra möbler"
       <span class="subscription-name">Per månad</span>
       <span class="subscription-length">Få en faktura varje månad</span>
     </label>
-    <input data-subscription="long" type="radio" name="payment" value="3" data-name="kvartal" id="payperquarter">
-    <label data-subscription="long" class="label-wide" for="payperquarter">
+    <input data-show="long" type="radio" name="payment" value="3" data-name="kvartal" id="payperquarter">
+    <label data-show="long" class="label-wide" for="payperquarter">
       <span class="subscription-name">Per kvartal</span>
       <span class="subscription-length">Få en faktura var 3:e månad</span>
     </label>
-    <input data-subscription="long" type="radio" name="payment" value="6" data-name="halvår" id="payperhalfyear">
-    <label data-subscription="long" class="label-wide" for="payperhalfyear">
+    <input data-show="long" type="radio" name="payment" value="6" data-name="halvår" id="payperhalfyear">
+    <label data-show="long" class="label-wide" for="payperhalfyear">
       <span class="subscription-name">Per halvår</span>
       <span class="subscription-length">Få en faktura var 6:e månad</span>
     </label>
-    <input data-subscription="short" type="radio" name="payment" value="5" data-name="allt" id="payall">
-    <label data-subscription="short"  class="label-wide" for="payall">
+    <input data-show="short" type="radio" name="payment" value="5" data-name="allt" id="payall">
+    <label data-show="short" class="label-wide" for="payall">
       <span class="subscription-name">Allt på en gång</span>
       <span class="subscription-length">Få en faktura för hela terminen</span>
     </label>
+  </fieldset>
+  <fieldset>
+    <legend>Fakturering</legend>
+    <input type="checkbox" name="useInvoiceEmail" id="useInvoiceEmail" value="useInvoiceEmail">
+    <label class="label-wide" for="useInvoiceEmail">Skicka fakturan till en annan mailadress</label>
+    <div class="l-center" data-show="useInvoiceEmail">
+      <label for="invoiceEmail">E-mailadress för fakturering</label><br />
+      <input required type="invoiceEmail" name="invoiceEmail" placeholder="faktura@mail.se" id="invoiceEmail" size="30">
+    </div>
   </fieldset>
   <div class="l-center">
     <input role="button" class="l-button" type="submit" value="Skicka in">

@@ -16,9 +16,20 @@ $(document).ready(function(){
     return check && check.checked ? total + $el.data(dataAttribute) : total;
   };
 
+  var hider = function($el) {
+    var name = $el.data('show');
+    var check = $('[value=' + name + ']').get(0);
+    var show = check && check.checked;
+    return show ? $el.removeClass('is-hidden') : $el.addClass('is-hidden');
+  };
+
   var shortOptions = $('[data-subscription=short]');
   var longOptions = $('[data-subscription=long]');
-  shortOptions.hide();
+  var selectedSubscription = $('[name=subscription]').filter(':checked').val();
+
+  $('[data-show]').each(function() {
+    hider($(this));
+  });
     
   var form = $('#lease-form');
   var monthly = $('#monthlyCost');
@@ -30,15 +41,17 @@ $(document).ready(function(){
   form.find('input').on('change', function() {
     var periodCost = 0;
     var totalFee = 0;
-    var selectedSubscription = $('[name=subscription]').filter(':checked').val();
-    if(selectedSubscription === 'long') {
-      shortOptions.hide();
-      longOptions.show();
+
+    var newlySelectedSubscription = $('[name=subscription]').filter(':checked').val();
+
+    if(newlySelectedSubscription !== selectedSubscription) {
+      $('#paypermonth').prop('checked', true);
+      selectedSubscription = newlySelectedSubscription;
     }
-    else {
-      longOptions.hide();
-      shortOptions.show(); 
-    }
+
+    $('[data-show]').each(function() {
+      hider($(this));
+    });
     
     $('[data-price]').each(function() {
       periodCost = calculateTotal($(this), periodCost, 'price');

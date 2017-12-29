@@ -662,6 +662,10 @@ span[data-fee] {
     margin: 0.5em auto;
   }
 
+.is-hidden {
+  display: none !important;
+}
+
 @media (max-width: 650px) {
   .card {
     max-width: 100%;
