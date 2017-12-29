@@ -3,7 +3,6 @@ date = "2017-11-17T13:36:30+01:00"
 title = "Jag vill hyra möbler"
 
 +++
-
 <form id="lease-form">
   <fieldset class="subscription"> 
     <legend>Abonnemang</legend>
