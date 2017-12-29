@@ -9,9 +9,9 @@ title = "Jag vill hyra möbler"
     <legend>Abonnemang</legend>
     <input type="radio" name="subscription" value="short" id="subscriptionShort">
     <label for="subscriptionShort">
-      <span class="subscription-name">Terminspaketet</span>
-      <span class="subscription-length">För ca 5 månader</span>
-      <span class="subscription-cost" data-fee="2495">2 495 kr</span>
+      <span class="subscription-name">En termin</span>
+      <span class="subscription-length">Minst 5 månader</span>
+      <span class="subscription-cost" data-price="499">499 kr/mån</span>
     </label>
     <input type="radio" name="subscription" value="long" id="subscriptionLong" checked>
     <label for="subscriptionLong">
@@ -53,14 +53,14 @@ title = "Jag vill hyra möbler"
     <input type="checkbox" name="bedSet" id="bedSet">
     <label for="bedSet">Ett bäddset <span data-price="75">75 kr / mån</span></label>
     <div class="l-center">
-      <label for="otherAddon">Något annat</label>
-      <input type="input" placeholder="T.ex. en stålampa" name="otherAddon" id="otherAddon" size="40">
+      <label for="otherAddon">Övriga önskemål</label>
+      <input type="input" placeholder="T.ex. en stålampa" name="otherAddon" id="otherAddon" size="30">
     </div>
   </fieldset>
   <fieldset> 
     <legend>Extra</legend>
     <input type="checkbox" name="homeDelivery" id="homeDelivery">
-    <label for="homeDelivery">Leverans in i rummet <span data-fee="200">200 kr</span></label>
+    <label for="homeDelivery">Leverans in i rummet <span data-fee="299">299 kr</span></label>
     <input type="checkbox" name="wideBed" id="wideBed">
     <label for="wideBed">En bredare säng <span data-price="100">100 kr / mån</span></label>
   </fieldset>
@@ -74,21 +74,25 @@ title = "Jag vill hyra möbler"
   </fieldset>
   <fieldset> 
     <legend>Betalning</legend>
-    <p>Hur vill du betala?</p>
-    <input type="radio" name="payment" value="1" id="paypermonth" checked>
+    <input type="radio" name="payment" value="1" data-name="mån" id="paypermonth" checked>
     <label class="label-wide" for="paypermonth">
       <span class="subscription-name">Per månad</span>
       <span class="subscription-length">Få en faktura varje månad</span>
     </label>
-    <input type="radio" name="payment" value="3" id="payperquarter">
-    <label class="label-wide" for="payperquarter">
+    <input data-subscription="long" type="radio" name="payment" value="3" data-name="kvartal" id="payperquarter">
+    <label data-subscription="long" class="label-wide" for="payperquarter">
       <span class="subscription-name">Per kvartal</span>
       <span class="subscription-length">Få en faktura var 3:e månad</span>
     </label>
-    <input type="radio" name="payment" value="6" id="payperhalfyear">
-    <label class="label-wide" for="payperhalfyear">
+    <input data-subscription="long" type="radio" name="payment" value="6" data-name="halvår" id="payperhalfyear">
+    <label data-subscription="long" class="label-wide" for="payperhalfyear">
       <span class="subscription-name">Per halvår</span>
       <span class="subscription-length">Få en faktura var 6:e månad</span>
+    </label>
+    <input data-subscription="short" type="radio" name="payment" value="5" data-name="allt" id="payall">
+    <label data-subscription="short"  class="label-wide" for="payall">
+      <span class="subscription-name">Allt på en gång</span>
+      <span class="subscription-length">Få en faktura för hela terminen</span>
     </label>
   </fieldset>
   <div class="l-center">
@@ -96,7 +100,7 @@ title = "Jag vill hyra möbler"
   </div>
   <div class="l-floating costs l-grid">
     <div>
-      <p>Månadskostnad</p>
+      <p>Abonnemangskostnad</p>
       <h2><span id="monthlyCost">399</span> kr / <span id="payPeriod">mån</span></h2>
     </div>
     <div>

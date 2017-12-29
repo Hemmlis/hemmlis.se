@@ -11,6 +11,15 @@ $(document).ready(function(){
     return indexedArray;
   };
 
+  var calculateTotal = function($el, total, dataAttribute) {
+    var check = $el.parent('label').prev('input').get(0);
+    return check && check.checked ? total + $el.data(dataAttribute) : total;
+  };
+
+  var shortOptions = $('[data-subscription=short]');
+  var longOptions = $('[data-subscription=long]');
+  shortOptions.hide();
+    
   var form = $('#lease-form');
   var monthly = $('#monthlyCost');
   var fees = $('#feeCost');
@@ -21,21 +30,31 @@ $(document).ready(function(){
   form.find('input').on('change', function() {
     var periodCost = 0;
     var totalFee = 0;
-
-    var calculateTotal = function($el, total) {
-      var check = $el.parent('label').prev('input').get(0);
-      if(check && check.checked) {
-        total = total + $el.data('price');
-      }
-    };
+    var selectedSubscription = $('[name=subscription]').filter(':checked').val();
+    if(selectedSubscription === 'long') {
+      shortOptions.hide();
+      longOptions.show();
+    }
+    else {
+      longOptions.hide();
+      shortOptions.show(); 
+    }
     
-    $('[data-price]').each(() => calculateTotal($(this), periodCost));
-    $('[data-fee]').each(() => calculateTotal($(this), totalFee));
+    $('[data-price]').each(function() {
+      periodCost = calculateTotal($(this), periodCost, 'price');
+    });
+
+    $('[data-fee]').each(function() {
+      totalFee = calculateTotal($(this), totalFee, 'fee');
+    });
 
     paymentPeriod = $('[name=payment]').filter(':checked').val();
-    console.log(periodCost, paymentPeriod);
+    var paymentPeriodName = $('[name=payment]').filter(':checked').data('name');
 
-    monthly.text(periodCost * paymentPeriod);
+    periodCost = periodCost * paymentPeriod;
+
+    monthly.text(periodCost);
+    payPeriod.text(paymentPeriodName);
     fees.text(totalFee);
   });
 
