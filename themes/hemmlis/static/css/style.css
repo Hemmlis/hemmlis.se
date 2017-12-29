@@ -702,6 +702,9 @@ span[data-fee] {
     text-align: center;
     overflow-y: auto;
   }
+    .help-info p {
+      line-height: 1.6;
+    }
 
 @media (max-width: 650px) {
   .card {

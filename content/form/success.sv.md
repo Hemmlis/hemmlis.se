@@ -4,4 +4,4 @@ title = "Snart blir ditt hem ett hem!"
 
 +++
 
-Vi kontaktar dig inom kort!
+Vi kontaktar dig inom 24 timmar för att bekräfta din beställning.
