@@ -5,8 +5,14 @@ title = "Jag vill hyra möbler"
 +++
 
 <form id="lease-form">
-<fieldset class="subscription"> 
+  <fieldset class="subscription"> 
     <legend>Abonnemang</legend>
+    <div class="help">
+      <span class="help-icon">?</span>
+      <div class="help-info">
+        <p>Välj en termin om du behöver möbler i en termin</p>
+      </div>
+    </div>
     <input type="radio" name="subscription" value="short" id="subscriptionShort">
     <label for="subscriptionShort">
       <span class="subscription-name">En termin</span>
@@ -47,6 +53,13 @@ title = "Jag vill hyra möbler"
     <input type="text" name="room" placeholder="LGH0000" id="room" size="9">
   </fieldset>
   <fieldset> 
+    <div class="help">
+      <span class="help-icon">?</span>
+      <div class="help-info">
+        <p>Tillvalen kan inte garanteras.</p>
+        <p>Bäddsetet inkluderar täcke, kudde, lakan och påslakan</p>
+      </div>
+    </div>
     <legend>Tillval</legend>
     <input type="checkbox" name="sofa" id="sofa">
     <label for="sofa">En soffa <span data-price="100">100 kr / mån</span></label>
@@ -61,12 +74,25 @@ title = "Jag vill hyra möbler"
   </fieldset>
   <fieldset> 
     <legend>Extra</legend>
+    <div class="help">
+      <span class="help-icon">?</span>
+      <div class="help-info">
+        <p>Leverans till, men ej in i, ditt hem inkluderas i priset.</p>
+        <p>Den bredare sängen är 120 cm bred, till skillnad från 90 cm som annars ingår.</p>
+      </div>
+    </div>
     <input type="checkbox" name="homeDelivery" id="homeDelivery">
     <label for="homeDelivery">Leverans in i rummet <span data-fee="299">299 kr</span></label>
     <input type="checkbox" name="wideBed" id="wideBed">
     <label for="wideBed">En bredare säng <span data-price="100">100 kr / mån</span></label>
   </fieldset>
-  <fieldset> 
+  <fieldset>
+    <div class="help">
+      <span class="help-icon">?</span>
+      <div class="help-info">
+        <p>Leveranstid kan inte garanteras.</p>
+      </div>
+    </div>
     <legend>Leverans</legend>
     <p>När önskar du få dina möbler levererade?</p>
     <label for="delivery">Datum</label>
@@ -74,7 +100,7 @@ title = "Jag vill hyra möbler"
     <label for="other">Övrig information</label>
     <input type="text" name="other" placeholder="Övriga frågor eller anmärkningar" id="other" size="30">
   </fieldset>
-  <fieldset> 
+  <fieldset>
     <legend>Betalning</legend>
     <input type="radio" name="payment" value="1" data-name="mån" id="paypermonth" checked>
     <label class="label-wide" for="paypermonth">
@@ -99,6 +125,12 @@ title = "Jag vill hyra möbler"
   </fieldset>
   <fieldset>
     <legend>Fakturering</legend>
+    <div class="help">
+      <span class="help-icon">?</span>
+      <div class="help-info">
+        <p>Hur betalningen sker bestäms när kontraktet tecknas.</p>
+      </div>
+    </div>
     <input type="checkbox" name="useInvoiceEmail" id="useInvoiceEmail" value="useInvoiceEmail">
     <label class="label-wide" for="useInvoiceEmail">Skicka fakturan till en annan mailadress</label>
     <div class="l-center" data-show="useInvoiceEmail">

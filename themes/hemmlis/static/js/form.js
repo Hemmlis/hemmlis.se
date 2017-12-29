@@ -4,8 +4,9 @@ $(document).ready(function(){
     var unindexedArray = $form.serializeArray();
     var indexedArray = {};
 
-    $.map(unindexedArray, function(input){
-        indexedArray[input['name']] = input['value'];
+    $.map(unindexedArray, function(input) {
+      var value = input['value'] === undefined ? '' : input['value'];
+      indexedArray[input['name']] = value === 'on' ? 'x' : value;
     });
 
     return indexedArray;
@@ -79,10 +80,14 @@ $(document).ready(function(){
       if(response.result === 'success') {
         window.location.href = '/form/success';
       }
-      console.log(response);
+      else {
+        window.location.href = '/form/error';
+        console.log(response);
+      }
     }
 
     var failure = function(response) {
+      window.location.href = '/form/error';
       console.log(response);
     }
 

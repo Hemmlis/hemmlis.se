@@ -1,7 +1,7 @@
 +++
 date = "2017-11-17T13:36:30+01:00"
-title = "Grattis!"
+title = "Snart blir ditt hem ett hem!"
 
 +++
 
-Välkommen!
+Vi kontaktar dig inom kort!
