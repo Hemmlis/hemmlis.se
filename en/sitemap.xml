@@ -273,21 +273,6 @@
   </url>
   
   <url>
-    <loc>http://www.hemmlis.se/en/</loc>
-    <lastmod>2017-02-21T12:25:30+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="sv"
-                href="http://www.hemmlis.se/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.hemmlis.se/en/"
-                />
-  </url>
-  
-  <url>
     <loc>http://www.hemmlis.se/en/how/</loc>
     <lastmod>2017-02-21T12:25:30+01:00</lastmod>
     <xhtml:link
@@ -374,6 +359,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://www.hemmlis.se/en/lease/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.hemmlis.se/en/</loc>
+    <lastmod>2017-02-21T12:25:30+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="http://www.hemmlis.se/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.hemmlis.se/en/"
                 />
   </url>
   
