@@ -9,4 +9,4 @@ title = "Lease your furniture"
 +++
 Do you want to move into a completely furnished room this spring and be one of our sustainable consumers of furniture in Lund?
 
-For 499 SEK/month we furnish your student room with nice second hand furniture during your entire student life. We deliver and pick up without any extra charges from you. Book your room today!
+From 399 SEK/month we furnish your student room with nice second hand furniture during your entire student life. We deliver to your doorstep and pick up without any extra charges from you. Book your room today!
