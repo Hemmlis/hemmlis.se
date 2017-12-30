@@ -9,4 +9,4 @@ title = "Hyr av oss"
 +++
 Vill du flytta in till ett komplett inrett hem i vår och bli en av våra hållbara möbelkonsumenter?
 
-Från 499:-/mån levererar till din dörr och hämtar vi upp ditt studentrum med schyssta andrahandsmöbler under hela, eller delar av, din studietid.
+Från 499:-/mån levererar till din dörr och hämtar upp ditt studentrum med schyssta andrahandsmöbler under hela, eller delar av, din studietid.
