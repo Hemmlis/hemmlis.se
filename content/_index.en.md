@@ -4,6 +4,7 @@ image = "/img/hemmlis-soffa.gif"
 linktitle = "Have a look at our collections."
 subtitle = "Great sustainable furniture. To your doorstep."
 title = "Lease furniture?"
+link = "/lease"
 type = "page"
 
 +++

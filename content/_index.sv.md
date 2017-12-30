@@ -4,6 +4,7 @@ image = "/img/hemmlis-soffa.gif"
 linktitle = "Ta en titt på våra kollektioner."
 subtitle = "Bra och hållbara möbler. Hem till din dörr."
 title = "Hyra möbler?"
+link = "/lease"
 type = "page"
 
 +++

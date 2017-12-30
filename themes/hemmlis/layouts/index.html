@@ -6,7 +6,7 @@
     <div class="l-grid-item l-grid-feature">
       <h2 class="feature-title">{{ .Title }}</h2>
       <h3 class="feature-subtitle">{{ .Params.subtitle }}</h3>
-      <a class="arrow-link" href="{{ "/collections" | absLangURL }}">{{ .Params.linktitle }}</a>
+      <a class="arrow-link" href="{{ .Params.link | absLangURL }}">{{ .Params.linktitle }}</a>
     </div>
   </article> 
 {{ end }}
