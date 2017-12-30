@@ -1,6 +1,6 @@
 +++
 date = "2017-08-04T11:28:53+02:00"
-hidden = false
+hidden = true
 image = "/img/hemmlis-mobler-01.gif"
 summary = "You pick and customize your subscription and payment period that suits you the best through our webform. We then assemble a uniform collection for you."
 title = "The collections"
