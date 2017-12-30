@@ -1,7 +1,8 @@
 +++
 date = "2017-08-04T11:29:41+02:00"
+hidden = false
 image = "/img/hemmlis-mobler-02.gif"
-summary = "When you want to change your style, we'll swing by and exchange your collection."
+summary = "Your enjoy your furniture during your stay."
 title = "The circle is complete"
 weight = 5
 
