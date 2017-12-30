@@ -6,4 +6,4 @@ title = "Vi söker dig!"
 +++
 Vi söker just nu hantverkare, inredningsexperter, industridesigners, återbruksnördar och allt däremellan till vår verksamhet. Vi behöver era idéer, tankar och er kreativa feedback kring möbelset skapade av andrahandsmöbler och återbruksmaterial för studentrum i Lund.
 
-Brinner du för återbruka och möbeldesign, och vill ta dig an att designa ett rum med oss? Kom förbi och ta en kopp kaffe!
+Brinner du för återbruka och möbeldesign, och vill ta dig an att designa ett rum med oss? Ring oss på 046-276 90 06 eller mejla och hör av dig för en kopp kaffe!
