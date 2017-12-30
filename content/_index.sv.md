@@ -1,9 +1,9 @@
 +++
 date = "2017-02-21T12:25:30+01:00"
 image = "/img/hemmlis-soffa.gif"
-link = "/lease"
-linktitle = "Ta en titt på våra kollektioner."
-subtitle = "Bra och hållbara möbler. Hem till din dörr."
+link = "/form"
+linktitle = "Hyr dina möbler här!"
+subtitle = "Snygga och hållbara möbler. Hem till din dörr."
 title = "Hyra möbler?"
 type = "page"
 
