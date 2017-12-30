@@ -1,6 +1,7 @@
 +++
 date = "2017-08-04T10:58:42+02:00"
 image = "/img/hemmlis-soffa.gif"
+hidden = false
 summary = "Vi samlar in möbler från privatpersoner och second hand-butiker."
 title = "Möbelinsamlingen"
 weight = 1

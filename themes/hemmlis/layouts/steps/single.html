@@ -1,5 +1,4 @@
-{{ if isset .Params "hidden" }}
-{{ else }}
+{{ if eq .Params.hidden false  }}
 <article class="l-constrained-text l-center l-article numbered-article">
   <p class="step-number">{{ .Params.weight }}</p>
   <h3>{{ .Title }}</h3>

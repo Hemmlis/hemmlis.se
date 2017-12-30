@@ -5,4 +5,5 @@ draft = false
 summary = "Summary."
 image = "/img/hemmlis-soffa.gif"
 weight = "1"
+hidden = false
 +++
