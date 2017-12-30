@@ -1,7 +1,8 @@
 +++
 date = "2017-08-04T11:29:41+02:00"
+hidden = false
 image = "/img/hemmlis-mobler-02.gif"
-summary = "När du vill byta ut ditt möblemang kommer vi och fixar det åt dig!"
+summary = "Du njuter av dina möbler under din hyresperiod!"
 title = "Återbruket"
 weight = 5
 
