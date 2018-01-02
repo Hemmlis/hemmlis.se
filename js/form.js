@@ -72,22 +72,25 @@ $(document).ready(function(){
     fees.text(totalFee);
   });
 
+  var successUrl = form.data('success-url');
+  var errorUrl = form.data('error-url');
+
   form.on('submit', function(event) {
     
     event.preventDefault();
 
     var success = function(response) {
       if(response.result === 'success') {
-        window.location.href = '/form/success';
+        window.location.href = successUrl;
       }
       else {
-        window.location.href = '/form/error';
+        window.location.href = errorUrl;
         console.log(response);
       }
     }
 
     var failure = function(response) {
-      window.location.href = '/form/error';
+      window.location.href = errorUrl;
       console.log(response);
     }
 
