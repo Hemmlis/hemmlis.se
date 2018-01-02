@@ -3,7 +3,7 @@ date = "2017-11-17T13:36:30+01:00"
 title = "I want to lease furniture"
 
 +++
-<form id="lease-form">
+<form id="lease-form" data-success-url="/en/form/success" data-error-url="/en/form/error">
   <fieldset class="subscription"> 
     <legend>Subscription</legend>
     <div class="help">
