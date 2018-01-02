@@ -137,7 +137,7 @@ title = "Jag vill hyra möbler"
     <label class="label-wide" for="useInvoiceEmail">Skicka fakturan till en annan mailadress</label>
     <div class="l-center" data-show="useInvoiceEmail" style="padding-top: 1em">
       <label for="invoiceEmail">E-mailadress för fakturering</label><br />
-      <input required type="invoiceEmail" name="invoiceEmail" placeholder="faktura@mail.se" id="invoiceEmail" size="30">
+      <input type="invoiceEmail" name="invoiceEmail" placeholder="faktura@mail.se" id="invoiceEmail" size="30">
     </div>
   </fieldset>
   <div class="l-center">
