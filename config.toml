@@ -64,7 +64,12 @@ name = "Om oss"
 url = "/about/"
 weight = 5
 [[Languages.sv.menu.main]]
+identifier = "partners"
+name = "Samarbetspartners"
+url = "/partners/"
+weight = 6
+[[Languages.sv.menu.main]]
 identifier = "contact"
 name = "Kontakt"
 url = "/contact/"
-weight = 6
+weight = 7

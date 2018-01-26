@@ -205,6 +205,9 @@ a {
     align-items: center;
     margin-bottom: 2rem;
   }
+  .l-grid--airy .l-grid-item {
+    padding: 2rem;
+  }
   .l-grid-item {
     width: 15rem;
     margin-bottom: 1rem;
@@ -637,6 +640,10 @@ span[data-price],
 span[data-fee] {
   float: right;
   font-weight: bold;
+}
+
+.partner-image {
+  display: none;
 }
 
 .costs {
