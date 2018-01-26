@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Våra samarbetspartners on Hemmlis</title>
+    <link>http://www.hemmlis.se/partners/</link>
+    <description>Recent content in Våra samarbetspartners on Hemmlis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 26 Jan 2018 12:25:30 +0100</lastBuildDate>
+    
+	<atom:link href="http://www.hemmlis.se/partners/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Emmaus Frediksdal</title>
+      <link>http://www.hemmlis.se/partners/emmaus/</link>
+      <pubDate>Fri, 26 Jan 2018 12:25:30 +0100</pubDate>
+      
+      <guid>http://www.hemmlis.se/partners/emmaus/</guid>
+      <description>I samarbete med Emmaus Fredriksdal samlar vi in möbler från privatpersoner runt om i västra Skåne.</description>
+    </item>
+    
+    <item>
+      <title>Leap Frogs</title>
+      <link>http://www.hemmlis.se/partners/leapfrogs/</link>
+      <pubDate>Fri, 26 Jan 2018 12:25:30 +0100</pubDate>
+      
+      <guid>http://www.hemmlis.se/partners/leapfrogs/</guid>
+      <description>Tack vare Leap Frogs stöd har vi kunnat ha en heltidsanställd under sommaren 2017 för att utvärdera marknaden.</description>
+    </item>
+    
+    <item>
+      <title>Stenkrossen</title>
+      <link>http://www.hemmlis.se/partners/stenkrossen/</link>
+      <pubDate>Fri, 26 Jan 2018 12:25:30 +0100</pubDate>
+      
+      <guid>http://www.hemmlis.se/partners/stenkrossen/</guid>
+      <description>På Stenkrossen i södra Lund har vi tidigare haft verkstad och lagerplats. Sedan vi flyttade till Myllan har vi kvar kontorsplats här.</description>
+    </item>
+    
+    <item>
+      <title>The Creative Plot</title>
+      <link>http://www.hemmlis.se/partners/thecreativeplot/</link>
+      <pubDate>Fri, 26 Jan 2018 12:25:30 +0100</pubDate>
+      
+      <guid>http://www.hemmlis.se/partners/thecreativeplot/</guid>
+      <description>Vi är med i The Creative Plot och får därigenom coachning och stöd för utveckling av vår verksamhet.</description>
+    </item>
+    
+    <item>
+      <title>Återbruket Myllan</title>
+      <link>http://www.hemmlis.se/partners/myllan/</link>
+      <pubDate>Fri, 26 Jan 2018 12:25:30 +0100</pubDate>
+      
+      <guid>http://www.hemmlis.se/partners/myllan/</guid>
+      <description>Vi har lager och verkstadsplats på Återbruket Myllan i Eslöv, en gammal yllefabrik som sedermera har blivit ett återbruksmecka med över 5 000 kvm loppis!</description>
+    </item>
+    
+  </channel>
+</rss>
