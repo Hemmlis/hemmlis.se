@@ -6,5 +6,8 @@ linktitle = "Hyr dina möbler här!"
 subtitle = "Snygga och hållbara möbler. Hem till din dörr."
 title = "Hyra möbler?"
 type = "page"
+featureTitle="Hemmlis ♡ Emmaus Fredriksdal"
+featureText="Till våra höstkollektioner 2018 samarbetar vi med biståndsorganisationen Emmaus Fredriksdal för att ta hand om 500 andrahandsmöbler Skåne. Läs mer om hur vi samarbetar för en bättre, mer hållbar, värld."
+featureLink="/emmaus"
 
 +++

@@ -8,5 +8,13 @@
       <h3 class="feature-subtitle">{{ .Params.subtitle }}</h3>
       <a class="arrow-link" href="{{ .Params.link | absLangURL }}">{{ .Params.linktitle }}</a>
     </div>
+    {{ if .Params.featureTitle }}
+      <a style="margin-top: 4rem; cursor: pointer;" href="{{ .Params.featureLink | absLangURL }}">
+        <div class="card card-alt l-constrained-content">
+          <h3>{{ .Params.featureTitle }}</h3>
+          <p>{{ .Params.featureText }}</p>
+        </div>
+      </a>
+    {{ end }}
   </article> 
 {{ end }}
