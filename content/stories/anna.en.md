@@ -6,9 +6,20 @@ summary = "Innan Hemmlis sov Argus på golvet. Läs mer om hur vi hjälpte henom
 title = "Anna Svealand"
 
 +++
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas lacinia nisi nunc, ut facilisis tortor pellentesque in. Mauris pellentesque nisl turpis. Duis efficitur mi blandit nisl rutrum, et pharetra nulla aliquet. Maecenas vitae turpis tortor. In interdum nulla at tincidunt dignissim. Sed dictum, nulla vitae posuere tempus, felis ex sollicitudin ipsum, hendrerit interdum risus velit porttitor quam. Ut et mauris nec sapien semper rhoncus. Curabitur tempor lorem at nisi dictum, eu elementum metus varius. Sed sit amet massa at mi eleifend interdum.
+![](/uploads/2018/06/28/Kobe_1_small.jpg)
 
-Etiam in ligula purus. Nunc rutrum tempor ex, quis mattis dolor euismod at. Morbi vel aliquet lacus, ut rhoncus enim. Pellentesque facilisis iaculis velit, et sodales urna cursus ac. Ut auctor ante eget vehicula tincidunt. Aenean condimentum mattis congue. Integer euismod felis risus, a mattis lacus placerat sed. Praesent malesuada, felis non fermentum mollis, enim leo placerat tortor, fringilla malesuada augue lacus eu neque. Duis ac nisi a augue rutrum pharetra. Suspendisse potenti. Pellentesque nec ipsum eros. Mauris at rutrum magna. Aenean at rhoncus eros. Suspendisse in pulvinar justo.
+Sleeping on the floor might work for some, but Kobe from Belgium appreciated the fact having a bed the same day he arrived. He was also one of the first patrons to try out Hemmlis first collections from the fall of 2017 to the summer of 2018. We caught up with him as he was leaving Lund during his pick-up.
 
-### En ny värld
-Integer ornare non metus sed maximus. Vestibulum id pretium sem. Etiam eget eros vitae felis consectetur varius. Donec mattis tincidunt pulvinar. Donec rhoncus feugiat eros, eleifend rutrum purus dictum sed. Praesent id purus eu justo laoreet porta. Cras justo mauris, elementum a mi ut, gravida suscipit nisi. Morbi ac hendrerit diam. Phasellus congue magna sit amet egestas ultrices. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce vel dictum tellus. Duis dolor dui, congue porta facilisis ut, tempus non ex.Argus sov på golvet. Det var kallt.
+“First of all it was practical and such a relief not having to sleep on the floor when I arrived. Secondly, looking around now and seeing all the garbage and furniture lying on the street when people leave, that’s a bonus reason for choosing your service, that it’s a bit more sustainable. I guess it’s mainly those things.”
+
+“And it’s actually pretty cool furniture when I think about it, otherwise you’ll have to buy the cheapest stuff at \[insert\]. Makes a more decent room I think to have this instead. But overall I think it’s really practical."
+
+![](/uploads/2018/06/28/Kobe_Collection.jpg)So what did he think was the best thing about us?
+
+“Best thing? You guys being so friendly \*laughs\*. But in all seriousness, I remember when I came here I saw people struggling and walking with beds from northern Lund to here. People don’t have cars when they get here, I mean I guess it was really nice to have the drop-off and pick-up.”
+
+And even though Kobe's collection isn't existing in it's original form anymore, parts of it will be a part of our new batch collections coming soon!
+
+But lastly, we let Kobe show off his ability to think of three words to describe us:
+
+“Oh god, I’m so bad at these things. Cosy, practical and very nice? Does that work?
