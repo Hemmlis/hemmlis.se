@@ -1,7 +1,7 @@
 +++
 date = "2017-08-04T11:28:53+02:00"
 draft = true
-id = 3
+id = 1
 summary = "Sleeping on the floor might work for some. Here's the story of Kobe who chose not to."
 title = "Kobe Hautakiet"
 
@@ -14,7 +14,6 @@ Sleeping on the floor might work for some, but Kobe from Belgium appreciated the
 
 “And it’s actually pretty cool furniture when I think about it, otherwise you’ll have to buy the cheapest stuff at \[insert\]. Makes a more decent room I think to have this instead. But overall I think it’s really practical."
 
-  
 ![](/uploads/2018/06/28/Kobe_Collection.jpg)So what did he think was the best thing about us?
 
 “Best thing? You guys being so friendly \*laughs\*. But in all seriousness, I remember when I came here I saw people struggling and walking with beds from northern Lund to here. People don’t have cars when they get here, I mean I guess it was really nice to have the drop-off and pick-up.”
