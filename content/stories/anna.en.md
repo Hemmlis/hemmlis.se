@@ -2,8 +2,8 @@
 date = "2017-08-04T11:28:53+02:00"
 draft = true
 id = 2
-summary = "Innan Hemmlis sov Argus på golvet. Läs mer om hur vi hjälpte henom!"
-title = "Anna Svealand"
+summary = "Sleeping on the floor is ill advised. Here's the story of Kobe who chose not to."
+title = "Kobe Hautakiet"
 
 +++
 ![](/uploads/2018/06/28/Kobe_1_small.jpg)
