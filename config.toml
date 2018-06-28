@@ -59,6 +59,11 @@ name = "Våra kollektioner"
 url = "/collections/"
 weight = 1
 [[Languages.sv.menu.main]]
+identifier = "koncept"
+name = "Vårt koncept"
+url = "/concept/"
+weight = 1
+[[Languages.sv.menu.main]]
 identifier = "about"
 name = "Om oss"
 url = "/about/"

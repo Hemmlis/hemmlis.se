@@ -2,13 +2,10 @@
 
   <article class="l-constrained">
     <div class="l-center l-constrained-text">
-      {{ .Content }}
+      <h2>{{ .Title }}</h2>
     </div>
 
     <div class="l-divider">
-      <h2>{{ .Title }}</h2>
-      <p class="header-sub">{{ i18n "clickToReadMore" }}</p>
-
       <section class="l-grid l-grid-images">
         {{ range where .Site.Pages.ByTitle "Section" "collections" }}
           {{ .Render "li" }}

@@ -1,4 +1,18 @@
-$(document).ready(function(){
+$(document).ready(function() {
+
+  var searchParams = new URLSearchParams(window.location.search);
+
+  var wantSofa = searchParams.get('sofa');
+  var wantBed = searchParams.get('wideBed');
+  var wantChair = searchParams.get('officeChair');
+  var collection = searchParams.get('collection');
+  var homeDelivery = searchParams.get('homeDelivery');
+
+  $('#sofa').prop('checked', wantSofa === 'on' ? true : false);
+  $('#wideBed').prop('checked', wantBed === 'on' ? true : false);
+  $('#officeChair').prop('checked', wantChair === 'on' ? true : false);
+  $('#homeDelivery').prop('checked', homeDelivery === 'on' ? true : false);
+  $('#collection').prop('value', collection);
   
   var getFormData = function($form){
     var unindexedArray = $form.serializeArray();
@@ -24,8 +38,6 @@ $(document).ready(function(){
     return show ? $el.removeClass('is-hidden') : $el.addClass('is-hidden');
   };
 
-  var shortOptions = $('[data-subscription=short]');
-  var longOptions = $('[data-subscription=long]');
   var selectedSubscription = $('[name=subscription]').filter(':checked').val();
 
   $('[data-show]').each(function() {
@@ -39,7 +51,7 @@ $(document).ready(function(){
 
   var paymentPeriod = 1;
 
-  form.find('input').on('change', function() {
+  var updateCalculations = function() {
     var periodCost = 0;
     var totalFee = 0;
 
@@ -70,7 +82,11 @@ $(document).ready(function(){
     monthly.text(periodCost);
     payPeriod.text(paymentPeriodName);
     fees.text(totalFee);
-  });
+  };
+
+  updateCalculations();
+
+  form.find('input').on('change', updateCalculations);
 
   var successUrl = form.data('success-url');
   var errorUrl = form.data('error-url');

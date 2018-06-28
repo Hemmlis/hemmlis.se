@@ -1,6 +1,12 @@
-<div class="l-grid-item">
+<div class="l-grid-item collection-images">
   <a class="collection-image" href="{{ .Permalink }}">
-    <p class="img-description">{{ $.Title }}</p>
-    <img src="{{ .Params.thumbnail }}">
+    {{ .Title }}
+      {{ if .Params.furniture }}
+      <div class="collection-collage">
+        {{ range .Params.furniture }}
+          <img class="collection-collage-image" src="{{ $.Title }}{{ . }}">
+        {{ end }}
+      </div>
+    {{ end }}
   </a>
 </div>

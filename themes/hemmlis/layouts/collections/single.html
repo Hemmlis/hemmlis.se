@@ -1,38 +1,59 @@
 {{ define "main" }}
-  <article>
-    <div class="collection-head">
-      <h3 class="collection-title">{{ .Title }}</h3>
-      <img class="image-header" src="{{ .Params.image }}">
-    </div>
-    <div class="l-grid l-constrained">
-      <div class="l-grid-item collection-grid collection-description">
-        {{ .Content }}
+
+  <article class="Collection">
+    
+    <section>
+      
+      <div class="l-center l-grid l-grid-thumbnails">
+        {{ range .Params.furniture }}
+          <img class="" src="{{ $.Title }}{{ . }}">
+        {{ end }}
       </div>
-      {{ if .Params.includes }}
-        <div class="l-grid-item collection-grid collection-includes">
-          <h3>{{ i18n "includesTitle" }}</h3>
-          <ul>
-            {{ range .Params.includes }}
-              <li>{{ . }}</li>
-            {{ end }}
-          </ul>
-        </div>
-      {{ end }}
-    </div>
+
+      <footer>
+        <ul>
+          <li>Består av {{ len .Params.furniture }} möbler</li>
+          <li>Tillagd <time datetime="">{{ dateFormat "2006-01-02" .Params.date }}</time></li>
+        </ul>
+        <h1>#{{ .Params.collection }}</h1>
+      </footer>
+
+      <div class="l-center l-grid control-panel">
+        {{if .NextInSection}}
+          <a class="l-grid-item previous" href="{{.NextInSection.Permalink}}">{{ i18n "previousCollection" }}</a>
+        {{end}}
+        {{if .PrevInSection}}
+          <a class="l-grid-item next" href="{{.PrevInSection.Permalink}}">{{ i18n "nextCollection" }}</a>
+        {{end}}
+      </div>
+
+    </section>
+
+    <aside>
+        <form method="GET" action='{{ "/form" | absLangURL }}'>
+            <fieldset class="subscription"> 
+              <legend>Beställ kollektionen</legend>
+
+              <input type="hidden" name="collection" id="collection" value="{{ .Params.collection }}">
+
+              <input type="checkbox" name="wideBed" id="wideBed">
+              <label for="wideBed">Byt till bredare säng (120 cm)<span data-price="100">100 kr / mån</span></label>
+
+              <input type="checkbox" name="homeDelivery" id="homeDelivery">
+              <label for="homeDelivery">Leverans in i rummet <span data-fee="299">299 kr</span></label>
+
+              <input role="button" class="l-button" type="submit" value="Hyr nu från 399 kr/mån">
+
+              <p>En 90 cm bred säng ingår som standard.</p>
+            </fieldset>
+        </form>
+
+        <ul class="arrow-links">
+          <li><a class="arrow-link">Läs mer om hur det fungerar att hyra</a></li>
+          <li><a class="arrow-link">Läs mer om våra kollektioner</a></li>
+        </ul>
+    </aside>
+
   </article>
-  {{ if .Params.furniture }}
-    <div class="l-center l-grid l-grid-thumbnails">
-      {{ range .Params.furniture }}
-        <img class="" src="/img/collections/{{ $.Title }}/{{ . }}@0,3x.png">
-      {{ end }}
-    </div>
-  {{ end }}
-  <div class="l-center l-grid control-panel">
-    {{if .NextInSection}}
-      <a class="l-grid-item previous" href="{{.NextInSection.Permalink}}">{{ i18n "previousCollection" }}</a>
-    {{end}}
-    {{if .PrevInSection}}
-      <a class="l-grid-item next" href="{{.PrevInSection.Permalink}}">{{ i18n "nextCollection" }}</a>
-    {{end}}
-  </div>
+
 {{ end }}

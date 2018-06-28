@@ -13,6 +13,7 @@ title = "Jag vill hyra möbler"
         <p>Vårt vanliga erbjudande är annars löpande med en minsta uthyrningstid på 10 månader</p>
       </div>
     </div>
+    <input type="hidden" value="" name="collection" id="collection">
     <input type="radio" name="subscription" value="short" id="subscriptionShort">
     <label for="subscriptionShort">
       <span class="subscription-name">En termin</span>
@@ -51,26 +52,6 @@ title = "Jag vill hyra möbler"
     </div>
     <label for="room">Lägenhetsnummer eller annat</label>
     <input type="text" name="room" placeholder="LGH0000" id="room" size="9">
-  </fieldset>
-  <fieldset> 
-    <div class="help">
-      <span class="help-icon">?</span>
-      <div class="help-info">
-        <p>Tillvalen kan inte garanteras.</p>
-        <p>Bäddsetet inkluderar täcke, kudde, lakan och påslakan</p>
-      </div>
-    </div>
-    <legend>Tillval</legend>
-    <input type="checkbox" name="sofa" id="sofa">
-    <label for="sofa">En soffa <span data-price="100">100 kr / mån</span></label>
-    <input type="checkbox" name="officeChair" id="officeChair">
-    <label for="officeChair">En kontorsstol <span data-price="75">75 kr / mån</span></label>
-    <input type="checkbox" name="bedSet" id="bedSet">
-    <label for="bedSet">Ett bäddset <span data-price="75">75 kr / mån</span></label>
-    <div class="l-center">
-      <label for="otherAddon">Övriga önskemål</label>
-      <input type="input" placeholder="T.ex. en stålampa" name="otherAddon" id="otherAddon" size="25" style="margin-left:1em;">
-    </div>
   </fieldset>
   <fieldset> 
     <legend>Extra</legend>
@@ -142,7 +123,7 @@ title = "Jag vill hyra möbler"
   </fieldset>
   <div class="l-center">
     <div style="width: 60%; margin: 0 auto;">
-      <p><i>Personuppgifterna i detta formulär kommer endast används för behandling av din beställning.</i></p>
+      <p><i>Personuppgifterna i detta formulär kommer endast användas för behandling av din beställning.</i></p>
       <p>Vi kontaktar dig medelst e-mail inom 24 timmar för orderbekräftelse och mer information.</p>
     </div>
     <input role="button" class="l-button" type="submit" value="Beställ">

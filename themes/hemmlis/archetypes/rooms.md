@@ -8,4 +8,5 @@ includes = [
   "1 lampa"
 ]
 image = "/img/collections/collection-01.jpg"
+collection="0"
 +++

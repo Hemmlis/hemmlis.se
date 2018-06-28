@@ -2,7 +2,7 @@
 date = "2017-08-04T11:28:53+02:00"
 hidden = false
 image = "/img/hemmlis-mobler-01.gif"
-summary = "Du beställer och specialanpassar ett abonnemang via vår hemsida med olika betalperioder som passar dig. Vi sätter därefter ihop en enhetlig kollektion till dig."
+summary = "Du anpassar ditt abonnemang via vår hemsida med den betalperiod som passar dig."
 title = "Kollektionerna"
 weight = 3
 
