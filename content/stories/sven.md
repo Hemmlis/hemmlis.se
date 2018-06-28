@@ -20,4 +20,4 @@ _“Best thing? You guys being so friendly \*laughs\*. But in all seriousness, I
 
 Concerning his ability to think of three words to describe us:
 
-“Oh god, I’m so bad at these things. Cosy, practical and very nice? Does that work?
+_“Oh god, I’m so bad at these things. Cosy, practical and very nice? Does that work?_
