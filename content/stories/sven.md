@@ -8,13 +8,15 @@ title = "Kobe Hautakiet"
 +++
 # Kobe Hautakiet, Belgium
 
-![](/uploads/2018/06/28/Kobe_1.jpg)
+![Photo of student outside his residence](/uploads/2018/06/28/Kobe_1.jpg "Kobe outside of the Vildanden student residences")
 
 Sleeping on the floor might work for some, but Kobe from Belgium appreciated the fact having a bed the same day he arrived. He was also one of the first patrons to ever try out Hemmlis our first collections. We caught up with him as he was leaving Lund during his pick-up.
 
 “First of all it was practical and such a relief not having to sleep on the floor when I arrived. Secondly, looking around now and seeing all the garbage and furniture lying on the street when people leave, that’s a bonus reason for choosing your service, that it’s a bit more sustainable. I guess it’s mainly those things.”
 
 “And it’s actually pretty cool furniture when I think about it, otherwise you’ll have to buy the cheapest stuff in \[insert\]. Makes a more decent room I think to have this instead. But overall I think it’s really practical.”
+
+![](/uploads/2018/06/28/IMG_6195.png)
 
 So what did he think was the best thing?
 
