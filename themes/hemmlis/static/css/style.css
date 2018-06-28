@@ -864,6 +864,35 @@ span[data-fee] {
       line-height: 1.6;
     }
 
+.Blog h3 {
+  margin-top: 3rem;
+  margin-bottom: 1.3rem;
+}
+.Stories {
+  margin-top: 5em;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.Story {
+  width: 16em;
+  text-align: center;
+  margin: 2em;
+}
+  .Story p {
+    margin-top: 0.5em;
+  }
+  .Story h3 {
+    font-size: 0.9em;
+    text-transform: capitalize;
+    margin-bottom: 0.5em;
+  }
+  .Story h2 {
+    margin-bottom: 0.4em;
+  }
+
 @media (max-width: 650px) {
   .card {
     max-width: 100%;

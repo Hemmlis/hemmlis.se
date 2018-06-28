@@ -1,0 +1,7 @@
+{{ define "main" }}
+  <section class="l-grid l-constrained">
+    {{ range .Data.Pages }}
+      {{ .Render "li" }}
+    {{ end }}
+  </section>
+{{ end }}
