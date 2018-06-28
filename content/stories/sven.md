@@ -8,6 +8,8 @@ title = "Kobe Hautakiet"
 +++
 # Kobe Hautakiet, Belgium
 
+![](/uploads/2018/06/28/Kobe_1.jpg)
+
 Sleeping on the floor might work for some, but Kobe from Belgium appreciated the fact having a bed the same day he arrived. He was also one of the first patrons to ever try out Hemmlis our first collections. We caught up with him as he was leaving Lund during his pick-up.
 
 “First of all it was practical and such a relief not having to sleep on the floor when I arrived. Secondly, looking around now and seeing all the garbage and furniture lying on the street when people leave, that’s a bonus reason for choosing your service, that it’s a bit more sustainable. I guess it’s mainly those things.”
@@ -21,5 +23,3 @@ So what did he think was the best thing?
 Concerning his ability to think of three words to describe us:
 
 “Oh god, I’m so bad at these things. Cosy, practical and very nice? Does that work?
-
-### En ny värld
