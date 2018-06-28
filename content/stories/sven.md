@@ -6,8 +6,6 @@ summary = "Sleeping on the floor might work for some. Here's the story of Kobe w
 title = "Kobe Hautakiet"
 
 +++
-### Master of Vildanden
-
 ![](/uploads/2018/06/28/Kobe_1_small.jpg)
 
 Sleeping on the floor might work for some, but Kobe from Belgium appreciated the fact having a bed the same day he arrived. He was also one of the first patrons to try out Hemmlis first collections from the fall of 2017 to the summer of 2018. We caught up with him as he was leaving Lund during his pick-up.
