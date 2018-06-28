@@ -6,21 +6,19 @@ summary = "Sleeping on the floor might work for some. Here's the story of Kobe w
 title = "Kobe Hautakiet"
 
 +++
-# Kobe Hautakiet, Belgium
+### Master of Vildanden
 
-![Photo of student outside his residence](/uploads/2018/06/28/Kobe_1.jpg "Kobe outside of the Vildanden student residences")
+![](/uploads/2018/06/28/Kobe_1_small.jpg)
 
-Sleeping on the floor might work for some, but Kobe from Belgium appreciated the fact having a bed the same day he arrived. He was also one of the first patrons to ever try out Hemmlis our first collections. We caught up with him as he was leaving Lund during his pick-up.
+Sleeping on the floor might work for some, but Kobe from Belgium appreciated the fact having a bed the same day he arrived. He was also one of the first patrons to try out Hemmlis first collections from the fall of 2017 to the summer of 2018. We caught up with him as he was leaving Lund during his pick-up.
 
-“First of all it was practical and such a relief not having to sleep on the floor when I arrived. Secondly, looking around now and seeing all the garbage and furniture lying on the street when people leave, that’s a bonus reason for choosing your service, that it’s a bit more sustainable. I guess it’s mainly those things.”
+_“First of all it was practical and such a relief not having to sleep on the floor when I arrived. Secondly, looking around now and seeing all the garbage and furniture lying on the street when people leave, that’s a bonus reason for choosing your service, that it’s a bit more sustainable. I guess it’s mainly those things.”_
 
-“And it’s actually pretty cool furniture when I think about it, otherwise you’ll have to buy the cheapest stuff in \[insert\]. Makes a more decent room I think to have this instead. But overall I think it’s really practical.”
+_“And it’s actually pretty cool furniture when I think about it, otherwise you’ll have to buy the cheapest stuff in \[insert\]. Makes a more decent room I think to have this instead. But overall I think it’s really practical.”_
 
-![](/uploads/2018/06/28/IMG_6195.png)
+![](/uploads/2018/06/28/Kobe_Collection.jpg)So what did he think was the best thing?
 
-So what did he think was the best thing?
-
-“Best thing? You guys being so friendly \*laughs\*. But in all seriousness, I remember when I came here I saw people struggling and walking with beds from northern Lund to here. People don’t have cars when they get here, I mean I guess it was really nice to have the drop-off and pick-up.”
+_“Best thing? You guys being so friendly \*laughs\*. But in all seriousness, I remember when I came here I saw people struggling and walking with beds from northern Lund to here. People don’t have cars when they get here, I mean I guess it was really nice to have the drop-off and pick-up.”_
 
 Concerning his ability to think of three words to describe us:
 
