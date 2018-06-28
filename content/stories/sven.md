@@ -12,7 +12,7 @@ Sleeping on the floor might work for some, but Kobe from Belgium appreciated the
 
 _“First of all it was practical and such a relief not having to sleep on the floor when I arrived. Secondly, looking around now and seeing all the garbage and furniture lying on the street when people leave, that’s a bonus reason for choosing your service, that it’s a bit more sustainable. I guess it’s mainly those things.”_
 
-_“And it’s actually pretty cool furniture when I think about it, otherwise you’ll have to buy the cheapest stuff in \[insert\]. Makes a more decent room I think to have this instead. But overall I think it’s really practical.”_
+_“And it’s actually pretty cool furniture when I think about it, otherwise you’ll have to buy the cheapest stuff at \[insert\]. Makes a more decent room I think to have this instead. But overall I think it’s really practical.”_
 
 ![](/uploads/2018/06/28/Kobe_Collection.jpg)So what did he think was the best thing?
 
