@@ -16,5 +16,10 @@
         </div>
       </a>
     {{ end }}
+    <article class="Stories">
+      {{ range sort (where .Site.Pages.ByTitle "Section" "stories") "Params.id" "asc" }}
+        {{ .Render "li" }}
+      {{ end }}
+    </article>
   </article> 
 {{ end }}
