@@ -4,31 +4,31 @@ is_partial: false
 fields:
 - name: date
   label: Date
-  type: datetime
+  type: 
   hidden: false
   default: ''
 - name: title
   label: Title
-  type: text
+  type: 
   hidden: false
   default: ''
 - name: logo
   label: Logo
-  type: file
+  type: 
   hidden: false
   default: http://kristianronn.com/info_camp/wp-content/uploads/2015/04/emmaus-logo.png
 - name: link
   label: Link
-  type: text
+  type: 
   hidden: false
   default: http://emmausfredriksdal.se/
 - name: type
   label: Type
-  type: text
+  type: 
   hidden: false
   default: ''
 - name: draft
   label: Draft
-  type: boolean
+  type: 
   hidden: false
   default: false

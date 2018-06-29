@@ -4,17 +4,17 @@ is_partial: false
 fields:
 - name: date
   label: Date
-  type: text
+  type: 
   hidden: false
   default: "{{ .Date }}"
 - name: draft
   label: Draft
-  type: boolean
+  type: 
   hidden: false
   default: false
 - name: includes
   label: Includes
-  type: list
+  type: 
   hidden: false
   default:
   - 1 stol
