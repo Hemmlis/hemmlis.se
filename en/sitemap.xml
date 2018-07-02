@@ -492,6 +492,16 @@
     <loc>http://www.hemmlis.se/en/stories/</loc>
     <lastmod>2017-08-04T11:28:53+02:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="http://www.hemmlis.se/stories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.hemmlis.se/en/stories/"
+                />
   </url>
   
   <url>
