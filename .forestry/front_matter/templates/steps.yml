@@ -4,41 +4,41 @@ is_partial: false
 fields:
 - name: title
   label: Title
-  type: 
+  type: text
   hidden: false
   default: ''
 - name: date
   label: Date
-  type: 
+  type: datetime
   hidden: false
   default: "{{ .Date }}"
 - name: summary
   label: Summary
-  type: 
+  type: textarea
   hidden: false
   default: Summary.
 - name: image
   label: Image
-  type: 
+  type: file
   hidden: false
   default: "/img/hemmlis-soffa.png"
 - name: weight
   label: Weight
-  type: 
+  type: text
   hidden: false
   default: ''
 - name: type
   label: Type
-  type: 
+  type: text
   hidden: false
   default: ''
 - name: hidden
   label: Hidden
-  type: 
+  type: boolean
   hidden: false
   default: ''
 - name: draft
   label: Draft
-  type: 
+  type: boolean
   hidden: false
   default: false

@@ -4,6 +4,6 @@ is_partial: false
 fields:
 - name: date
   label: Date
-  type: 
+  type: text
   hidden: false
   default: "{{ .Date }}"

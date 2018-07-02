@@ -2,7 +2,7 @@
 date = "2017-08-04T11:28:53+02:00"
 id = 2
 summary = "Sleeping on the floor is ill advised. Here's the story of Kobe who chose not to."
-title = "Kobe Hautakiet"
+title = "Kobe"
 
 +++
 ![](/uploads/2018/06/28/Kobe_1_small.jpg)

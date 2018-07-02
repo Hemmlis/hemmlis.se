@@ -4,21 +4,21 @@ is_partial: false
 fields:
 - name: date
   label: Date
-  type: 
+  type: text
   hidden: false
   default: "{{ .Date }}"
 - name: draft
   label: Draft
-  type: 
+  type: boolean
   hidden: false
   default: false
 - name: link
   label: Link
-  type: 
+  type: text
   hidden: false
   default: http://www.link.com/
 - name: linktitle
   label: Linktitle
-  type: 
+  type: text
   hidden: false
   default: Link
