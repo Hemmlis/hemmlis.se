@@ -1,6 +1,5 @@
 +++
 date = "2017-08-04T11:28:53+02:00"
-draft = true
 id = 1
 summary = "Att sova på golvet fungerar kanske för vissa. Här är berättelsen om Kobe som valde sängen."
 title = "Kobe"
