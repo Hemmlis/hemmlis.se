@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stories on Hemmlis</title>
+    <link>http://www.hemmlis.se/en/stories/</link>
+    <description>Recent content in Stories on Hemmlis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 04 Aug 2017 11:28:53 +0200</lastBuildDate>
+    
+	<atom:link href="http://www.hemmlis.se/en/stories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kobe</title>
+      <link>http://www.hemmlis.se/en/stories/anna/</link>
+      <pubDate>Fri, 04 Aug 2017 11:28:53 +0200</pubDate>
+      
+      <guid>http://www.hemmlis.se/en/stories/anna/</guid>
+      <description>Sleeping on the floor might work for some, but Kobe from Belgium appreciated the fact having a bed the same day he arrived. He was also one of the first patrons to try out Hemmlis first collections from the fall of 2017 to the summer of 2018. We caught up with him as he was leaving Lund during his pick-up.
+“First of all it was practical and such a relief not having to sleep on the floor when I arrived.</description>
+    </item>
+    
+  </channel>
+</rss>
