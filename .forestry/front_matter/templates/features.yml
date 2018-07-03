@@ -22,5 +22,7 @@ fields:
   type: text
   hidden: false
   default: Link
+- type: number
+  default: '1'
 pages:
 - content/stories/kobe.md
