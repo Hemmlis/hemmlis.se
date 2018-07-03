@@ -4,5 +4,6 @@ draft = true
 link = "http://www.link.com/"
 linktitle = "Link"
 title = "Kobe"
+undefined = 1
 
 +++
