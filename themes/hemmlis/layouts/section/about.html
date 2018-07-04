@@ -3,4 +3,31 @@
     <h2>{{ .Title }}</h2>
     {{ .Content }}
   </article>
+
+  {{ with .Site.GetPage "section" "jobs" }}
+    <article class="l-constrained-text l-center">
+      <h2>{{ .Title }}</h2>
+      {{ .Content }}
+      <a class="l-button l-button-solo" role="button" href="mailto:info@hemmlis.se">{{ .Params.action }}</a>
+      <img class="l-center img-solo" style="height: 9rem; transform: rotate(-45deg);" src="/img/hemmlis-hammare.gif">
+    </article> 
+  {{ end }}
+
+  {{ with .Site.GetPage "section" "partners" }}
+    <article class="l-constrained l-center">
+      <h2>{{ .Title }}</h2>
+      {{ .Content }}
+    </article> 
+  
+    <section class="l-grid l-grid--airy l-constrained l-center">
+      {{ range .Data.Pages }}
+        <article class="l-grid-item">
+          <img class="partner-image" src="{{ .Params.logo }}">
+          <h3><a href="{{ .Params.link }}">{{ .Title }}</a></h3>
+          {{ .Content }}
+        </article>
+      {{ end }}
+    </section>
+  {{ end }}
+
 {{ end }}

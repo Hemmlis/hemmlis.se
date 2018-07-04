@@ -12,8 +12,8 @@
 
       <footer>
         <ul>
-          <li>Består av {{ len .Params.furniture }} möbler</li>
-          <li>Tillagd <time datetime="">{{ dateFormat "2006-01-02" .Params.date }}</time></li>
+          <li>{{ i18n "contains" }} {{ len .Params.furniture }} {{ i18n "furniture" }}</li>
+          <li>{{ i18n "added" }} <time datetime="">{{ dateFormat "2006-01-02" .Params.date }}</time></li>
         </ul>
         <h1>#{{ .Params.collection }}</h1>
       </footer>
@@ -32,25 +32,25 @@
     <aside>
         <form method="GET" action='{{ "/form" | absLangURL }}'>
             <fieldset class="subscription"> 
-              <legend>Beställ kollektionen</legend>
+              <legend>{{ i18n "orderCollection" }}</legend>
 
               <input type="hidden" name="collection" id="collection" value="{{ .Params.collection }}">
 
               <input type="checkbox" name="wideBed" id="wideBed">
-              <label for="wideBed">Byt till bredare säng (120 cm)<span data-price="100">100 kr / mån</span></label>
+              <label for="wideBed">{{ i18n "widerBed" }}<span data-price="100">100 kr {{ i18n "mo"}}</span></label>
 
               <input type="checkbox" name="homeDelivery" id="homeDelivery">
-              <label for="homeDelivery">Leverans in i rummet <span data-fee="299">299 kr</span></label>
+              <label for="homeDelivery">{{ i18n "inRoomDelivery" }} <span data-fee="299">299 kr</span></label>
 
-              <input role="button" class="l-button" type="submit" value="Hyr nu från 399 kr/mån">
+              <input role="button" class="l-button" type="submit" value='{{ i18n "rentNow"}}'>
 
-              <p>En 90 cm bred säng ingår som standard.</p>
+              <p>{{ i18n "bedDisclaimer"}}</p>
             </fieldset>
         </form>
 
         <ul class="arrow-links">
-          <li><a class="arrow-link">Läs mer om hur det fungerar att hyra</a></li>
-          <li><a class="arrow-link">Läs mer om våra kollektioner</a></li>
+          <li><a class="arrow-link" href='{{ "concept" | absLangURL }}'>{{ i18n "howDoesItWork" }}</a></li>
+          <li><a class="arrow-link" href='{{ "how" | absLangURL }}'>{{ i18n "howIsItMade" }}</a></li>
         </ul>
     </aside>
 

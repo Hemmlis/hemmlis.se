@@ -2,7 +2,7 @@ $(document).ready(function() {
 
     var success = function(response) {
       console.log(response);
-      $.each(response, function(a, collection, c){
+      $.each(response, function(a, collection){
         var id = Object.keys(collection)[0];
         var inStock = collection[id];
         var collectionEl = $.find('#'+id)[0];

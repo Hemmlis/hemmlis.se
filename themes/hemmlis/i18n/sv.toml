@@ -15,3 +15,36 @@ other = "Klicka på någon av kollektionerna för att läsa mer."
 
 [latestUpdate]
 other = "Senast uppdaterad 2018-01-01"
+
+[contains]
+other ="Består av"
+
+[furniture]
+other = "möbler"
+
+[added]
+other = "Tillagd"
+
+[orderCollection]
+other = "Beställ kollektionen"
+
+[widerBed]
+other = "Byt till bredare säng (120 cm)"
+
+[mo]
+other = "/ mån"
+
+[inRoomDelivery]
+other = "Leverans in i rummet"
+
+[bedDisclaimer]
+other = "En 90 cm bred säng ingår som standard."
+
+[howDoesItWork]
+other = "Läs mer om hur det fungerar att hyra"
+
+[howIsItMade]
+other = "Läs mer om våra kollektioner"
+
+[rentNow]
+other = "Hyr nu från 399 kr/mån"

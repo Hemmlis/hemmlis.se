@@ -12,3 +12,36 @@ other = "Next collection"
 
 [clickToReadMore]
 other = "Click on any of the collections to read more."
+
+[contains]
+other ="Contains"
+
+[furniture]
+other = "pieces of furniture"
+
+[added]
+other = "Added"
+
+[orderCollection]
+other = "Order the collection"
+
+[widerBed]
+other = "Switch to a wider bed (120 cm)"
+
+[mo]
+other = "/ mo."
+
+[inRoomDelivery]
+other = "In-room delivery"
+
+[bedDisclaimer]
+other = "A 90 cm wide bed is included as standard."
+
+[howDoesItWork]
+other = "Read more about how leasing works."
+
+[howIsItMade]
+other = "Read more about our collections"
+
+[rentNow]
+other = "Lease now from 399 kr/mo."

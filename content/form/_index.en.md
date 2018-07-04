@@ -13,6 +13,7 @@ title = "I want to lease furniture"
         <p>Our ordinary subscription plan has a minimum lease of 10 months.</p>
       </div>
     </div>
+    <input type="hidden" value="" name="collection" id="collection">
     <input type="radio" name="subscription" value="short" id="subscriptionShort">
     <label for="subscriptionShort">
       <span class="subscription-name">One semester</span>
@@ -51,26 +52,6 @@ title = "I want to lease furniture"
     </div>
     <label for="room">Apartment number or other information</label>
     <input type="text" name="room" placeholder="LGH0000" id="room" size="9">
-  </fieldset>
-  <fieldset> 
-    <div class="help">
-      <span class="help-icon">?</span>
-      <div class="help-info">
-        <p>The add-on services are limitied in availability.</p>
-        <p>The bedset includes a duvet, a pillow, and a bed sheet set</p>
-      </div>
-    </div>
-    <legend>Add-on services</legend>
-    <input type="checkbox" name="sofa" id="sofa">
-    <label for="sofa">A sofa <span data-price="100">100 kr / mo.</span></label>
-    <input type="checkbox" name="officeChair" id="officeChair">
-    <label for="officeChair">An office chair <span data-price="75">75 kr / mo.</span></label>
-    <input type="checkbox" name="bedSet" id="bedSet">
-    <label for="bedSet">A bedset <span data-price="75">75 kr / mo.</span></label>
-    <div class="l-center">
-      <label for="otherAddon">Other requests</label>
-      <input type="input" placeholder="e.g. a lamp" name="otherAddon" id="otherAddon" size="25" style="margin-left:1em;">
-    </div>
   </fieldset>
   <fieldset> 
     <legend>Extras</legend>

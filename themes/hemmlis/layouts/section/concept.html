@@ -40,6 +40,19 @@
           </div>
       </section>
     </div>
+
+    <section class="l-center l-divider">
+      <h2>{{ .Params.subtitle }}</h2>
+      {{ range where .Site.Pages.ByTitle "Section" "faq" }}
+        {{if .Content}}
+          <article class="l-constrained-text l-article">
+            <h3>{{ .Title }}</h3>
+            {{ .Content }}
+          </article>
+        {{ end }}
+      {{ end }}
+    </section>
+
   </article>
 
 {{ end }}
