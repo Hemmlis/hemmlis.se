@@ -24,5 +24,3 @@ fields:
   default: Link
 - type: number
   default: '1'
-pages:
-- content/stories/kobe.md
