@@ -22,3 +22,5 @@ fields:
 - type: datetime
   name: date
   label: date
+pages:
+- content/stories/kobe.en.md.md
