@@ -1,9 +1,6 @@
 +++
-date = "{{ .Date }}"
+date = "2018-07-04T16:09:44+02:00"
 draft = true
-link = "http://www.link.com/"
-linktitle = "Link"
 title = "Kobe"
-undefined = 1
 
 +++
