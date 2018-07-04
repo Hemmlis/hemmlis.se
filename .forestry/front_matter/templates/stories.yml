@@ -1,0 +1,11 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- type: number
+  name: id
+  label: id
+  config:
+    min: '1'
+    step: '1'
+    required: true
