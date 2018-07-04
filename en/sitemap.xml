@@ -93,6 +93,21 @@
   </url>
   
   <url>
+    <loc>http://www.hemmlis.se/en/stories/kobe/</loc>
+    <lastmod>2018-07-04T16:10:20+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="http://www.hemmlis.se/stories/kobe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.hemmlis.se/en/stories/kobe/"
+                />
+  </url>
+  
+  <url>
     <loc>http://www.hemmlis.se/en/form/</loc>
     <lastmod>2017-11-17T13:36:30+01:00</lastmod>
     <xhtml:link
@@ -480,6 +495,22 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://www.hemmlis.se/en/steps/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.hemmlis.se/en/stories/</loc>
+    <lastmod>2018-07-04T16:10:20+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="http://www.hemmlis.se/stories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.hemmlis.se/en/stories/"
                 />
   </url>
   
