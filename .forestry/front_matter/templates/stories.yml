@@ -9,5 +9,18 @@ fields:
     min: '1'
     step: '1'
     required: true
+- type: text
+  label: title
+  name: title
+  config:
+    required: true
+- type: textarea
+  name: summary
+  label: summary
+  config:
+    required: true
+- type: datetime
+  name: date
+  label: date
 pages:
 - content/stories/tobbe.en.md.md
