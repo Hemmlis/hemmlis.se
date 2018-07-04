@@ -9,3 +9,5 @@ fields:
     min: '1'
     step: '1'
     required: true
+pages:
+- content/stories/tobbe.en.md.md
