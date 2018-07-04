@@ -22,5 +22,3 @@ fields:
 - type: datetime
   name: date
   label: date
-pages:
-- content/stories/tobbe.en.md.md
