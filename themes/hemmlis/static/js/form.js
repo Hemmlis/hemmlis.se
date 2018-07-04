@@ -92,17 +92,23 @@ $(document).ready(function() {
   var errorUrl = form.data('error-url');
 
   form.on('submit', function(event) {
-    
     event.preventDefault();
-
+    event.stopPropagation();
+    
+    form.attr('aria-busy', "true");
+    
     var success = function(response) {
-      console.log(response);
+      form.attr('aria-busy', "false");
       window.location.href = successUrl;
     }
 
     var failure = function(response) {
-      console.log(response);
-      window.location.href = errorUrl;
+      form.attr('aria-busy', "false");
+      if(response.responseText === 'Not available') {
+        alert('The collection you tried to order has been snatched by someone else!');
+        return;
+      }
+      window.location.href = errorUrl + '?error=' + response.responseText;
     }
 
     var requestOptions = {

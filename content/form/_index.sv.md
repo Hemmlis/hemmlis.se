@@ -3,7 +3,7 @@ date = "2017-11-17T13:36:30+01:00"
 title = "Jag vill hyra möbler"
 
 +++
-<form id="lease-form" data-success-url="/form/success" data-error-url="/form/error">
+<form id="lease-form" aria-busy="false" data-success-url="/form/success" data-error-url="/form/error">
   <fieldset class="subscription"> 
     <legend>Abonnemang</legend>
     <div class="help">

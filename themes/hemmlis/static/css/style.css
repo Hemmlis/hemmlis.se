@@ -684,6 +684,22 @@ a {
     display: inline-block;
   }
 
+@keyframes pulse {
+  0% {
+    opacity: 0.2;
+  }
+  100% {
+    opacity: 0.4;
+  }
+}
+form[aria-busy="true"] {
+  cursor: wait;
+}
+form[aria-busy="true"] input[type="submit"] {
+  pointer-events: none;
+  animation: pulse 450ms infinite;
+  animation-direction: alternate;
+}
 fieldset {
   position: relative;
 }
