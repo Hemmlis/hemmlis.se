@@ -10,7 +10,7 @@ title = "Kobe"
 
 "Först av allt var det väldigt praktiskt att slippa sova på golvet när jag kom. För det andra så är det en bonus såklart att välja er tjänst för hållbarheten, särskilt när jag ser all nedskräpning och möbler som ligger här ute på gatan och vid sopstationen som folk lämnar kvar efter utflytt. Antar att det känns som det är de viktigaste delarna.
 
-"Nu när jag tänker på det i och för sig så är det rätt så coola möbler. Annars får man ju köpa det billigaste på \[varuhus\]. Rummet blir finare med dessa möbler känner jag, men i allmänhet så är det för att det är praktiskt."
+"Nu när jag tänker på det i och för sig så är det rätt så coola möbler. Annars får man ju köpa det billigaste på \[stort möbelvaruhus\]. Rummet blir finare med dessa möbler känner jag, men i allmänhet så är det för att det är praktiskt."
 
 ![](/uploads/2018/06/28/Kobe_Collection.jpg)
 
