@@ -96,23 +96,18 @@ $(document).ready(function() {
     event.preventDefault();
 
     var success = function(response) {
-      if(response.result === 'success') {
-        window.location.href = successUrl;
-      }
-      else {
-        window.location.href = errorUrl;
-        console.log(response);
-      }
+      console.log(response);
+      window.location.href = successUrl;
     }
 
     var failure = function(response) {
-      window.location.href = errorUrl;
       console.log(response);
+      window.location.href = errorUrl;
     }
 
     var requestOptions = {
-      url: 'https://script.google.com/macros/s/AKfycbywfBBvSCkxAI81pjHoxdlTPFw7XE6uci9gmq2r8t-C8kO32_gK/exec',
-      method: 'GET',
+      url: 'http://localhost:8000/index.php?endpoint=order',
+      method: 'POST',
       dataType: 'json',
       data: getFormData(form)
     };

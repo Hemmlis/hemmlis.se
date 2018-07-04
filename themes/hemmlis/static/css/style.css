@@ -586,6 +586,10 @@ a {
   position: relative;
   display: inline-block;
 }
+.outStock {
+  pointer-events: none;
+  opacity: 0.5;
+}
 .collection-head {
   position: relative;
 }
