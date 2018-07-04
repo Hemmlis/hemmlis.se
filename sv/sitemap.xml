@@ -93,6 +93,11 @@
   </url>
   
   <url>
+    <loc>http://www.hemmlis.se/stories/kobe.sv.md/</loc>
+    <lastmod>2018-07-04T16:12:47+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.hemmlis.se/emmaus/</loc>
     <lastmod>2018-03-23T18:14:25+01:00</lastmod>
   </url>
@@ -521,6 +526,12 @@
                 hreflang="sv"
                 href="http://www.hemmlis.se/steps/"
                 />
+  </url>
+  
+  <url>
+    <loc>http://www.hemmlis.se/stories/</loc>
+    <lastmod>2018-07-04T16:12:47+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
