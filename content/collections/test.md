@@ -1,8 +1,7 @@
 +++
 collection = 12
 date = "2018-07-06T13:56:11+02:00"
-draft = false
-furniture = ["/uploads/2018/06/28/IMG_6195.png", "/uploads/2018/06/28/Kobe_1_small.jpg", "/uploads/2018/06/28/Kobe_Collection.jpg"]
+furniture = ["/v1530881338/IMG_1262.png", "/v1530881338/IMG_1271.png", "/v1530881339/IMG_1268.png", "/v1530881339/IMG_1244.png", "/v1530881339/IMG_1250.png", "/v1530881339/IMG_1242.png", "/v1530881340/IMG_5977.png", "/v1530881340/IMG_5991.png"]
 title = "test"
 
 +++
