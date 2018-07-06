@@ -12,5 +12,3 @@ fields:
   description: The ID of the collection
   config:
     required: true
-pages:
-- content/collections/test.md
