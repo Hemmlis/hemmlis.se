@@ -1,0 +1,16 @@
+---
+hide_body: true
+is_partial: false
+fields:
+- type: image_gallery
+  label: furniture
+  name: furniture
+  description: Images of the furniture included in this collection
+- type: text
+  name: collection
+  label: collection
+  description: The ID of the collection
+  config:
+    required: true
+pages:
+- content/collections/test.md

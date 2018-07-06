@@ -4,10 +4,44 @@ auto_deploy: true
 admin_path: 
 webhook_url: 
 sections:
-  content/partners:
-    default_front_matter_template: partners
-  content/steps:
-    default_front_matter_template: steps
+- path: content/collections
+  label: Collections
+  create: all
+- path: content/contact
+  label: Contact
+  create: all
+- path: content/how
+  label: How
+  create: all
+- path: content/jobs
+  label: Jobs
+  create: all
+- path: content/about
+  label: About
+  create: all
+- path: content/steps
+  label: Steps
+  create: all
+  default_front_matter_template: steps
+- path: content/stories
+  label: Stories
+  create: all
+- path: content/partners
+  label: Partners
+  create: all
+  default_front_matter_template: partners
+- path: content/lease
+  label: Lease
+  create: all
+- path: content/form
+  label: Form
+  create: all
+- path: content/emmaus
+  label: Emmaus
+  create: all
+- path: content
+  label: Pages
+  create: all
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
