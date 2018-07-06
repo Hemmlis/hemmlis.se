@@ -6,3 +6,5 @@ fields:
   label: furniture
   name: furniture
   description: Images of the furniture included in this collection
+pages:
+- content/collections/test.md
