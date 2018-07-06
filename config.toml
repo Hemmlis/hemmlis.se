@@ -1,5 +1,6 @@
 DefaultContentLanguage = "sv"
 baseurl = "http://www.hemmlis.se/"
+cloudinary_url = "https://res.cloudinary.com/hemmlis/image/upload/"
 publishDir = "docs"
 theme = "hemmlis"
 [Languages.en]
