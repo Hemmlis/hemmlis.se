@@ -1,5 +1,5 @@
 <div class="l-grid-item collection-images">
-  <a class="collection-image" href="{{ .Permalink }}" id="{{ .Params.collection }}">
+  <a class="collection-image" href="{{ .Permalink  | absLangURL }}" id="{{ .Params.collection }}">
     {{ if .Params.furniture }}
       <div class="collection-collage">
         {{ range .Params.furniture }}
