@@ -1,7 +1,6 @@
 <div class="l-grid-item collection-images">
   <a class="collection-image" href="{{ .Permalink }}" id="{{ .Params.collection }}">
-    {{ .Title }}
-      {{ if .Params.furniture }}
+    {{ if .Params.furniture }}
       <div class="collection-collage">
         {{ range .Params.furniture }}
           <img class="collection-collage-image" src="{{ $.Title }}{{ . }}">
