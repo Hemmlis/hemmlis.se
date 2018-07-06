@@ -4,6 +4,12 @@ auto_deploy: true
 admin_path: 
 webhook_url: 
 sections:
+- path: content/concept
+  label: Concept
+  create: all
+- path: content/faq
+  label: Faq
+  create: all
 - path: content/collections
   label: Collections
   create: all
@@ -30,9 +36,6 @@ sections:
   label: Partners
   create: all
   default_front_matter_template: partners
-- path: content/lease
-  label: Lease
-  create: all
 - path: content/form
   label: Form
   create: all
