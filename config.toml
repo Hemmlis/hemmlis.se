@@ -1,8 +1,9 @@
 DefaultContentLanguage = "sv"
 baseurl = "http://www.hemmlis.se/"
-cloudinary_url = "https://res.cloudinary.com/hemmlis/image/upload/"
 publishDir = "docs"
 theme = "hemmlis"
+[Params]
+  cloudinary = "https://res.cloudinary.com/hemmlis/image/upload/"
 [Languages.en]
 languageName = "English"
 title = "Hemmlis"
@@ -11,11 +12,11 @@ identifier = "how"
 name = "How does it work?"
 url = "/how/"
 weight = 3
-[[Languages.en.menu.main]]
-identifier = "collections"
-name = "Collections"
-url = "/collections/"
-weight = 1
+# [[Languages.en.menu.main]]
+# identifier = "collections"
+# name = "Collections"
+# url = "/collections/"
+# weight = 1
 [[Languages.en.menu.main]]
 identifier = "concept"
 name = "Our concept"
@@ -39,11 +40,11 @@ identifier = "how"
 name = "Hur fungerar det?"
 url = "/how/"
 weight = 3
-[[Languages.sv.menu.main]]
-identifier = "collections"
-name = "Våra kollektioner"
-url = "/collections/"
-weight = 1
+# [[Languages.sv.menu.main]]
+# identifier = "collections"
+# name = "Våra kollektioner"
+# url = "/collections/"
+# weight = 1
 [[Languages.sv.menu.main]]
 identifier = "concept"
 name = "Vårt koncept"

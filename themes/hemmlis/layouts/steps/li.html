@@ -1,4 +1,6 @@
+{{ if .Params.summary }}
 <article class="l-grid-item card" tabindex="2">
   <div class="card-contents" style="background-image: url('{{ .Params.image }}');"></div>
   <p class="card-description">{{ .Params.summary }}</p>
 </article>
+{{ end }}

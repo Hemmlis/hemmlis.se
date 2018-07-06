@@ -3,7 +3,7 @@
     {{ if .Params.furniture }}
       <div class="collection-collage">
         {{ range .Params.furniture }}
-          <img class="collection-collage-image" src="{{ $.Title }}{{ . }}">
+          <img class="collection-collage-image" src="{{ $.Site.Params.cloudinary }}h_140/{{ $.Title }}{{ . }}">
         {{ end }}
       </div>
     {{ end }}

@@ -6,7 +6,7 @@
       
       <div class="l-center l-grid l-grid-thumbnails">
         {{ range .Params.furniture }}
-          <img class="" src="{{ $.Title }}{{ . }}">
+          <img src="{{ $.Site.Params.cloudinary }}h_480/{{ $.Title }}{{ . }}">
         {{ end }}
       </div>
 
