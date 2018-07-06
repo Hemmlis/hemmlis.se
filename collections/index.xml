@@ -10,5 +10,14 @@
 	<atom:link href="http://www.hemmlis.se/collections/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Kollektion 1001</title>
+      <link>http://www.hemmlis.se/collections/kollektion-1001/</link>
+      <pubDate>Fri, 06 Jul 2018 16:30:24 +0200</pubDate>
+      
+      <guid>http://www.hemmlis.se/collections/kollektion-1001/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
