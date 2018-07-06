@@ -93,6 +93,11 @@
   </url>
   
   <url>
+    <loc>http://www.hemmlis.se/collections/test/</loc>
+    <lastmod>2018-07-06T13:56:11+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.hemmlis.se/stories/kobe/</loc>
     <lastmod>2018-07-04T16:12:47+02:00</lastmod>
     <xhtml:link
@@ -308,62 +313,62 @@
   </url>
   
   <url>
-    <loc>http://www.hemmlis.se/lease/faq-payment/</loc>
+    <loc>http://www.hemmlis.se/faq/faq-payment/</loc>
     <lastmod>2017-02-21T12:25:30+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.hemmlis.se/en/lease/faq-payment/"
+                href="http://www.hemmlis.se/en/faq/faq-payment/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="http://www.hemmlis.se/lease/faq-payment/"
+                href="http://www.hemmlis.se/faq/faq-payment/"
                 />
   </url>
   
   <url>
-    <loc>http://www.hemmlis.se/lease/faq-delivery/</loc>
+    <loc>http://www.hemmlis.se/faq/faq-delivery/</loc>
     <lastmod>2017-02-21T12:25:30+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.hemmlis.se/en/lease/faq-delivery/"
+                href="http://www.hemmlis.se/en/faq/faq-delivery/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="http://www.hemmlis.se/lease/faq-delivery/"
+                href="http://www.hemmlis.se/faq/faq-delivery/"
                 />
   </url>
   
   <url>
-    <loc>http://www.hemmlis.se/lease/faq-length/</loc>
+    <loc>http://www.hemmlis.se/faq/faq-length/</loc>
     <lastmod>2017-02-21T12:25:30+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.hemmlis.se/en/lease/faq-length/"
+                href="http://www.hemmlis.se/en/faq/faq-length/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="http://www.hemmlis.se/lease/faq-length/"
+                href="http://www.hemmlis.se/faq/faq-length/"
                 />
   </url>
   
   <url>
-    <loc>http://www.hemmlis.se/lease/</loc>
+    <loc>http://www.hemmlis.se/faq/faq-substitution/</loc>
     <lastmod>2017-02-21T12:25:30+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.hemmlis.se/en/lease/"
+                href="http://www.hemmlis.se/en/faq/faq-substitution/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="http://www.hemmlis.se/lease/"
+                href="http://www.hemmlis.se/faq/faq-substitution/"
                 />
   </url>
   
@@ -379,21 +384,6 @@
                 rel="alternate"
                 hreflang="sv"
                 href="http://www.hemmlis.se/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://www.hemmlis.se/lease/faq-substitution/</loc>
-    <lastmod>2017-02-21T12:25:30+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.hemmlis.se/en/lease/faq-substitution/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sv"
-                href="http://www.hemmlis.se/lease/faq-substitution/"
                 />
   </url>
   
@@ -418,62 +408,62 @@
   </url>
   
   <url>
-    <loc>http://www.hemmlis.se/lease/faq-ending/</loc>
+    <loc>http://www.hemmlis.se/faq/faq-ending/</loc>
     <lastmod>2017-02-21T12:25:30+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.hemmlis.se/en/lease/faq-ending/"
+                href="http://www.hemmlis.se/en/faq/faq-ending/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="http://www.hemmlis.se/lease/faq-ending/"
+                href="http://www.hemmlis.se/faq/faq-ending/"
                 />
   </url>
   
   <url>
-    <loc>http://www.hemmlis.se/lease/faq-breakage/</loc>
+    <loc>http://www.hemmlis.se/faq/faq-breakage/</loc>
     <lastmod>2017-02-21T12:25:30+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.hemmlis.se/en/lease/faq-breakage/"
+                href="http://www.hemmlis.se/en/faq/faq-breakage/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="http://www.hemmlis.se/lease/faq-breakage/"
+                href="http://www.hemmlis.se/faq/faq-breakage/"
                 />
   </url>
   
   <url>
-    <loc>http://www.hemmlis.se/lease/faq-included/</loc>
+    <loc>http://www.hemmlis.se/faq/faq-included/</loc>
     <lastmod>2017-02-21T12:25:30+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.hemmlis.se/en/lease/faq-included/"
+                href="http://www.hemmlis.se/en/faq/faq-included/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="http://www.hemmlis.se/lease/faq-included/"
+                href="http://www.hemmlis.se/faq/faq-included/"
                 />
   </url>
   
   <url>
-    <loc>http://www.hemmlis.se/lease/faq-who/</loc>
+    <loc>http://www.hemmlis.se/faq/faq-who/</loc>
     <lastmod>2017-02-21T12:25:30+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.hemmlis.se/en/lease/faq-who/"
+                href="http://www.hemmlis.se/en/faq/faq-who/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="http://www.hemmlis.se/lease/faq-who/"
+                href="http://www.hemmlis.se/faq/faq-who/"
                 />
   </url>
   
@@ -508,6 +498,21 @@
   </url>
   
   <url>
+    <loc>http://www.hemmlis.se/concept/</loc>
+    <lastmod>2017-02-21T12:25:30+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.hemmlis.se/en/concept/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="http://www.hemmlis.se/concept/"
+                />
+  </url>
+  
+  <url>
     <loc>http://www.hemmlis.se/categories/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -519,6 +524,22 @@
                 rel="alternate"
                 hreflang="sv"
                 href="http://www.hemmlis.se/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.hemmlis.se/faq/</loc>
+    <lastmod>2017-02-21T12:25:30+01:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.hemmlis.se/en/faq/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="http://www.hemmlis.se/faq/"
                 />
   </url>
   
