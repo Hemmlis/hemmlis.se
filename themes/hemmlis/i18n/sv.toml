@@ -54,3 +54,177 @@ other = "Möblerna får plats i ett rum på 20 m2"
 
 [collectionDisclaimer]
 other = "Möblerna hyrs ut tillsammans"
+
+[abonnemang]
+other = "Abonnemang"
+
+[abonnemangHelp]
+other = "Hyr för en termin och betala hela kostnaden i klump om du vet att du behöver möbler för enbart en termin"
+
+[abonnemangHelp2]
+other = "Vårt vanliga erbjudande är annars löpande med en minsta uthyrningstid på 10 månader"
+
+[oneSemester]
+other = "En termin"
+
+[standard]
+other = "Standard"
+
+[atLeast5Mo]
+other = "Minst 5 månader"
+
+[atLeast10Mo]
+other = "Minst 10 månader"
+
+[krmo]
+other = "kr/mån"
+
+[chosenCollection]
+other = "Din valda kollektion"
+
+[noCollectionSelected]
+other = "Du har inte valt någon kollektion än"
+
+[pickACollection]
+other = "Välj en kollektion"
+
+[contactInfo]
+other = "Kontaktinformation"
+
+[yourName]
+other = "Ditt namn"
+
+[yourNamePlaceholder]
+other = "Förnamn Efternamn"
+
+[yourEmail]
+other = "Din e-mailadress"
+
+[yorEmailPlaceholder]
+other = "din@mail.se"
+
+[yourPhone]
+other = "Ditt telefonnummer (med landsnummer)"
+
+[yourPhonePlaceholder]
+other = "+46 70 423 32 22"
+
+[delivery]
+other = "Leveransadress"
+
+[street]
+other = "Gata"
+
+[streetPlaceholder]
+other = "Gatuvägen 12"
+
+[postal]
+other = "Postnummer"
+
+[postalPlaceholder]
+other="222 22"
+
+[city]
+other = "Stad"
+
+[cityPlaceholder]
+other = "Lund"
+
+[lgnr]
+other = "Lägenhetsnummer eller annat"
+
+[lgnrPlaceholder]
+other = "LGH0000"
+
+[extra]
+other = "Extra"
+
+[deliveryTo]
+other = "Leverans till, men ej in i, ditt hem inkluderas alltid i priset."
+
+[theWiderBed]
+other = "Den bredare sängen är 120 cm bred, till skillnad från den 90 cm breda sängen som annars ingår."
+
+[aWiderBed]
+other = "En bredare säng (120 cm)"
+
+[within5days]
+other = "Vi levererar i normala fall inom 5 dagar från valt datum."
+
+[leaveComment]
+other = "Lämna en kommentar i fältet för speciella önskemål, eller kontakta oss för mer information."
+
+[leverans]
+other = "Leverans"
+
+[leveransWhen]
+other = "När önskar du få dina möbler levererade?"
+
+[datum]
+other = "Datum"
+
+[otherInfo]
+other = "Övrig information"
+
+[otherInfoPlaceholder]
+other = "Övriga frågor eller anmärkningar"
+
+[payment]
+other = "Betalning"
+
+[perMonth]
+other = "Per månad"
+
+[perMonthDescription]
+other = "Få en faktura varje månad"
+
+[perQuarter]
+other = "Per kvartal"
+
+[perQuarterDescription]
+other = "Få en faktura var 3:e månad"
+
+[per6mo]
+other = "Per halvår"
+
+[per6moDescription]
+other = "Få en faktura var 6:e månad"
+
+[allAtOnce]
+other = "Allt på en gång"
+
+[allAtOnceDescription]
+other = "Få en faktura för hela terminen"
+
+[fakturering]
+other = "Fakturering"
+
+[fakturering1]
+other = "Betalning av fakturor sker via banktransaktion eller till vårt Paypal-konto."
+
+[fakturering2]
+other = "Fakturorna skickas via e-mail baserat på din valda faktureringsperiod."
+
+[fakturaEmail]
+other = "Skicka fakturan till en annan mailadress"
+
+[fakturaEmail2]
+other = "E-mailadress för fakturering"
+
+[fakturaEmailPlaceholder]
+other = "faktura@mail.se"
+
+[personuppgifter]
+other = "Personuppgifterna i detta formulär kommer endast användas för behandling av din beställning."
+
+[contact]
+other = "Vi kontaktar dig medelst e-mail inom 24 timmar för orderbekräftelse och mer information."
+
+[order]
+other = "Beställ"
+
+[abkostnad]
+other = "Abonnemangskostnad"
+
+[enkostnad]
+other = "Engångskostnad"
