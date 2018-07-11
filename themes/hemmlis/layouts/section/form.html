@@ -26,6 +26,10 @@
     </fieldset>
     <fieldset class="collection"> 
       <legend>Din valda kollektion</legend>
+      <div id="chooseCollection">
+        <p>Du har inte valt någon kollektion än</p>
+        <a class="l-button" href="/collections">Välj en kollektion</a>
+      </div>
       <input type="hidden" value="" name="collection" id="collection">
         {{ range where .Site.Pages.ByTitle "Section" "collections" }}
           {{ if .Params.collection }}
