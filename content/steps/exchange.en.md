@@ -4,9 +4,10 @@ hidden = false
 image = "/img/hemmlis-mobler-02.gif"
 summary = "Your enjoy your furniture during your stay."
 title = "The circle is complete"
+type = ""
 weight = 5
 
 +++
-Furniture  that have been leased will be reintroduced into our circular system where it’s sanitized anew, and refeshed in order to be leased again. This way we create an alternative model for furniture consumtion which we believe will reduce the wastage of furniture and the following negative impact it has on the environment.
+Furniture that have been out will be reintroduced into our circular system where it’s sanitized anew, and refeshed in order to be leased again for another subscriber. This way we create an alternative model for furniture consupmtion which we believe will reduce furniture waste and the environmental impact.
 
-To succeed in this, it is crucial for us that our furniture be used responsibly. We put all out  faith in that you, our customers help us out in this so that we can continue to offer you neat collections of furniture in the future. This we thank you for, full-hearted, on the behalf of our planet!
+To succeed in this, it is crucial for us that our furniture be used responsibly. We put all out  faith in that you, our customers help us out in this so that we can continue to offer you neat collections of furniture in the future. This we thank you full-heartedly, on behalf of our planet!
