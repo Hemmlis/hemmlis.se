@@ -580,7 +580,18 @@ a {
     bottom: -60px;
     left: -60px;
   }
-
+  .collection-collage-selected {
+    height: 140px;
+  }
+  .collection-collage-selected img {
+    width: 30px;
+    margin-top: 2em;
+  }
+  
+  fieldset.collection {
+    text-align: center;
+    font-family: 'futura-pt', 'Futura PT', sans-serif;
+  }
 
 .collection-image {
   position: relative;

@@ -1,0 +1,10 @@
+<a class="collection-image" href="{{ .Permalink  | absLangURL }}" id="{{ .Params.collection }}">
+  <span>{{ .Title }}</span>
+  {{ if .Params.furniture }}
+    <div class="collection-collage-selected">
+      {{ range .Params.furniture }}
+        <img src="{{ $.Site.Params.cloudinary }}e_trim/w_120/{{ . }}">
+      {{ end }}
+    </div>
+  {{ end }}
+</a>

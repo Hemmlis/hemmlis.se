@@ -45,3 +45,9 @@ other = "Read more about our collections"
 
 [rentNow]
 other = "Lease now from 399 kr/mo."
+
+[roomSize]
+other = "The collections fits a 20 m2 room"
+
+[collectionDisclaimer]
+other = "The furniture are leased together"

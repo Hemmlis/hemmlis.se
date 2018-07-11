@@ -27,6 +27,15 @@ title = "Jag vill hyra möbler"
       <span class="subscription-cost" data-price="399">399 kr/mån</span>
     </label>
   </fieldset>
+  <fieldset class="collection"> 
+    <legend>Kollektion</legend>
+    <input type="hidden" value="" name="collection" id="collection">
+    <select>
+    {{ range where .Site.Pages "Section" "collections" }}
+      <option>Kollektion 1</option>
+    {{ end }}
+    </select>
+  </fieldset>
   <fieldset> 
     <legend>Kontaktinformation</legend>
     <label for="name">Ditt namn</label>
