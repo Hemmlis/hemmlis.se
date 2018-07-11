@@ -1,5 +1,7 @@
 $(document).ready(function() {
 
+  window.scrollTo(0,0);
+
   var searchParams = new URLSearchParams(window.location.search);
 
   var wantSofa = searchParams.get('sofa');
@@ -13,6 +15,15 @@ $(document).ready(function() {
   $('#officeChair').prop('checked', wantChair === 'on' ? true : false);
   $('#homeDelivery').prop('checked', homeDelivery === 'on' ? true : false);
   $('#collection').prop('value', collection);
+  $('.collection-image').hide();
+
+  if(collection) {
+    $('#chooseCollection').hide();
+    $('#'+collection).show();
+  }
+  else {
+    $('#chooseCollection').show();
+  }
   
   var getFormData = function($form){
     var unindexedArray = $form.serializeArray();
