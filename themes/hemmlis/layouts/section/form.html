@@ -11,7 +11,6 @@
           <p>Vårt vanliga erbjudande är annars löpande med en minsta uthyrningstid på 10 månader</p>
         </div>
       </div>
-      <input type="hidden" value="" name="collection" id="collection">
       <input type="radio" name="subscription" value="short" id="subscriptionShort">
       <label for="subscriptionShort">
         <span class="subscription-name">En termin</span>
@@ -26,14 +25,13 @@
       </label>
     </fieldset>
     <fieldset class="collection"> 
-      <legend>Kollektion</legend>
-      <select name="collection" id="collection">
-      {{ range where .Site.Pages.ByTitle "Section" "collections" }}
-        {{ if .Params.id }}
-          <option value="{{ .Params.id }}">{{ .Params.id }}</option>
+      <legend>Din valda kollektion</legend>
+      <input type="hidden" value="" name="collection" id="collection">
+        {{ range where .Site.Pages.ByTitle "Section" "collections" }}
+          {{ if .Params.collection }}
+            {{ .Render "selected" }}
+          {{ end }}
         {{ end }}
-      {{ end }}
-      </select>
     </fieldset>
     <fieldset> 
       <legend>Kontaktinformation</legend>

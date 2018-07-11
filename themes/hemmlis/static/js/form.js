@@ -13,6 +13,13 @@ $(document).ready(function() {
   $('#officeChair').prop('checked', wantChair === 'on' ? true : false);
   $('#homeDelivery').prop('checked', homeDelivery === 'on' ? true : false);
   $('#collection').prop('value', collection);
+
+  if(collection) {
+    $('.collection-image').hide();
+    $('#'+collection).show();
+  }
+  console.log(collection);
+  console.log($('#collection'));
   
   var getFormData = function($form){
     var unindexedArray = $form.serializeArray();
