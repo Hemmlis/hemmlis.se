@@ -505,8 +505,7 @@ a {
   transform: scale(0.5);
 }
 
-.collection-collage-image,
-.collection-collage-selected img {
+.collection-collage-image {
   position: absolute;
   transition-property: all;
   transition-duration: 100ms;
@@ -585,34 +584,13 @@ a {
     height: 140px;
   }
   .collection-collage-selected img {
-    position: relative;
+    width: 30px;
+    margin-top: 2em;
   }
-  .collection-collage-selected img:nth-child(1) {
-    
-  }
-  .collection-collage-selected img:nth-child(2) {
-    
-  }
-  .collection-collage-selected img:nth-child(3) {
-    
-  }
-  .collection-collage-selected img:nth-child(4) {
-    
-  }
-  .collection-collage-selected img:nth-child(5) {
-    
-  }
-  .collection-collage-selected img:nth-child(6) {
-    
-  }
-  .collection-collage-selected img:nth-child(7) {
-    
-  }
-  .collection-collage-selected img:nth-child(8) {
-    
-  }
+  
   fieldset.collection {
     text-align: center;
+    font-family: 'futura-pt', 'Futura PT', sans-serif;
   }
 
 .collection-image {
