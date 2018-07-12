@@ -95,6 +95,16 @@
   <url>
     <loc>http://www.hemmlis.se/collections/kollektion-2003/</loc>
     <lastmod>2018-07-11T16:35:49+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.hemmlis.se/en/collections/kollektion-2003/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="http://www.hemmlis.se/collections/kollektion-2003/"
+                />
   </url>
   
   <url>
@@ -418,21 +428,6 @@
   </url>
   
   <url>
-    <loc>http://www.hemmlis.se/faq/faq-substitution/</loc>
-    <lastmod>2017-02-21T12:25:30+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.hemmlis.se/en/faq/faq-substitution/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sv"
-                href="http://www.hemmlis.se/faq/faq-substitution/"
-                />
-  </url>
-  
-  <url>
     <loc>http://www.hemmlis.se/</loc>
     <lastmod>2017-02-21T12:25:30+01:00</lastmod>
     <xhtml:link
@@ -444,6 +439,21 @@
                 rel="alternate"
                 hreflang="sv"
                 href="http://www.hemmlis.se/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.hemmlis.se/faq/faq-substitution/</loc>
+    <lastmod>2017-02-21T12:25:30+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.hemmlis.se/en/faq/faq-substitution/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="http://www.hemmlis.se/faq/faq-substitution/"
                 />
   </url>
   

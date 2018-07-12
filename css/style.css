@@ -240,7 +240,7 @@ a {
   }
   .l-grid-thumbnails img {
     height: 15rem;
-    margin: 2rem;
+    margin: 1.5rem;
   }
   .l-grid-feature-image {
     height: auto;
@@ -587,7 +587,7 @@ a {
     height: 140px;
   }
   .collection-collage-selected img {
-    width: 30px;
+    max-height: 60px;
     margin-top: 2em;
   }
   
@@ -605,6 +605,19 @@ a {
 .outStock {
   pointer-events: none;
   opacity: 0.5;
+}
+.outStock::before {
+  content: attr(data-text);
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  padding: 0.2em 0;
+  left: 0;
+  right: 0;
+  font-family: 'futura-pt', 'Futura PT', sans-serif;
+  background-color: rgba(255,255,255,1);
+  top: 3.3em;
+  z-index: 1;
 }
 .collection-head {
   position: relative;

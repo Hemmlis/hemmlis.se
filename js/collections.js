@@ -198,7 +198,8 @@ $(document).ready(function() {
     }
 
     var requestOptions = {
-      url: 'http://localhost:8000/index.php?endpoint=collections',
+      // url: 'http://localhost:8000/index.php?endpoint=collections',
+      url: 'https://hemmlis-crm.herokuapp.com/index.php?endpoint=collections',
       method: 'GET',
       dataType: 'json'
     };
