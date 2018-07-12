@@ -927,6 +927,7 @@ span[data-fee] {
 }
 .Blog img {
   max-width: 100%;
+  margin: 2rem 0;
 }
 .Stories {
   margin-top: 5em;
