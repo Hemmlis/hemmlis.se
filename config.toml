@@ -12,11 +12,11 @@ identifier = "how"
 name = "How does it work?"
 url = "/how/"
 weight = 3
-# [[Languages.en.menu.main]]
-# identifier = "collections"
-# name = "Collections"
-# url = "/collections/"
-# weight = 1
+[[Languages.en.menu.main]]
+identifier = "collections"
+name = "Collections"
+url = "/collections/"
+weight = 1
 [[Languages.en.menu.main]]
 identifier = "concept"
 name = "Our concept"
@@ -40,11 +40,11 @@ identifier = "how"
 name = "Hur fungerar det?"
 url = "/how/"
 weight = 3
-# [[Languages.sv.menu.main]]
-# identifier = "collections"
-# name = "Våra kollektioner"
-# url = "/collections/"
-# weight = 1
+[[Languages.sv.menu.main]]
+identifier = "collections"
+name = "Våra kollektioner"
+url = "/collections/"
+weight = 1
 [[Languages.sv.menu.main]]
 identifier = "concept"
 name = "Vårt koncept"

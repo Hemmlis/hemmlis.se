@@ -123,7 +123,8 @@ $(document).ready(function() {
     }
 
     var requestOptions = {
-      url: 'http://localhost:8000/index.php?endpoint=order',
+      url: 'https://hemmlis-crm.herokuapp.com/index.php?endpoint=order',
+      // url: 'http://localhost:8000/index.php?endpoint=order',
       method: 'POST',
       dataType: 'json',
       data: getFormData(form)

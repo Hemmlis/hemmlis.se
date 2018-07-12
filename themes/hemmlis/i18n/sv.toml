@@ -228,3 +228,12 @@ other = "Abonnemangskostnad"
 
 [enkostnad]
 other = "Engångskostnad"
+
+[mattressPadDisclaimer]
+other = "Bäddmadrass ingår"
+
+[rentDisclaimer]
+other = "I nästa steg fyller du i leveransdetaljer"
+
+[rented]
+other = "Uthyrd"

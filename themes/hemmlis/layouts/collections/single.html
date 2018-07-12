@@ -6,7 +6,7 @@
       
       <div class="l-center l-grid l-grid-thumbnails">
         {{ range .Params.furniture }}
-          <img src="{{ $.Site.Params.cloudinary }}e_trim/h_480/{{ . }}">
+          <img src="{{ $.Site.Params.cloudinary }}e_trim/h_480,w_480,c_pad/{{ . }}">
         {{ end }}
       </div>
 
@@ -39,9 +39,9 @@
               <input type="checkbox" name="wideBed" id="wideBed">
               <label for="wideBed">{{ i18n "widerBed" }}<span data-price="100">100 kr {{ i18n "mo"}}</span></label>
 
-              <input role="button" class="l-button" type="submit" value='{{ i18n "rentNow"}}'>
+              <input id='{{ .Params.collection }}' role="button" class="l-button" type="submit" value='{{ i18n "rentNow"}}'>
 
-              <p>{{ i18n "bedDisclaimer"}}</p>
+              <p>{{ i18n "rentDisclaimer"}}</p>
             </fieldset>
         </form>
 
@@ -49,6 +49,7 @@
           <li><span class="arrow-link">{{ i18n "roomSize"}}</span></li>
           <li><span class="arrow-link">{{ i18n "collectionDisclaimer"}}</span></li>
           <li><span class="arrow-link">{{ i18n "bedDisclaimer"}}</span></li>
+          <li><span class="arrow-link">{{ i18n "mattressPadDisclaimer"}}</span></li>
         </ul>
     </aside>
 

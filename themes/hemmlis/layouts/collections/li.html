@@ -1,9 +1,9 @@
 {{ if .Params.furniture }}
 <div class="l-grid-item collection-images">
-  <a class="collection-image" href="{{ .Permalink  | absLangURL }}" id="{{ .Params.collection }}">
+  <a class="collection-image" href="{{ .Permalink  | absLangURL }}" id="{{ .Params.collection }}" data-text='{{ i18n "rented" }}'>
       <div data-color='{{ .Params.collection }}' class="collection-collage">
         {{ range .Params.furniture }}
-          <img class="collection-collage-image" src="{{ $.Site.Params.cloudinary }}e_trim/h_140/{{ . }}">
+          <img class="collection-collage-image" src="{{ $.Site.Params.cloudinary }}e_trim/h_140,w_140,c_pad/{{ . }}">
         {{ end }}
       </div>
   </a>

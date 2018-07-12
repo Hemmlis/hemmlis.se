@@ -225,3 +225,12 @@ other = "Subscription cost"
 
 [enkostnad]
 other = "One time fee"
+
+[mattressPadDisclaimer]
+other = "Mattress pad is included"
+
+[rentDisclaimer]
+other = "In the next step you will provide delivery details"
+
+[rented]
+other = "Leased"
