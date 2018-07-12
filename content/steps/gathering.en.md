@@ -4,9 +4,10 @@ hidden = false
 image = "/img/hemmlis-soffa.gif"
 summary = "We collect furniture from private households, second hand stores or partners."
 title = "Gathering"
+type = ""
 weight = 1
 
 +++
-Hemmlis finds all our furniture through second hand sources. Some we collect  from individuals on second hand platforms online, while other furniture reaches us through partners like Emmaus Lund. For some collections we purchase specific pieces of furniture from second hand stores or flea markets.
+Hemmlis finds most of our furniture through second-hand sources. Some we collect from individuals on second hand platforms online, while other furniture reaches us through partners like Emmaus Fredriksdal. For some collections we purchase specific pieces of furniture from second hand stores or flea markets.
 
 We also receive donations from individuals, contacting us directly through our facebook page or email address. We try to collect furniture in the immediate area around Lund, to decrease environmental impact.
