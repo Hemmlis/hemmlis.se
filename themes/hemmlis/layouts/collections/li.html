@@ -1,7 +1,7 @@
 {{ if .Params.furniture }}
 <div class="l-grid-item collection-images">
   <a class="collection-image" href="{{ .Permalink  | absLangURL }}" id="{{ .Params.collection }}">
-      <div class="collection-collage">
+      <div data-color='{{ .Params.collection }}' class="collection-collage">
         {{ range .Params.furniture }}
           <img class="collection-collage-image" src="{{ $.Site.Params.cloudinary }}e_trim/h_140/{{ . }}">
         {{ end }}

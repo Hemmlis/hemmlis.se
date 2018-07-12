@@ -15,7 +15,7 @@
           <li>{{ i18n "contains" }} {{ len .Params.furniture }} {{ i18n "furniture" }}</li>
           <li>{{ i18n "added" }} <time datetime="">{{ dateFormat "2006-01-02" .Params.date }}</time></li>
         </ul>
-        <h1>#{{ .Params.collection }}</h1>
+        <h1><span class="marker" data-color='{{ .Params.collection }}'></span>#{{ .Params.collection }}</h1>
       </footer>
 
       <div class="l-center l-grid control-panel">
@@ -54,4 +54,5 @@
 
   </article>
 
+  <script src="/js/collections.js"></script>
 {{ end }}

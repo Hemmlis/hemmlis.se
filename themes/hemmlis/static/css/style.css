@@ -504,6 +504,9 @@ a {
   height: 140px;
   transform: scale(0.5);
 }
+.collection-collage[data-color] {
+  border-radius: 50%;
+}
 
 .collection-collage-image {
   position: absolute;
@@ -589,7 +592,9 @@ a {
   }
   
   fieldset.collection {
-    text-align: center;
+    text-align: center;    
+  }
+  fieldset.collection span {
     font-family: 'futura-pt', 'Futura PT', sans-serif;
   }
 
@@ -625,6 +630,14 @@ a {
   padding: 0;
 }
 
+.marker {
+  display: inline-block;
+  height: 0.6em;
+  width: 0.6em;
+  border-radius: 50%;
+  vertical-align: baseline;
+  margin-right: 0.3em;
+}
 .step-number {
   border: 1px solid;
   border-radius: 50%;
