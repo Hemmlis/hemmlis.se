@@ -2,7 +2,7 @@
 date = "2017-08-04T11:29:16+02:00"
 hidden = false
 image = "/img/hemmlis-post.gif"
-summary = "We deliver all your furniture to your doorstep."
+summary = "We deliver your furniture to your sidewalk."
 title = "Your order"
 weight = 4
 

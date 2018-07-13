@@ -4,4 +4,4 @@ subtitle = "FAQ"
 title = "Our concept"
 
 +++
-Our base collections consists of 6 different pieces of furniture, meshed together to create a uniform design concept suitable for a complete student room around 15-20 square meters. The furniture are leased together and is a part of your subscription.
+Our base collections consists of 6 different pieces of furniture, meshed together to create a uniform design concept suitable for a complete student room around 15-20 square meters. The furniture are delivered together as a part of your subscription.

@@ -23,7 +23,7 @@ other = "pieces of furniture"
 other = "Added"
 
 [orderCollection]
-other = "Order the collection"
+other = "Subscribe to this collection"
 
 [widerBed]
 other = "Switch to a wider bed (120 cm)"
@@ -44,13 +44,13 @@ other = "Read more about how leasing works."
 other = "Read more about our collections"
 
 [rentNow]
-other = "Lease now from 399 kr/mo."
+other = "Subscribe from 399 kr/mo."
 
 [roomSize]
 other = "The collection fits a 15 to 20 m2 room"
 
 [collectionDisclaimer]
-other = "The furniture are leased together"
+other = "The furniture are delivered together"
 
 [abonnemang]
 other = "Subscription"
@@ -59,7 +59,7 @@ other = "Subscription"
 other = "If you're staying for one semester you can opt to pay for the entire semester in advance."
 
 [abonnemangHelp2]
-other = "Our ordinary subscription plan has a minimum lease of 10 months."
+other = "Our ordinary subscription plan has a minimum subscription time of 10 months."
 
 [oneSemester]
 other = "One semester"
@@ -137,7 +137,7 @@ other = "LGH0000"
 other = "Extra"
 
 [deliveryTo]
-other = "Delivery to your home, but not into your apartment, is always included."
+other = "Delivery to your sidewalk, but not into your apartment, is always included."
 
 [theWiderBed]
 other = "The wider bed is 120 cm (king size), as opposed to the ordinary bed which is 90 cm."
@@ -212,13 +212,13 @@ other = "E-mail address for invoicing"
 other = "invoice@mail.com"
 
 [personuppgifter]
-other = "The personal information received through this form will only be used for order treatment."
+other = "The personal information received through this form will only be used for subscription order treatment."
 
 [contact]
-other = "We will contact you through email within 24 hours with more order confirmation details."
+other = "We will contact you through email within 24 hours with subscription confirmation details."
 
 [order]
-other = "Submit order"
+other = "Subscribe"
 
 [abkostnad]
 other = "Subscription cost"
@@ -233,4 +233,4 @@ other = "Mattress pad is included"
 other = "In the next step you will provide delivery details"
 
 [rented]
-other = "Leased"
+other = "Already taken"
