@@ -273,21 +273,6 @@
   </url>
   
   <url>
-    <loc>http://www.hemmlis.se/en/form/</loc>
-    <lastmod>2017-11-17T13:36:30+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="sv"
-                href="http://www.hemmlis.se/form/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.hemmlis.se/en/form/"
-                />
-  </url>
-  
-  <url>
     <loc>http://www.hemmlis.se/en/form/error/</loc>
     <lastmod>2017-11-17T13:36:30+01:00</lastmod>
     <xhtml:link
@@ -299,6 +284,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://www.hemmlis.se/en/form/error/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.hemmlis.se/en/form/</loc>
+    <lastmod>2017-11-17T13:36:30+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="http://www.hemmlis.se/form/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.hemmlis.se/en/form/"
                 />
   </url>
   
@@ -438,21 +438,6 @@
   </url>
   
   <url>
-    <loc>http://www.hemmlis.se/en/</loc>
-    <lastmod>2017-02-21T12:25:30+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="sv"
-                href="http://www.hemmlis.se/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.hemmlis.se/en/"
-                />
-  </url>
-  
-  <url>
     <loc>http://www.hemmlis.se/en/collections/</loc>
     <lastmod>2017-02-21T12:25:30+01:00</lastmod>
     <xhtml:link
@@ -479,6 +464,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://www.hemmlis.se/en/concept/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.hemmlis.se/en/</loc>
+    <lastmod>2017-02-21T12:25:30+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="http://www.hemmlis.se/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.hemmlis.se/en/"
                 />
   </url>
   
