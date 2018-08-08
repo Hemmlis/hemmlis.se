@@ -1041,4 +1041,34 @@ span[data-fee] {
     border-bottom: none;
     padding: 2rem 1rem;
   }
+  .marker {
+    display: block;
+    margin: 5rem auto;
+    margin-bottom: 2rem;
+  }
+  .Collection footer h1 {
+    position: relative;
+    margin-top: 0;
+  }
+  .Collection footer ul {
+    text-align: center;
+    padding: 0;
+  }
+  .control-panel a {
+    margin: 1em 0;
+  }
+  .Collection {
+    flex-wrap: wrap-reverse;
+    width: 100%;
+  }
+  .Collection aside {
+    padding: 0;
+  }
+  .Collection fieldset {
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .Collection .arrow-links {
+    margin-bottom: 5rem;
+  }
 }
