@@ -56,7 +56,7 @@ other = "The furniture are delivered together"
 other = "Subscription"
 
 [abonnemangHelp]
-other = "If you're staying for one semester you can opt to pay for the entire semester in advance."
+other = "If you're staying for one semester we offer a subscription with a lower binding period of one semester (5 months)"
 
 [abonnemangHelp2]
 other = "Our ordinary subscription plan has a minimum subscription time of 10 months."
@@ -146,10 +146,10 @@ other = "The wider bed is 120 cm (king size), as opposed to the ordinary bed whi
 other = "A wider bed (120 cm)"
 
 [within5days]
-other = "Ordinary delivery is usually within five days from specified date."
+other = "We strive to deliver within 2 days of your selected delivery date (if you place your order at least 5 days in advance). "
 
 [leaveComment]
-other = "Leave a comment in the field for special requests or contact us for more information."
+other = "We will contact you by SMS within 24 hours of ordering with a confirmed delivery date. We deliver evenings and weekends."
 
 [leverans]
 other = "Delivery"
@@ -197,10 +197,10 @@ other = "Get an invoice for the whole semester"
 other = "Invoicing"
 
 [fakturering1]
-other = "Invoice payments can be made through bank transactions or to our Paypal account."
+other = "We use PayPal for payment. You receive one invoice for the entier subscription period which you can choose to pay in full or in parts (at your discretion) during the subsription period."
 
 [fakturering2]
-other = "Invoice will be sent through e-mail depending on your prefered payment period."
+other = "Invoices will be sent by e-mail. After your minimum subscription period you will be invoiced monthly unless you upgrade your subscription."
 
 [fakturaEmail]
 other = "Send the invoice to another e-mail address"
@@ -234,3 +234,12 @@ other = "In the next step you will provide delivery details"
 
 [rented]
 other = "Already taken"
+
+[termsLink]
+other = "Read the terms here (opens in new window)"
+
+[acceptTerms]
+other = "I accept the terms stated in the above link"
+
+[termsLegend]
+other = "Terms"

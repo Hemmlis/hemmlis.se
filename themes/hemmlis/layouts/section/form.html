@@ -1,8 +1,9 @@
 {{ define "main" }}
   <article class="l-container">
     <h2>{{ .Title }}</h2>
-  <form id="lease-form" aria-busy="false" data-success-url="/form/success" data-error-url="/form/error">
+  <form id="lease-form" aria-busy="false" data-success-url='{{ "/form/success" | absLangURL }}' data-error-url='{{ "/form/error" | absLangURL }}'>
     <fieldset class="subscription"> 
+      <input type="hidden" value="{{ .Lang }}" name="language" id="language">
       <legend>{{ i18n "abonnemang" }}</legend>
       <div class="help">
         <span class="help-icon">?</span>
@@ -92,7 +93,7 @@
       <label for="other">{{ i18n "otherInfo" }}</label>
       <input type="text" name="other" placeholder='{{ i18n "otherInfoPlaceholder" }}' id="other" size="30">
     </fieldset>
-    <fieldset>
+    <fieldset style="display: none">
       <legend>{{ i18n "payment" }}</legend>
       <input type="radio" name="payment" value="1" data-name="/ mån" id="paypermonth" checked>
       <label class="label-wide" for="paypermonth">
@@ -131,10 +132,15 @@
         <input type="invoiceEmail" name="invoiceEmail" placeholder='{{ i18n "fakturaEmailPlaceholder" }}' id="invoiceEmail" size="30">
       </div>
     </fieldset>
+    <fieldset>
+      <legend>{{ i18n "termsLegend" }}</legend>
+      <p><a target="_blank" class="arrow-link" href='{{ "/form/contract" | absLangURL }}'>{{ i18n "termsLink" }}</a></p>
+      <input required type="checkbox" name="acceptTerms" id="acceptTerms" value="acceptTerms">
+      <label class="label checkbox" for="acceptTerms">{{ i18n "acceptTerms" }}</label>
+    </fieldset>
     <div class="l-center">
       <div style="width: 60%; margin: 0 auto;">
         <p><i>{{ i18n "personuppgifter" }}</i></p>
-        <p>{{ i18n "contact" }}</p>
       </div>
       <input role="button" class="l-button" type="submit" value='{{ i18n "order" }}'>
     </div>

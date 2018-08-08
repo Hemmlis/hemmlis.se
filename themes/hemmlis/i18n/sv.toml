@@ -59,10 +59,10 @@ other = "Möblerna hyrs ut tillsammans"
 other = "Abonnemang"
 
 [abonnemangHelp]
-other = "Hyr för en termin och betala hela kostnaden i klump om du vet att du behöver möbler för enbart en termin"
+other = "Om du vet att du bara behöver möbler en termin erbjuder vi ett abonnemang med lägre bindningstid (en termin, 5 månader)."
 
 [abonnemangHelp2]
-other = "Vårt vanliga erbjudande är annars löpande med en minsta uthyrningstid på 10 månader"
+other = "Vårt vanliga abonnemang är löpande med en minsta uthyrningstid på 10 månader"
 
 [oneSemester]
 other = "En termin"
@@ -149,10 +149,10 @@ other = "Den bredare sängen är 120 cm bred, till skillnad från den 90 cm bred
 other = "En bredare säng (120 cm)"
 
 [within5days]
-other = "Vi levererar i normala fall inom 5 dagar från valt datum."
+other = "Vi strävar efter att leverera inom 2 dygn från ditt önskade leveransdatum (förusatt att du bokar senast 5 dagar innan önskad leverans)."
 
 [leaveComment]
-other = "Lämna en kommentar i fältet för speciella önskemål, eller kontakta oss för mer information."
+other = "Vi kontaktar dig via SMS inom 24 timmar efter beställning med ett fastställt leveransdatum. Leverans sker på kvällar och helger."
 
 [leverans]
 other = "Leverans"
@@ -200,10 +200,10 @@ other = "Få en faktura för hela terminen"
 other = "Fakturering"
 
 [fakturering1]
-other = "Betalning av fakturor sker via banktransaktion eller till vårt Paypal-konto."
+other = "Betalning sker via Paypal. Du få en faktura för hela uthyrningen som du kan delbetala i den egna takt."
 
 [fakturering2]
-other = "Fakturorna skickas via e-mail baserat på din valda faktureringsperiod."
+other = "Fakturorna skickas via e-mail. Efter bindningstiden fakutereras du per månad om du inte uppdaterar ditt abonnemang."
 
 [fakturaEmail]
 other = "Skicka fakturan till en annan mailadress"
@@ -236,4 +236,13 @@ other = "Bäddmadrass ingår"
 other = "I nästa steg fyller du i leveransdetaljer"
 
 [rented]
-other = "Uthyrd"
+other = "Uthyrd"  
+
+[termsLink]
+other = "Läs avtalsvillkoren här (öppnas i ett nytt fönster)"
+
+[acceptTerms]
+other = "Jag godkänner ovan nämnda avtalsvillkor"
+
+[termsLegend]
+other = "Villkor"

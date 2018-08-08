@@ -810,6 +810,41 @@ input[type="radio"]:checked + label {
   border-color: rgb(0, 148, 102);
   color: #fff;
 }
+input[type="checkbox"] + label.checkbox {
+  position: relative;
+  padding-left: 4em;
+}
+input[type="checkbox"] + label.checkbox:before {
+  content: " ";
+  border: 1px solid;
+  position: absolute;
+  width: 2em;
+  height: 2em;
+  left: 0.7em;
+  border-radius: 0.4em;
+  top: 0.7em;
+}
+input[type="checkbox"]:checked + label.checkbox:after {
+  content: "\2713";
+  font-size: 1.8em;
+  position: absolute;
+  left: 0.6em;
+  top: 0.3em;
+}
+ol {
+  max-width: 30em;
+  text-align: left;
+  margin: 4em auto;
+  padding: 0;
+}
+ol li {
+  margin: 1.5em 0 1.5em 0;
+}
+/* 
+input[type="checkbox"]:invalid + label {
+  color: red;
+  border-color: red;
+} */
 
 /* .subscription {
   display: flex;
