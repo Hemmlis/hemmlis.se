@@ -11,6 +11,15 @@
     
     
     <item>
+      <title>Hyresvillkor för Hemmlis (Sin Pantal EF)</title>
+      <link>http://www.hemmlis.se/form/contract/</link>
+      <pubDate>Mon, 06 Aug 2018 13:36:30 +0100</pubDate>
+      
+      <guid>http://www.hemmlis.se/form/contract/</guid>
+      <description>§1. Uthyrningsperiod  Hyrestagaren binder sig att hyra hyresgodset under perioden specificerad vid beställning. Efter den specificerade perioden förnyas avtalet löpande månadsvis om inte hyrestagaren eller uthyraren säger upp avtalet.  §2. Priser  Pris för hyresgodset framgår i det material som skickas vid bokning av rummet. I priset för rummet ingår leverans, upphämtning samt reparation eller byte av möbler som går sönder under hyrestiden. Faktura skickas i början av varje termin.</description>
+    </item>
+    
+    <item>
       <title>Något gick snett!</title>
       <link>http://www.hemmlis.se/form/error/</link>
       <pubDate>Fri, 17 Nov 2017 13:36:30 +0100</pubDate>
@@ -25,7 +34,8 @@
       <pubDate>Fri, 17 Nov 2017 13:36:30 +0100</pubDate>
       
       <guid>http://www.hemmlis.se/form/success/</guid>
-      <description>Vi kontaktar dig inom 24 timmar för att bekräfta din beställning.</description>
+      <description>En orderbekräftelse har skickats till din mail.
+Vi kontaktar dig via SMS inom 24 timmar med ett fastställt leveransdatum. Vid frågor kontakta oss på order@hemmlis.se eller ring +46 (0)46 276 90 06.</description>
     </item>
     
   </channel>

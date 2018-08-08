@@ -93,6 +93,21 @@
   </url>
   
   <url>
+    <loc>http://www.hemmlis.se/en/form/contract/</loc>
+    <lastmod>2018-08-06T13:36:30+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="http://www.hemmlis.se/form/contract/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.hemmlis.se/en/form/contract/"
+                />
+  </url>
+  
+  <url>
     <loc>http://www.hemmlis.se/en/collections/kollektion-2003/</loc>
     <lastmod>2018-07-11T16:35:49+02:00</lastmod>
     <xhtml:link

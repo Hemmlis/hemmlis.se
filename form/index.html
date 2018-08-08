@@ -91,14 +91,15 @@
 
   <article class="l-container">
     <h2>Jag vill hyra möbler</h2>
-  <form id="lease-form" aria-busy="false" data-success-url="/form/success" data-error-url="/form/error">
+  <form id="lease-form" aria-busy="false" data-success-url='http://www.hemmlis.se/form/success' data-error-url='http://www.hemmlis.se/form/error'>
     <fieldset class="subscription"> 
+      <input type="hidden" value="sv" name="language" id="language">
       <legend>Abonnemang</legend>
       <div class="help">
         <span class="help-icon">?</span>
         <div class="help-info">
-          <p>Hyr för en termin och betala hela kostnaden i klump om du vet att du behöver möbler för enbart en termin</p>
-          <p>Vårt vanliga erbjudande är annars löpande med en minsta uthyrningstid på 10 månader</p>
+          <p>Om du vet att du bara behöver möbler en termin erbjuder vi ett abonnemang med lägre bindningstid (en termin, 5 månader).</p>
+          <p>Vårt vanliga abonnemang är löpande med en minsta uthyrningstid på 10 månader</p>
         </div>
       </div>
       <input type="radio" name="subscription" value="short" id="subscriptionShort">
@@ -433,8 +434,8 @@
       <div class="help">
         <span class="help-icon">?</span>
         <div class="help-info">
-          <p>Vi levererar i normala fall inom 5 dagar från valt datum.</p>
-          <p>Lämna en kommentar i fältet för speciella önskemål, eller kontakta oss för mer information.</p>
+          <p>Vi strävar efter att leverera inom 2 dygn från ditt önskade leveransdatum (förusatt att du bokar senast 5 dagar innan önskad leverans).</p>
+          <p>Vi kontaktar dig via SMS inom 24 timmar efter beställning med ett fastställt leveransdatum. Leverans sker på kvällar och helger.</p>
         </div>
       </div>
       <legend>Leverans</legend>
@@ -444,7 +445,7 @@
       <label for="other">Övrig information</label>
       <input type="text" name="other" placeholder='Övriga frågor eller anmärkningar' id="other" size="30">
     </fieldset>
-    <fieldset>
+    <fieldset style="display: none">
       <legend>Betalning</legend>
       <input type="radio" name="payment" value="1" data-name="/ mån" id="paypermonth" checked>
       <label class="label-wide" for="paypermonth">
@@ -472,8 +473,8 @@
       <div class="help">
         <span class="help-icon">?</span>
         <div class="help-info">
-          <p>Betalning av fakturor sker via banktransaktion eller till vårt Paypal-konto.</p>
-          <p>Fakturorna skickas via e-mail baserat på din valda faktureringsperiod.</p>
+          <p>Betalning sker via Paypal. Du få en faktura för hela uthyrningen som du kan delbetala i den egna takt.</p>
+          <p>Fakturorna skickas via e-mail. Efter bindningstiden fakutereras du per månad om du inte uppdaterar ditt abonnemang.</p>
         </div>
       </div>
       <input type="checkbox" name="useInvoiceEmail" id="useInvoiceEmail" value="useInvoiceEmail">
@@ -483,10 +484,15 @@
         <input type="invoiceEmail" name="invoiceEmail" placeholder='faktura@mail.se' id="invoiceEmail" size="30">
       </div>
     </fieldset>
+    <fieldset>
+      <legend>Villkor</legend>
+      <p><a target="_blank" class="arrow-link" href='http://www.hemmlis.se/form/contract'>Läs avtalsvillkoren här (öppnas i ett nytt fönster)</a></p>
+      <input required type="checkbox" name="acceptTerms" id="acceptTerms" value="acceptTerms">
+      <label class="label checkbox" for="acceptTerms">Jag godkänner ovan nämnda avtalsvillkor</label>
+    </fieldset>
     <div class="l-center">
       <div style="width: 60%; margin: 0 auto;">
         <p><i>Personuppgifterna i detta formulär kommer endast användas för behandling av din beställning.</i></p>
-        <p>Vi kontaktar dig medelst e-mail inom 24 timmar för orderbekräftelse och mer information.</p>
       </div>
       <input role="button" class="l-button" type="submit" value='Beställ'>
     </div>

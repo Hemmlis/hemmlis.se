@@ -91,13 +91,14 @@
 
   <article class="l-container">
     <h2>Subscribe to a collection</h2>
-  <form id="lease-form" aria-busy="false" data-success-url="/form/success" data-error-url="/form/error">
+  <form id="lease-form" aria-busy="false" data-success-url='http://www.hemmlis.se/en/form/success' data-error-url='http://www.hemmlis.se/en/form/error'>
     <fieldset class="subscription"> 
+      <input type="hidden" value="en" name="language" id="language">
       <legend>Subscription</legend>
       <div class="help">
         <span class="help-icon">?</span>
         <div class="help-info">
-          <p>If you&#39;re staying for one semester you can opt to pay for the entire semester in advance.</p>
+          <p>If you&#39;re staying for one semester we offer a subscription with a lower binding period of one semester (5 months)</p>
           <p>Our ordinary subscription plan has a minimum subscription time of 10 months.</p>
         </div>
       </div>
@@ -433,8 +434,8 @@
       <div class="help">
         <span class="help-icon">?</span>
         <div class="help-info">
-          <p>Ordinary delivery is usually within five days from specified date.</p>
-          <p>Leave a comment in the field for special requests or contact us for more information.</p>
+          <p>We strive to deliver within 2 days of your selected delivery date (if you place your order at least 5 days in advance). </p>
+          <p>We will contact you by SMS within 24 hours of ordering with a confirmed delivery date. We deliver evenings and weekends.</p>
         </div>
       </div>
       <legend>Delivery</legend>
@@ -444,7 +445,7 @@
       <label for="other">Other information</label>
       <input type="text" name="other" placeholder='Other questions or remarks' id="other" size="30">
     </fieldset>
-    <fieldset>
+    <fieldset style="display: none">
       <legend>Payment</legend>
       <input type="radio" name="payment" value="1" data-name="/ mån" id="paypermonth" checked>
       <label class="label-wide" for="paypermonth">
@@ -472,8 +473,8 @@
       <div class="help">
         <span class="help-icon">?</span>
         <div class="help-info">
-          <p>Invoice payments can be made through bank transactions or to our Paypal account.</p>
-          <p>Invoice will be sent through e-mail depending on your prefered payment period.</p>
+          <p>We use PayPal for payment. You receive one invoice for the entier subscription period which you can choose to pay in full or in parts (at your discretion) during the subsription period.</p>
+          <p>Invoices will be sent by e-mail. After your minimum subscription period you will be invoiced monthly unless you upgrade your subscription.</p>
         </div>
       </div>
       <input type="checkbox" name="useInvoiceEmail" id="useInvoiceEmail" value="useInvoiceEmail">
@@ -483,10 +484,15 @@
         <input type="invoiceEmail" name="invoiceEmail" placeholder='invoice@mail.com' id="invoiceEmail" size="30">
       </div>
     </fieldset>
+    <fieldset>
+      <legend>Terms</legend>
+      <p><a target="_blank" class="arrow-link" href='http://www.hemmlis.se/en/form/contract'>Read the terms here (opens in new window)</a></p>
+      <input required type="checkbox" name="acceptTerms" id="acceptTerms" value="acceptTerms">
+      <label class="label checkbox" for="acceptTerms">I accept the terms stated in the above link</label>
+    </fieldset>
     <div class="l-center">
       <div style="width: 60%; margin: 0 auto;">
         <p><i>The personal information received through this form will only be used for subscription order treatment.</i></p>
-        <p>We will contact you through email within 24 hours with subscription confirmation details.</p>
       </div>
       <input role="button" class="l-button" type="submit" value='Subscribe'>
     </div>
