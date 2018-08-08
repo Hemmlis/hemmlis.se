@@ -1,6 +1,6 @@
 +++
 date = "2017-02-21T12:25:30+01:00"
-title = "What happens when my subscription is up?"
+title = "What happens when I want to end my subscription?"
 
 +++
-We collect the furniture at the end of the subscription period at a date agreed between us and you. We carry the furniture from your apartment without further costs, provided we have access to them. Pickup of your furniture is included in your subscription.
+When you are done with your furniture simply contact us and we will come and collect the furniture at an agreed upon date. This is included in your subscription!

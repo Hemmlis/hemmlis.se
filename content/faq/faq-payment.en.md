@@ -3,4 +3,4 @@ date = "2017-02-21T12:25:30+01:00"
 title = "How do I pay?"
 
 +++
-Invoices are sent out according to your subscription payment-plan (per month/quarter/whole sum directly) to your chosen e-mail address and on the invoices all information you need to pay are stated. Transactions can be made to directly to our bank or PayPal account. If you choose to pay through PayPal we will send you invoices where you can pay with you international bank card (observe that transaction fees might incur for currency exchanges).
+We use PayPal to invoice you by e-mail. Your invoice is sent out at the beginning of your subscription on a per-semester basis. You can opt to pay everything at once or split up at your own discretion during your subscription period. After your binding period is up you will be invoiced monthly. _Note that transaction fees may apply._
