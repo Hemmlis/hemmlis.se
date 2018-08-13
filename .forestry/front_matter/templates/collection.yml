@@ -14,7 +14,6 @@ fields:
   config:
     required: true
 pages:
-- content/collections/Kollektion 1009.md
 - content/collections/kollektion-1007.md
 - content/collections/kollektion-1006.md
 - content/collections/kollektion-2001.md
