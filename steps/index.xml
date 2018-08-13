@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Steps on Hemmlis</title>
+    <link>http://www.hemmlis.se/steps/</link>
+    <description>Recent content in Steps on Hemmlis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 04 Aug 2017 10:58:42 +0200</lastBuildDate>
+    
+	<atom:link href="http://www.hemmlis.se/steps/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Möbelinsamlingen</title>
+      <link>http://www.hemmlis.se/steps/gathering/</link>
+      <pubDate>Fri, 04 Aug 2017 10:58:42 +0200</pubDate>
+      
+      <guid>http://www.hemmlis.se/steps/gathering/</guid>
+      <description>Hemmlis får alla sina möbler i andrahand. Vissa hämtar vi upp från privatpersoner som vi själva kontaktar via bytesgrupper på nätet, andra får vi genom samarbetspartners som t.ex. Emmaus Fredriksdal. I vissa fall kompletterar vi möblemang via second-hand inköp i andrahandsbutiker eller på loppis.
+Privatpersoner kan också skänka möbler till oss och tar då själva kontakt via vår facebooksida eller epost. Vi försöker att främst samla in möbler lokalt kring Lund för att sänka vår logistiska miljöpåverkan i den mån det är möjligt.</description>
+    </item>
+    
+    <item>
+      <title>Tillfixandet</title>
+      <link>http://www.hemmlis.se/steps/fixing/</link>
+      <pubDate>Fri, 04 Aug 2017 10:58:42 +0200</pubDate>
+      
+      <guid>http://www.hemmlis.se/steps/fixing/</guid>
+      <description>Det första vi gör är alltid att sanera våra möbler enligt branschstandard, genom dammsugning, tvätt och miljövänlig ångtvätt. Detta gäller i synnerhet för textilmöbler, bäddmadrasser och sängar som vi även textilvårdar på miljövänlig väg. Sedan reparerar vi och upprustar möblerna efter behov, exempelvis genom ommålning eller slipning.
+Ibland bygger vi även om möblerna eller byter ut vissa delar för att skapa funktionsdugliga och estetiskt tilltalande komponenter till våra möbelkollektioner. Vissa av våra kollektioner innehåller därför helt omdesignade föremål!</description>
+    </item>
+    
+    <item>
+      <title>Kollektionerna</title>
+      <link>http://www.hemmlis.se/steps/order/</link>
+      <pubDate>Fri, 04 Aug 2017 11:28:53 +0200</pubDate>
+      
+      <guid>http://www.hemmlis.se/steps/order/</guid>
+      <description>Våra kollektioner består av 5-6 enskilda möbler som vi har satt ihop efter ett enhetligt designkoncept. Ibland har vi tagit in gästande designers till verkstaden för att ta fram spännande eklektiska (stilblandad) designkoncept som rör allt från till vintage, modern, nordisk design och rokoko. Kollektionerna är anpassade för studentrum på ca 15-20 kvadratmeter och ingår i abonnemanget.</description>
+    </item>
+    
+    <item>
+      <title>Uthyrningen</title>
+      <link>http://www.hemmlis.se/steps/delivery/</link>
+      <pubDate>Fri, 04 Aug 2017 11:29:16 +0200</pubDate>
+      
+      <guid>http://www.hemmlis.se/steps/delivery/</guid>
+      <description>Minsta uthyrningstid på våra abonnemang är en termin (ca fem månader) till en kostnad från 499:- i månaden.
+Vi levererar dina möbler till din hemadress, reparerar eventuella skador under uthyrningsperioden och hämtar även upp möblerna igen efter uthyrningsperioden .</description>
+    </item>
+    
+    <item>
+      <title>Återbruket</title>
+      <link>http://www.hemmlis.se/steps/exchange/</link>
+      <pubDate>Fri, 04 Aug 2017 11:29:41 +0200</pubDate>
+      
+      <guid>http://www.hemmlis.se/steps/exchange/</guid>
+      <description>Möbler som hyrts ut återtas in i vårt cirkulära system för att på nytt saneras, fräschas upp och hyras ut. På så sätt skapar vi ett alternativ till möbelkonsumtion som vi tror kommer att reducera möbelsvinnet och stor del av den miljöpåverkan som följer i möbelindustrins och överkonsumtionens spår.
+För att detta ska fungera krävs en stor dos tillit från vår sida. Vi hoppas och tror att ni som är våra kunder använder våra möbler förnuftigt så vi kan fortsätta att erbjuda er schyssta möbelkollektioner också i framtiden.</description>
+    </item>
+    
+    <item>
+      <title>Retake</title>
+      <link>http://www.hemmlis.se/steps/retake/</link>
+      <pubDate>Fri, 04 Aug 2017 11:29:28 +0200</pubDate>
+      
+      <guid>http://www.hemmlis.se/steps/retake/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

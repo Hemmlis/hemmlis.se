@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Faqs on Hemmlis</title>
+    <link>http://www.hemmlis.se/faq/</link>
+    <description>Recent content in Faqs on Hemmlis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 21 Feb 2017 12:25:30 +0100</lastBuildDate>
+    
+	<atom:link href="http://www.hemmlis.se/faq/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hur betalar jag?</title>
+      <link>http://www.hemmlis.se/faq/faq-payment/</link>
+      <pubDate>Tue, 21 Feb 2017 12:25:30 +0100</pubDate>
+      
+      <guid>http://www.hemmlis.se/faq/faq-payment/</guid>
+      <description>Vi använder PayPal för att skicka dina fakturor via e-mail. Du faktureras på terminsbasis med hela terminens belopp, som du sedan kan välja att delbetala som du vill. Du kan också betala allt på en gång. När din bindingstid är slut faktureras du månatligen.</description>
+    </item>
+    
+    <item>
+      <title>Hur kommer möblerna hem till mig?</title>
+      <link>http://www.hemmlis.se/faq/faq-delivery/</link>
+      <pubDate>Tue, 21 Feb 2017 12:25:30 +0100</pubDate>
+      
+      <guid>http://www.hemmlis.se/faq/faq-delivery/</guid>
+      <description>Leverans utanför ditt boende ingår i abonnemanget. Vi levererar på kvällar och helger. Efter genomförd order kontaktar vi dig inom 24 timmar via SMS för att bekräfta leveransdatumet.
+Leverans in i rummet går att få för 499kr (inkl. moms).
+Vår målsättning är att leverera möblerna på dagen du tillträder din lägenhet, men med avseende för högt tryck reserverar vi oss för eventuella dröjsmål. Gör din beställning tidigt för att försäkra dig om att du får dina möbler i tid!</description>
+    </item>
+    
+    <item>
+      <title>Hur länge får jag hyra möblerna?</title>
+      <link>http://www.hemmlis.se/faq/faq-length/</link>
+      <pubDate>Tue, 21 Feb 2017 12:25:30 +0100</pubDate>
+      
+      <guid>http://www.hemmlis.se/faq/faq-length/</guid>
+      <description>Ett av våra abonnemang har en kortare bindingstid på 5 månader, perfekt för en termin! Vårt standardabonnemang har en bindingstid på 10 månader.
+Efter bindingstiden är slut fortsätter ditt abonnemang att rulla på månatlig basis tills du vill avsluta eller uppgradera det.</description>
+    </item>
+    
+    <item>
+      <title>Kan jag byta ut enstaka möbler?</title>
+      <link>http://www.hemmlis.se/faq/faq-substitution/</link>
+      <pubDate>Tue, 21 Feb 2017 12:25:30 +0100</pubDate>
+      
+      <guid>http://www.hemmlis.se/faq/faq-substitution/</guid>
+      <description>Vi hyr ut kollektionerna som de är. Skulle det vara så att du vill byta ut någon möbel kan du kontakta oss så gör vi vårt bästa för att lösa det. Vi kan dock inte garantera att utbyte är möjligt.</description>
+    </item>
+    
+    <item>
+      <title>Vad händer när jag avslutar min prenumeration?</title>
+      <link>http://www.hemmlis.se/faq/faq-ending/</link>
+      <pubDate>Tue, 21 Feb 2017 12:25:30 +0100</pubDate>
+      
+      <guid>http://www.hemmlis.se/faq/faq-ending/</guid>
+      <description>När du är klar med dina möbler är det bara att höra av dig så kommer vi och hämtar upp allt. Detta ingår i tjänsten!</description>
+    </item>
+    
+    <item>
+      <title>Vad händer om något går sönder?</title>
+      <link>http://www.hemmlis.se/faq/faq-breakage/</link>
+      <pubDate>Tue, 21 Feb 2017 12:25:30 +0100</pubDate>
+      
+      <guid>http://www.hemmlis.se/faq/faq-breakage/</guid>
+      <description>Om något går sönder kommer vi ut och reparerar eller ersätter det. Om skadan bedöms vara till följd av normal användning kostar detta inget för dig! Mer detaljerad information finns i dokumentet som levereras med möblerna.</description>
+    </item>
+    
+    <item>
+      <title>Vad ingår?</title>
+      <link>http://www.hemmlis.se/faq/faq-included/</link>
+      <pubDate>Tue, 21 Feb 2017 12:25:30 +0100</pubDate>
+      
+      <guid>http://www.hemmlis.se/faq/faq-included/</guid>
+      <description>Inkluderat i priset för båda abonnemang är en trottoarleverans, upphämtning och en kollektion av möbler med följande möbeltyper:
+ En 90-cm bred säng med bäddmadrass En bokhylla En stol Ett skrivbord/litet matbord (beroende på kollektion) Ett nattduksbord En fåtölj  En bredare säng (120 cm) kan fås för en extra kostnad.</description>
+    </item>
+    
+    <item>
+      <title>Vem kan hyra möblerna?</title>
+      <link>http://www.hemmlis.se/faq/faq-who/</link>
+      <pubDate>Tue, 21 Feb 2017 12:25:30 +0100</pubDate>
+      
+      <guid>http://www.hemmlis.se/faq/faq-who/</guid>
+      <description>Vem som helst kan hyra möbler! Kollektionerna är dock perfekta för ett studentrum (på 15-20 kvadratmeter).</description>
+    </item>
+    
+  </channel>
+</rss>
