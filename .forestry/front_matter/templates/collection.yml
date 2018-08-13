@@ -14,6 +14,7 @@ fields:
   config:
     required: true
 pages:
+- content/collections/kollekton-2014.md
 - content/collections/kollekton-2013.md
 - content/collections/kollekton-2012.md
 - content/collections/kollekton-2011.md
