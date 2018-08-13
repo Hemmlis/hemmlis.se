@@ -5,23 +5,24 @@ summary = "Here's for delayed flights and simple solutions! "
 title = "Anna & Evan"
 
 +++
-![](https://res.cloudinary.com/hemmlis/v1534153925/Anna_1.jpg)The only thing certain in student life is turbulence, something our Norwegian patron Anna Parnefält Störksen found already upon entering Swedish air space.   
-“Our plane was delayed as you remember, but you guys were really understanding and solved my delivery without fuss.”
+![](https://res.cloudinary.com/hemmlis/v1534153925/Anna_1.jpg)Det enda du kan vara säker på som student är turbulens. Det upptäckte vår norska kund Anna Parnefält Störksen redan i luften när hon flög in från Bergen. 
 
-Because the only way to counter balance instability - whether airbound or in life in general - is flexibility. That’s why Hemmlis doesn't just rent out furniture, we provide the service of feeling at home. For Anna, that meant changing up her collection which she no longer had any room for, just a few days after delivery. And we were quick to respond to her new needs.
+“Vårt plan var försenat, som ni kanske kommer ihåg, men ni var verkligen förstående och löste min leverans utan problem.”
 
-“I was just staying here for one semester so it felt so messy to go and buy furniture at \[insert other furniture company\]. Using Hemmlis instead was so simple and everything’s been running by itself. I mean, you help out really quickly also when I needed to change some parts in the collection and the pickup really helped”
+Det enda sättet att balansera ut instabilitet - i luften eller i livet generellt - är just flexibilitet. Det är därför Hemmlis inte bara hyr ut möbler, utan tillgodoser våra kunder med känslan av ett hem. För Anna innebar hennes hemtrevnad att hon behövde byta ut delar av sin kollektion som inte längre fick plats i sitt rum, bara några dagar efter leverans. Och vi var så klart snabba att tillgodose hennes nya behov. 
+
+“Jag stannade här bara i en termin så det kändes så rörigt att köpa möbler på \[stort möbelföretag\]. Att använda Hemmlis istället var enkelt och allt har kört på av sig själv. Jag menar, ni var verkligen snabba också när jag behövde byta ut delar i min kollektion och själva upphämtningen av möblerna hjälpte verkligen.”
 
 ![](https://res.cloudinary.com/hemmlis/v1534153871/Evan_1.jpg)
 
-We try to provide this convenience to all customers, European and Non-european patrons alike. Evan Murphy rode across the atlantic from the United States, and choose to pre-order his collection from us. That way he could move straight into his new home when arriving.
+Vi siktar på att tillgodose denna bekvämlighet till alla våra kunder, europeiska som icke-europeiska. Evan Murphy reste över Atlanten från USA och valde att förbeställa sin kollektion från oss. På så sätt kunde han flytta rakt in i sitt nya hem när han anlände till Lund.
 
-“I choose you guys cause you made it really simple to get furniture, straight to my building and into my room. It worked really well with the drop off and pick up times aswell, so yeah, that’s really it.  It was as simple as a furniture service could get for someone like me.”
+“Jag valde er för att ni gjorde det så enkelt att få tag på möbler, till min byggnad och in i mitt rum. Det fungerade verkligen bra med leverans- och upphämtningstider också. Så ja… det är verkligen allt. Det var så enkelt som en möbeltjänst kunde funka för någon i min sits.”
 
-When Evans was asked to provide three words that describe Hemmlis he did not have to think long:
+När Evan ombads beskriva oss med tre ord behövde han inte tänka länge.
 
-“\*thinks\*... Simple furniture rental.”
+“\*thinks\*... Simple (Enkel) furniture rental (möbel-hyrning).”
 
-Well, less is more, as the saying goes. Jumping back to Anna, and her final statement capturing the mindset that Hemmlis embrace in her three norwegian words:
+Tja, “less is more”, som ordspråket lyder. För att hoppa tillbaka till Anna och hennes sista uttalande som lyckas fånga Hemmlis strävan i de tre norska orden:
 
-“Enkel (simple), gjenbruk (reuse), bekvemt (convenient).”
+“Enkel (enkel), gjenbruk (återbruk), bekvemt (bekvämt).”
