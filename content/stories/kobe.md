@@ -6,9 +6,7 @@ summary = "Here's for delayed flights and simple solutions! "
 title = "Anna & Evan"
 
 +++
-![](https://res.cloudinary.com/hemmlis/v1534153925/Anna_1.jpg)
-
-The only thing certain in student life is turbulence, something our Norwegian patron Anna Parnefält Störksen found already upon entering Swedish air space.   
+![](https://res.cloudinary.com/hemmlis/v1534153925/Anna_1.jpg)The only thing certain in student life is turbulence, something our Norwegian patron Anna Parnefält Störksen found already upon entering Swedish air space.   
 “Our plane was delayed as you remember, but you guys were really understanding and solved my delivery without fuss.”
 
 Because the only way to counter balance instability - whether airbound or in life in general - is flexibility. That’s why Hemmlis doesn't just rent out furniture, we provide the service of feeling at home. For Anna, that meant changing up her collection which she no longer had any room for, just a few days after delivery. And we were quick to respond to her new needs.
