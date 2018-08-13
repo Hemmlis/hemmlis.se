@@ -1,7 +1,7 @@
 +++
 date = "2018-08-13T11:22:06+02:00"
 id = 2
-summary = "Here's for delayed flights and simple solutions! "
+summary = "Hur gör man sitt nya hem till ett riktigt hem? Våra stories om turbulens och enkelhet signerade Anna och Evan!"
 title = "Anna & Evan"
 
 +++
