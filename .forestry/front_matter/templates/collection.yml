@@ -14,6 +14,8 @@ fields:
   config:
     required: true
 pages:
+- content/collections/kollektion-1009.md
+- content/collections/kollektion-1010.md
 - content/collections/kollektion-1014.md
 - content/collections/kollektion-1022.md
 - content/collections/kollektion-1023.md
@@ -27,8 +29,6 @@ pages:
 - content/collections/kollektion-1013.md
 - content/collections/kollektion-1012.md
 - content/collections/kollektion-1011.md
-- content/collections/kollektion-1010.md
-- content/collections/kollektion-1009.md
 - content/collections/kollektion-1007.md
 - content/collections/kollektion-1006.md
 - content/collections/kollektion-2001.md
