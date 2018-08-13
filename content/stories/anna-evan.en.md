@@ -1,6 +1,5 @@
 +++
 date = "2018-08-13T16:46:40+02:00"
-draft = true
 id = 2
 summary = "How do you make a home to a real home? Our stories about turbulence and simplicity signed by Anna and Evan!"
 title = "Anna & Evan"
