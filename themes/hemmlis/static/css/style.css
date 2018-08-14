@@ -1010,8 +1010,9 @@ span[data-fee] {
     width: 100%;
   }
   .l-constrained, .l-constrained-text {
-    padding-left: 2rem;
-    padding-right: 2rem;
+    width: 90%;
+    padding-left: 5%;
+    padding-right: 5%;
   }
   .l-grid-feature, .l-grid-feature-image-index {
     width: 100%;
