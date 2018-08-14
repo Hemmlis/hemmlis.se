@@ -44,15 +44,15 @@ fields:
   hidden: false
   default: false
 pages:
-- content/steps/exchange.sv.md
-- content/steps/order.en.md
-- content/steps/order.sv.md
-- content/steps/exchange.en.md
-- content/steps/delivery.sv.md
 - content/steps/delivery.en.md
 - content/steps/gathering.sv.md
 - content/steps/fixing.en.md
-- content/steps/fixing.sv.md
-- content/steps/retake.en.md
+- content/steps/order.en.md
+- content/steps/exchange.sv.md
+- content/steps/delivery.sv.md
+- content/steps/exchange.en.md
+- content/steps/order.sv.md
 - content/steps/gathering.en.md
+- content/steps/retake.en.md
+- content/steps/fixing.sv.md
 - content/steps/retake.sv.md

@@ -34,9 +34,9 @@ fields:
   hidden: false
   default: false
 pages:
-- content/partners/stenkrossen.sv.md
 - content/partners/leapfrogs.sv.md
-- content/partners/myllan.sv.md
-- content/partners/thecreativeplot.sv.md
+- content/partners/stenkrossen.sv.md
 - content/partners/emmaus.sv.md
+- content/partners/thecreativeplot.sv.md
+- content/partners/myllan.sv.md
 - content/partners/_index.sv.md
