@@ -3,17 +3,21 @@ date = "2018-08-06T13:36:30+01:00"
 title = "Hyresvillkor för Hemmlis (Sin Pantal EF)"
 
 +++
-### **§1. Uthyrningsperiod**
+### **Defenitioner**
+
+Uthyrare - Sin Pantal EF (“Hemmlis”)  
+Hyrestagare - Kund  
+Hyresgods - De objekt kunden beställt och hyr.
+
+**§1. Uthyrningsperiod**
 
 1. Hyrestagaren binder sig att hyra hyresgodset under perioden specificerad vid beställning.
-2. Efter den specificerade perioden förnyas avtalet löpande månadsvis om inte hyrestagaren eller uthyraren säger upp avtalet.
+2. Efter den specificerade perioden förnyas avtalet löpande månadsvis tills dess att hyrestagaren eller uthyraren säger upp avtalet.
 
 **§2. Priser**
 
 1. Pris för hyresgodset framgår i det material som skickas vid bokning av kollektionen.
-2. I priset för kollektionen ingår leverans, upphämtning samt reparation eller byte av möbler som går sönder under hyrestiden. 
-3. Faktura skickas i början av varje termin. Hyrestagaren kan välja att betala hela denna på en gång eller göra en avbetalning varje månad. Om leverans sker mitt i en månad utgår priset proportionellt för de dagar som kvarstår i månaden.
-4. Vid försenad betalning av faktura utgår förseningsavgift om 50kr. Efter påminnelse skickas ärendet vidare till inkasso.
+2. I priset för kollektionen ingår leverans till ytterdörren (om inte leverans in i rummet beställts), upphämtning samt reparation eller byte av möbler som går sönder under hyrestiden. 
 
 **§3. Betalning** 
 
@@ -28,20 +32,20 @@ title = "Hyresvillkor för Hemmlis (Sin Pantal EF)"
 
 1. Hyrestagaren kan inte säga upp hyresavtalet förrän utgång av uthyrningsperioden specificerad i §1,1.
 2. Uppsägning skall vara uthyraren tillhanda senast den första dagen i månaden för att nästa månad inte skall debiteras. 
-3. Om uthyraren önskar säga upp avtalet skall detta meddelas hyrestagaren senast två månader (60 dagar) innan uthyraren önskar hämta uthyrningsgodset.   
-   Undantag från detta finns i §4, 4-5.
-4. Om betalning trots påminnelse inte inkommit fyrtiofem dagar efter fakturas förfallodatum förbehåller sig uthyraren rätten att med omedelbar verkan säga upp avtalet och hämta hyresgodset. De kostnader som förknippas med detta faktureras till kund.
+3. Om uthyraren önskar säga upp avtalet skall detta meddelas hyrestagaren senast två månader (60 dagar) innan uthyraren önskar hämta hyresgodset.   
+   Undantag från detta finns i §4,5-6.
+4. Om betalning trots påminnelse inte inkommit fyrtiofem dagar efter fakturans förfallodatum förbehåller sig uthyraren rätten att med omedelbar verkan säga upp avtalet och hämta hyresgodset. De kostnader som förknippas med detta faktureras till kund.
 5. Om uthyraren har en befogad oro att hyresgodset kan komma till sådan skada som överstiger vanligt bruksslitage förbehåller sig uthyraren rätten att med omedelbar verkan säga upp avtalet och hämta hyresgodset. De kostnader som förknippas med detta åläggs hyrestagaren att betala.
 
 **§5. Leverans**
 
 1. Hyresgodset levereras till hyrestagarens ytterdörr utan extra kostnad. Genom mottagandet av leveransen har hyrestagaren fått möjlighet till inspektion av möblerna och godkänner därmed vid underskrift möblernas skick. 
 2. Hyrestagaren kan betala extra för att få leverans hela vägen in i sitt rum.
-3. Hemmlis avtalar lämplig leveransdag i samråd med hyresgästen.
+3. Uthyraren avtalar lämplig leveransdag i samråd med hyresgästen.
 4. Från beställningsdag garanteras leverans inom fem arbetsdagar.
 5. Om beställning gjorts i tid (se ovan) garanteras leverans på av hyrestagaren önskat datum plus två dygn.  
    Vilken dag leveransen kommer att ske meddelas senast två dagar före den önskade leveransdagen.
-6. Hyrestagaren måste under den överenskomna leveransdagen finnas tillgänglig för att motta hyresgodset. Om extra utkörning behöver göras på grund av omständigheter under hyrestagarens kontroll utgår extra avgift om 500kr.
+6. Hyrestagaren måste under den överenskomna leveransdagen finnas tillgänglig för att motta hyresgodset. Om extra utkörning behöver göras på grund av omständigheter under hyrestagarens kontroll utgår extra avgift om 500 kr.
 
 **§6. Avhämtning**
 
@@ -52,11 +56,11 @@ title = "Hyresvillkor för Hemmlis (Sin Pantal EF)"
 
 **§7. Ansvar**
 
-1. Hyrestagaren ansvarar för allt hyrgods under hyrestiden och är skyldig att ersätta alla skador och svinn till fulla varuvärdet som överstiger vanligt bruksslitage.
+1. Hyrestagaren ansvarar för allt hyresgods under hyrestiden och är skyldig att ersätta alla skador och svinn till fulla varuvärdet som överstiger vanligt bruksslitage.
 2. Förstört/ersatt material tillfaller inte hyrestagaren utan stannar i uthyrarens ägo.
-3. Sin Pantal EF ansvarar inte för eventuella skador som kan uppstå i samband med användning eller hantering av hyresgodset.
+3. Uthyraren ansvarar ej för eventuella skador på annan egendom eller på person som kan uppstå i samband med användning eller hantering av hyresgodset.
 
 **§8. Användarinformation**
 
-1. Tänk på att hyresgodset skall återlämnas i samma skick som vid utlämnandet samt vara väl rengjort.
-2. Det är inte tillåtet att nita, spika eller märka med egna klistermärken eller på något annat vis modifiera hyresgodset på ett sätt som hyrestagaren inte själv enkelt kan återställa.
+1. Hyresgodset skall återlämnas i samma skick som vid utlämnandet samt vara väl rengjort och tömt på personliga objekt.
+   * Det är inte tillåtet att nita, spika eller märka med egna klistermärken eller på något annat vis modifiera hyresgodset på ett sätt som hyrestagaren inte enkelt kan återställa.
