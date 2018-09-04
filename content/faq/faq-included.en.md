@@ -12,4 +12,4 @@ Included in the price for both subscriptions is a to-your-door-delivery, pick up
 * One nightstand
 * One armchair
 
-You can opt for a wider bed ("king size", 120 cm) at a slightly increased cost!
+You can opt for a wider bed (105 cm) at a slightly increased cost!

@@ -12,4 +12,4 @@ Inkluderat i priset för båda abonnemang är en trottoarleverans, upphämtning 
 * Ett nattduksbord
 * En fåtölj
 
-En bredare säng (120 cm) kan fås för en extra kostnad.
+En bredare säng (105 cm) kan fås för en extra kostnad.

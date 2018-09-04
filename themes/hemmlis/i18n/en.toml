@@ -26,7 +26,7 @@ other = "Added"
 other = "Subscribe to this collection"
 
 [widerBed]
-other = "Switch to a wider bed (120 cm)"
+other = "Switch to a wider bed (105 cm)"
 
 [mo]
 other = "/ mo."
@@ -140,10 +140,10 @@ other = "Extra"
 other = "Delivery to your sidewalk, but not into your apartment, is always included."
 
 [theWiderBed]
-other = "The wider bed is 120 cm (king size), as opposed to the ordinary bed which is 90 cm."
+other = "The wider bed is 105 cm, as opposed to the ordinary bed which is 90 cm."
 
 [aWiderBed]
-other = "A wider bed (120 cm)"
+other = "A wider bed (105 cm)"
 
 [within5days]
 other = "We strive to deliver within 2 days of your selected delivery date (if you place your order at least 5 days in advance). "

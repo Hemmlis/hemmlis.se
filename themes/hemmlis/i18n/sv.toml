@@ -29,7 +29,7 @@ other = "Tillagd"
 other = "Beställ kollektionen"
 
 [widerBed]
-other = "Byt till bredare säng (120 cm)"
+other = "Byt till bredare säng (105 cm)"
 
 [mo]
 other = "/ mån"
@@ -143,10 +143,10 @@ other = "Extra"
 other = "Leverans till, men ej in i, ditt hem inkluderas alltid i priset."
 
 [theWiderBed]
-other = "Den bredare sängen är 120 cm bred, till skillnad från den 90 cm breda sängen som annars ingår."
+other = "Den bredare sängen är 105 cm bred, till skillnad från den 90 cm breda sängen som annars ingår."
 
 [aWiderBed]
-other = "En bredare säng (120 cm)"
+other = "En bredare säng (105 cm)"
 
 [within5days]
 other = "Vi strävar efter att leverera inom 2 dygn från ditt önskade leveransdatum (förusatt att du bokar senast 5 dagar innan önskad leverans)."
