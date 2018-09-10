@@ -14,6 +14,8 @@ fields:
   config:
     required: true
 pages:
+- content/collections/kollektion-2014.md
+- content/collections/kollektion-2014.en.md
 - content/collections/kollektion-2013.md
 - content/collections/kollektion-2013.en.md
 - content/collections/kollektion-2012.en.md
