@@ -14,6 +14,8 @@ fields:
   config:
     required: true
 pages:
+- content/collections/kollektion-2008.en.md
+- content/collections/kollektion-2008.md
 - content/collections/kollektion-2024.en.md
 - content/collections/kollektion-2023.en.md
 - content/collections/kollektion-2020.en.md
