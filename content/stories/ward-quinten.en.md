@@ -2,7 +2,7 @@
 date = "2018-09-13T21:53:22+02:00"
 draft = true
 id = 3
-summary = "Why weren’t you at Arrival Day?"
+summary = "Why weren’t you at Arrival Day? Insights and experiences from the Netherlands!"
 title = "Ward & Quinten"
 
 +++
