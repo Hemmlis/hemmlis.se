@@ -13,13 +13,9 @@ Amongst the ones who converted to Hemmlis patrons but also came with invaluable 
 
 “Where were you guys during arrival day?”, Quinten asked us at our booth.
 
-“I already bought a mattress from \[insert other furniture company\] for like 1500 SEK. I never would’ve bought it if I knew you guys existed.”  
-  
-Considering our total subscription rate for a full set of furniture with a bed included is is 2495 SEK (5 month subscription), we could clearly fathom Quintens wallet frustration of our unfortunate absence, but he did chose one of our collections in the end to spare himself the need to go back out to buy stuff. 
+“I already bought a mattress from \[insert other furniture company\] for like 1500 SEK. I never would’ve bought it if I knew you guys existed.”
 
-“Yeah, it’d been ideal to know about you guys at Arrival day so you don’t need to stress about furniture. There were alot of booths on Arrival Day for accommodation, which makes sense, but not really anything for putting into the rooms.” Ward later told us when we delivered his furniture. 
-
-“I was a bit surprised that the University didn’t really take an initiative to fill these rooms. Well, they later organised tours to \[big furniture company\], but you still had to get your stuff from the cathedral to your home. Since I live at Vildanden it’s a 15 minute bike ride which is a bit challenging with a bed on the back of your bike, I guess \[laughs\].”
+Considering our total subscription rate for a full set of furniture with a bed included is is 2495 SEK (5 month subscription), we could clearly fathom Quintens wallet frustration of our unfortunate absence, but he did chose one of our collections in the end to spare himself the need to go back out to buy stuff.
 
 “Transportation is such a key for exchange student, since we can’t fit these things into a taxi or rent trucks.”
 
@@ -35,10 +31,10 @@ Leasing, renting and subscription services is according to our patrons something
 
 Lastly we let them give their take on the three words of Hemmlis where Ward told us it felt ideal, convenient and comfortable. For Quinten, he needed some time to find them in his home language.
 
-“I know the words in dutch, but not really in english.” 
+“I know the words in dutch, but not really in english.”
 
-A day later the words arrived on our email: 
+A day later the words arrived on our email:
 
-* Sustainability (Duurzaamheid) 
+* Sustainability (Duurzaamheid)
 * Convenience (Gemak)
 * Problem-solving (Probleemaanpakkend)
