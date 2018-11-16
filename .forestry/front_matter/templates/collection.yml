@@ -14,8 +14,11 @@ fields:
   config:
     required: true
 pages:
-- content/collections/kollektion-2014.md
+- content/collections/kollektion-2005.md
+- content/collections/kollektion-1006.md
 - content/collections/kollektion-2014.en.md
+- content/collections/kollektion-2004.md
+- content/collections/kollektion-2014.md
 - content/collections/kollektion-2013.md
 - content/collections/kollektion-2013.en.md
 - content/collections/kollektion-2012.en.md
@@ -61,13 +64,10 @@ pages:
 - content/collections/kollektion-1012.md
 - content/collections/kollektion-1011.md
 - content/collections/kollektion-1007.md
-- content/collections/kollektion-1006.md
 - content/collections/kollektion-2001.md
 - content/collections/kollektion-1004.md
 - content/collections/kollektion-2003.md
 - content/collections/kollektion-2006.md
-- content/collections/kollektion-2005.md
-- content/collections/kollektion-2004.md
 - content/collections/kollektion-2002.md
 - content/collections/kollektion-1005.md
 - content/collections/kollektion-1003.md
