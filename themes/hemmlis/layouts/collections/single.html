@@ -39,7 +39,7 @@
               <input type="checkbox" name="wideBed" id="wideBed">
               <label for="wideBed">{{ i18n "widerBed" }}<span data-price="100">100 kr {{ i18n "mo"}}</span></label>
 
-              <input id='{{ .Params.collection }}' role="button" class="l-button" type="submit" value='{{ i18n "rentNow"}}'>
+              <input disabled role="button" class="l-button outStock" type="submit" value='{{ i18n "rentNow"}}'>
 
               <p>{{ i18n "rentDisclaimer"}}</p>
             </fieldset>
