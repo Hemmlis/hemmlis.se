@@ -24,4 +24,5 @@ fields:
   name: date
   label: date
 pages:
+- content/stories/ward-quinten.en.md
 - content/stories/anna-evan.en.md
